@@ -12,36 +12,35 @@
 Eine \emph{Menge} ist eine Sammlung von Objekten, die als ein einziges
 Objekt behandelt wird. Die Objekte, aus denen die Menge besteht, werden \emph{Elemente} oder
 \emph{Mitglieder} der Menge genannt. Wenn $x$ !!a{Element} einer Menge~$a$ ist,
-schreiben wir $x \in a$; wenn nicht, schreiben wir $x \nichtin a$. Die Menge, die keine
+schreiben wir $x \in a$; wenn nicht, schreiben wir $x \notin a$. Die Menge, die keine
 !!{Element}e hat, wird die \emph{leere} Menge genannt und
 bezeichnet mit~``$\emptyset$''.
 
 \begin{explain}
 Es spielt keine Rolle, wie wir die Menge \emph{angeben}, oder wie wir
-\ihre !!{Element}e anordnen, oder wie oft wir
-ihre !!{Element}e zählen. Alles, was zählt, ist, was die !!{Element}e
+ihre !!{Element}e anordnen, oder wie oft wir ihre !!{Element}e zählen. Alles, was zählt, ist, was die !!{Element}e
 sind. Das bringen wir mit dem folgenden Prinzip zum Ausdruck.
 \end{explain}
 
 \begin{defn}[Extensionalität]
-  Wenn $A$ und $B$ Mengen sind, dann ist $A = B$, genau dann, wenn
+  Wenn $A$ und $B$ Mengen sind, dann ist $A = B$ genau dann, wenn
   jedes !!{Element} von~$A$ auch !!ein{Element} von~$B$ ist, und umgekehrt.
 \end{defn}
 
 Die Extensionalität erlaubt eine gewisse Notation. Im Allgemeinen, wenn wir einige
 Objekte $a_{1}$, \dots, $a_{n}$ haben, dann ist $\{a_{1}, \dots, a_{n}\}$
-\emph{die} Menge, deren !!{Element}e $a_1, \dots, a_n$ sind. Wir betonen das Wort ``emph{die}'', da uns die Extensionalität sagt, dass es
+\emph{die} Menge, deren !!{Element}e $a_1, \dots, a_n$ sind. Wir betonen das Wort ``emph{die}'', da es aufgrund der Extensionalität
 nur \emph{eine} solche Menge geben kann. In der Tat erlaubt die Extensionalität auch das
 Folgende:
   \[
     \{a, a, b\} = \{a, b\} = \{b,a\}.
   \] 
-Das zeigt, dass wir uns bei der Betrachtung von Mengen nicht um die Reihenfolge ihrer Elemente kümmern müssen, oder darum,  wie oft sie angegeben sind.
+Das zeigt, dass wir uns bei der Betrachtung von Mengen nicht um die Reihenfolge ihrer Elemente kümmern müssen, oder darum, wie oft sie angegeben sind.
 
 \begin{tagblock}{novice}
 \begin{ex}
-Wann immer wir eine Ansammlung von Objekten haben, können wir sie in einer
-einer Menge zusammenfassen. Die Menge von Richards Geschwistern zum Beispiel ist eine Menge, die
+Wann immer wir eine Ansammlung von Objekten haben, können wir sie in einer Menge zusammenfassen.
+ Die Menge von Richards Geschwistern zum Beispiel ist eine Menge, die
 eine Person enthält, und wir können sie als $S=\{\textrm{Ruth}\}$ schreiben.
 Die Menge der positiven ganzen Zahlen kleiner als $4$ ist $\{1, 2, 3\}$, aber sie
 kann auch als $\{3, 2, 1\}$ oder sogar als $\{1, 2, 1, 2, 3\}$ geschrieben werden.
@@ -53,15 +52,14 @@ von $\{1, 2, 3\}$ ist auch ein !!{Element} von $\{3, 2, 1\}$ (und von $\{1,
 
 Häufig werden wir eine Menge durch eine Eigenschaft spezifizieren, die ihre !!{Element}e
 gemeinsam haben. Wir verwenden dafür die folgende Kurzschreibweise:
-$\Setabs{x}{\phi(x)}$, wobei das $\phi(x)$ für die Eigenschaft steht
-die~$x$ haben muss, um zu den !!{Element}en der Menge gezählt zu werden
-der Menge zu zählen. 
+$\Setabs{x}{\phi(x)}$, wobei das $\phi(x)$ für die Eigenschaft steht,
+die~$x$ haben muss, um zu den !!{Element}en der Menge zu zählen.
 
 \begin{tagblock}{novice}
 \begin{ex}
 In unserem Beispiel hätten wir $S$ auch so angeben können:
 \[
-S = \Setabs{x}{x \text{ist ein Geschwisterchen von Richard}}.
+S = \Setabs{x}{x \text{ist ein Geschwister von Richard}}.
 \]
 \end{ex}
 \end{tagblock}
@@ -69,28 +67,29 @@ S = \Setabs{x}{x \text{ist ein Geschwisterchen von Richard}}.
 \begin{tagblock}{math}
 \begin{ex}
 Eine Zahl wird \emph{vollkommen} genannt, wenn sie gleich der Summe ihrer
-echten Teiler (d.h. Zahlen, die sie gleichmäßig teilen, aber nicht
+echten Teiler (d.h. Zahlen, die sie restlos teilen, aber nicht
 identisch mit der Zahl sind). Zum Beispiel ist $6$ vollkommen, weil ihre
-richtigen Teiler $1$, $2$ und~$3$ sind und $6 = 1 + 2 + 3$. $6$ ist die einzige positive ganze Zahl kleiner als $10$, die vollkommen ist. Also
+echten Teiler $1$, $2$ und~$3$ sind und $6 = 1 + 2 + 3$ gilt. $6$ ist die einzige positive ganze Zahl kleiner als $10$, die vollkommen ist. Also
 können wir mit Hilfe der Extensionalität sagen:
 \[
 	\{6\} = \Setabs{x}{x\text{ ist vollkommen und }0 \leq x \leq 10}
 \]
 Wir lesen die Notation auf der rechten Seite als ``die Menge der $x$'s, so dass $x$
-vollkommen ist und $0 \leq x \leq 10$''. Die Identität hier bestätigt, dass wir uns nicht darum kümmern, wie Mengen spezifiziert sind, wenn wir sie betrachten.
-Und allgemeiner ausgedrückt, garantiert die Extensionalität, dass es immer
+vollkommen ist und $0 \leq x \leq 10$''. Die Identität hier bekräftigt, diese unterschiedlich 
+geschriebenen Mengen letztlich nur von ihren Elementen abhängen.
+Allgemeiner ausgedrückt, garantiert die Extensionalität, dass es immer
 nur eine Menge von $x$ gibt, für die $\phi(x)$ gilt.
-Die Extensionalität rechtfertigt also den Aufruf von 
-$\Setabs{x}{\phi(x)}$ \emph{die} Menge aller $x$ sodass~$\phi(x)$.
+Die Extensionalität rechtfertigt also die Bezeichnung von 
+$\Setabs{x}{\phi(x)}$ als \emph{die} Menge aller $x$ sodass~$\phi(x)$.
 \end{ex}
 \end{tagblock}
 
-Die Extensionalität gibt uns eine Möglichkeit zu zeigen, dass Mengen identisch sind: um zu zeigen, dass $A = B$ ist, muss man zeigen, dass wann immer $x \in A$ ist, auch $x \in B$ ist,
-und wenn $y \in B$ ist, dann ist auch $y \in A$.
+Die Extensionalität gibt uns eine Möglichkeit zu beweisen, dass Mengen identisch sind: Um zu zeigen, dass $A = B$ gilt, muss man zeigen, dass, wann immer $x \in A$ ist, auch $x \in B$ ist,
+und wenn $y \in B$ ist, dann auch $y \in A$ gilt.
 
 \begin{prob}
 Beweisen Sie, dass es höchstens eine leere Menge gibt, d.h. zeigen Sie, dass wenn $A$ und $B$
-Mengen ohne !!{Element}e sind, dann ist $A = B$.
+Mengen ohne !!{Element}e sind, dann $A = B$ gilt.
 \end{prob}
 
 \end{document}
