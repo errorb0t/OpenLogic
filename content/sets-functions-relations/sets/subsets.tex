@@ -1,103 +1,103 @@
-% Part: sets-functions-relations
-% Chapter: sets
-% Section: subsets
+% Teil: sets-functions-relations
+% Kapitel: Mengen
+% Abschnitt: subsets
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{set}{sub}
-\olsection{Subsets and Power Sets}
+\olsection{Teilmengen und Potenzmengen}
 
 \begin{explain}
-We will often want to compare sets. And one obvious kind of comparison
-one might make is as follows: \emph{everything in one set is in the
-other too}. This situation is sufficiently important for us to
-introduce some new notation.
+Wir werden Mengen oft vergleichen wollen. Und eine offensichtliche Art des Vergleichs
+könnte folgendermaßen lauten: \emph{Alles in der einen Menge ist auch in der anderen}.
+Diese Situation ist so wichtig, dass wir für sie
+eine neue Notation einzuführen.
 \end{explain}
 
-\begin{defn}[Subset]
-If every !!{element} of a set $A$ is also !!a{element} of~$B$, then we
-say that $A$ is a \emph{subset} of~$B$, and write $A \subseteq B$. If
-$A$ is not a subset of~$B$ we write $A \not\subseteq B$.
-If $A \subseteq B$ but $A \neq B$, we write $A \subsetneq B$ and say
-that $A$ is a \emph{proper subset} of $B$.
+\begin{defn}[Teilmenge]
+Wenn jedes !!{Element} einer Menge $A$ auch !!ein{Element} von~$B$ ist, dann sagen wir,
+dass $A$ eine \emph{Teilmenge} von~$B$ ist, und schreiben $A \subseteq B$. Wenn
+$A$ keine Teilmenge von~$B$ ist, schreiben wir $A \not\subseteq B$.
+Wenn $A \subseteq B$ gilt, aber $A \neq B$ ist, schreiben wir $A \subsetneq B$ und sagen,
+dass $A$ eine \emph{echte Teilmenge} von $B$ ist.
 \end{defn}
 
 \begin{ex}
-Every set is a subset of itself, and $\emptyset$ is a subset of every
-set. The set of even numbers is a subset of the set of natural
-numbers. Also, $\{ a, b \} \subseteq \{ a, b, c \}$. But $\{ a, b, e
-\}$ is not a subset of $\{ a, b, c \}$.
+Jede Menge ist eine Teilmenge ihrer selbst, und $\emptyset$ ist eine Teilmenge jeder
+Menge. Die Menge der geraden Zahlen ist eine Teilmenge der Menge der natürlichen
+Zahlen. Außerdem: $\{ a, b \} \subseteq \{ a, b, c \}$. Aber $\{ a, b, e
+\}$ ist keine Teilmenge von $\{ a, b, c \}$.
 \end{ex}
 
 \begin{ex}
-The number $2$ is an !!{element} of the set of integers, whereas the
-set of even numbers is a subset of the set of integers. However, a set
-may happen to \emph{both} be !!a{element} and a subset of some other
-set, e.g., $\{0\} \in \{0, \{0\}\}$ and also $\{0\} \subseteq \{0,
+Die Zahl $2$ ist ein !!{Element} der Menge der ganzen Zahlen, während die
+Menge der geraden Zahlen eine Teilmenge der Menge der ganzen Zahlen ist. Allerdings kann eine 
+Menge jedoch sowohl ein !!{Element} als auch eine Teilmenge einer anderen Menge sein, z.B. $\{0\} \in \{0, \{0\}\}$ und auch $\{0\} \subseteq \{0,
 \{0\}\}$.
 \end{ex}
 
-Extensionality gives a criterion of identity for sets: $A = B$ iff
-every !!{element} of~$A$ is also !!a{element} of~$B$ and vice versa.
-The definition of ``subset'' defines $A \subseteq B$ precisely as the
-first half of this criterion: every !!{element} of~$A$ is also
-!!a{element} of~$B$. Of course the definition also applies if we
-switch $A$ and $B$: that is, $B \subseteq A$ iff every !!{element}
-of~$B$ is also !!a{element} of~$A$. And that, in turn, is exactly the
-``vice versa'' part of extensionality. In other words, extensionality
-entails that sets are equal iff they are subsets of one another.
+Die Extensionalität gibt ein Kriterium für die Gleichheit zweier Mengen 
+vor: $A = B$ genau dann, wenn
+jedes !!{Element} von~$A$ auch !!ein{Element} von~$B$ ist und umgekehrt.
+Die Definition von "Teilmenge" legt $A \subseteq B$ genau wie die
+erste Hälfte dieses Kriteriums fest: Jedes !!{Element} von~$A$ ist auch
+!!ein{Element} von~$B$. Natürlich gilt die Definition auch, wenn wir
+$A$ und $B$ vertauschen. Das heißt, $B \subseteq A$, wenn jedes !!{Element}
+von~$B$ auch !!ein{Element} von~$A$ ist. Und das wiederum ist genau die zweite Hälfte
+der Extensionalität. Mit anderen Worten, Extensionalität
+bedeutet, dass Mengen gleich sind genau dann, wenn sie Teilmengen voneinander sind.
 
 \begin{prop}
-$A = B$ iff both $A \subseteq B$ and $B \subseteq A$.
+$A = B$ genau dann, wenn sowohl $A \subseteq B$ als auch $B \subseteq A$ sind.
 \end{prop}
 
-Now is also a good opportunity to introduce some further bits of
-helpful notation. In defining when $A$ is a subset of~$B$ we said that
-``every !!{element} of~$A$ is \dots,'' and filled the ``$\dots$'' with
-``!!a{element} of $B$''. But this is such a common \emph{shape} of
-expression that it will be helpful to introduce some formal notation
-for it.
+Jetzt ist auch eine gute Gelegenheit, ein paar weitere
+hilfreiche Notationen einzuführen. Bei der Definition, wann $A$ eine Teilmenge von~$B$ ist,
+haben wir gesagt, dass
+``jedes !!{Element} von~$A$ ist \dots,'' und haben für die ``$\dots$''
+``!!a{Element} von $B$'' eingesetzt. Aber das ist eine so häufige \emph{Form} von
+Ausdrucks, dass es hilfreich sein wird, eine formale Notation dafür einzuführen.
 
 \begin{defn}\ollabel{forallxina}
-$(\forall x \in A)\phi$ abbreviates $\forall x(x \in A \lif
-\phi)$. Similarly, $(\exists x \in A)\phi$ abbreviates $\exists x(x
+$(\forall x \in A)\phi$ ist eine Abkürzung für $\forall x(x \in A \lif
+\phi)$. Analog ist $(\exists x \in A)\phi$ rine Abkürzung für $\exists x(x
 \in A \land \phi)$. 
 \end{defn}
 
-Using this notation, we can say that $A \subseteq B$ iff $(\forall
+Mit dieser Notation können wir sagen, dass $A \subseteq B$ ist, wenn $(\forall
 x \in A)x \in B$. 
 
-Now we move on to considering a certain kind of set: the set of all
-subsets of a given set. 
+Wir gehen nun dazu über, eine bestimmte Art von Menge zu betrachten: die Menge aller
+Teilmengen einer gegebenen Menge. 
 
-\begin{defn}[Power Set]
-The set consisting of all subsets of a set~$A$ is called the
-\emph{power set of}~$A$, written $\Pow{A}$.
+\begin{defn}[Potenzmenge]
+Die Menge, die aus allen Teilmengen einer Menge~$A$ besteht, nennt man die
+\emph{Potenzmenge von}~$A$, geschrieben $\Pow{A}$.
   \[
     \Pow{A} = \Setabs{B}{B \subseteq A} 
   \]
 \end{defn}
 
 \begin{ex}
-What are all the possible subsets of $\{ a, b, c \}$? They are:
+Was sind alle möglichen Teilmengen von $\{ a, b, c \}$? Sie sind:
 $\emptyset$, $\{a \}$, $\{b\}$, $\{c\}$, $\{a, b\}$, $\{a, c\}$, $\{b,
-c\}$, $\{a, b, c\}$. The set of all these subsets is
+c\}$, $\{a, b, c\}$. Die Menge all dieser Teilmengen ist
 $\Pow{\{a,b,c\}}$:
 \[
-\Pow{\{ a, b, c \}} = \{\emptyset, \{a \}, \{b\}, \{c\}, \{a, b\},
-\{b, c\}, \{a, c\}, \{a, b, c\}\}
+\Pow{\{a, b, c \}} = \{\emptyset, \{a \}, \{b\}, \{c\}, \{a, b\},
+\{b, c\}, \{a, c\}, \{a, b, c\}}
 \]
 \end{ex}
 
 \begin{prob}
-List all subsets of $\{a, b, c, d\}$.
+Listen Sie alle Teilmengen von $\{a, b, c, d\}$ auf.
 \end{prob}
 
 \begin{prob}
-Show that if $A$ has $n$ !!{element}s, then $\Pow{A}$ has $2^n$
-!!{element}s.
+Zeigen Sie, dass wenn $A$ $n$ !!{Element}e hat, dann hat $\Pow{A}$ $2^n$
+!!{Element}e.
 \end{prob}
 
 \end{document}
