@@ -1,6 +1,6 @@
-% Part: sets-functions-relations
-% Chapter: sets
-% Section: russells-paradox
+% Teil: sets-functions-relations
+% Kapitel: mengen
+% Abschnitt: russells-paradox
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
@@ -8,81 +8,84 @@
 \begin{document}
 
 \olfileid{sfr}{set}{rus}
-\olsection{Russell's Paradox}
+\olsection{Die Russellsche Antinomie}
 
-Extensionality licenses the notation $\Setabs{x}{\phi(x)}$, for
-\emph{the} set of $x$'s such that~$\phi(x)$. However, all that
-extensionality \emph{really} licenses is the following thought.
-\emph{If} there is a set whose members are all and only the $\phi$'s,
-\emph{then} there is only one such set. Otherwise put: having fixed
-some~$\phi$, the set $\Setabs{x}{\phi(x)}$ is unique, \emph{if it
-exists}.
+Die Extensionalität gestattet die Notation $\Setabs{x}{\phi(x)}$, für
+\emph{die} Menge der $x$'s, so dass~$\phi(x)$. Allerdings ist alles, was
+Extensionalität \emph{wirklich} gestattet, der folgende Gedanke:
+\emph{Wenn} es eine Menge gibt, deren Mitglieder genau die $\phi$s sind,
+\emph{dann} gibt es nur eine solche Menge. Anders ausgedrückt: Für ein festes~$\phi$
+ist die Menge $\Setabs{x}{\phi(x)}$ eindeutig, \emph{wenn sie
+existiert}.
 
-But this conditional is important!{} Crucially, not every property
-lends itself to \emph{comprehension}. That is, some  properties do
-\emph{not} define sets. If they all did, then we would run into
-outright contradictions. The most famous example of this is Russell's
-Paradox.
+Aber diese Bedingung ist wichtig!{} Entscheidend ist, dass sich nicht jede Eigenschaft
+für \emph{Abstraktion} eignet. Das heißt: Einige Eigenschaften definieren \emph{keine} Mengen.
+Täten sie das doch, entstünden Widersprüche. Das berühmteste Beispiel hierfür ist die Russellsche
+Antinomie.
 
-Sets may be !!{element}s of other sets---for instance, the power set
-of a set~$A$ is made up of sets. And so it makes sense to ask or
-investigate whether a set is !!a{element} of another set. Can a set be
-a member of itself?  Nothing about the idea of a set seems to rule
-this out. For instance, if \emph{all} sets form a collection of
-objects, one might think that they can be collected into a single
-set---the set of all sets. And it, being a set, would be !!a{element}
-of the set of all sets. 
+Mengen können Elemente anderer Mengen sein - zum Beispiel besteht die Potenzmenge
+einer Menge~$A$ aus Mengen. Und so macht es Sinn zu fragen oder
+zu untersuchen, ob eine Menge Element einer anderen Menge ist. Kann eine Menge
+ein Mitglied von sich selbst sein? Nichts an der Idee einer Menge scheint dies auszuschließen.
+Wenn zum Beispiel \emph{alle} Mengen eine Sammlung von
+Objekten bilden, könnte man meinen, dass sie zu einer einzigen Menge
+zusammengefasst werden können---die Menge aller Mengen. 
+Und da sie eine Menge ist, wäre sie Element der Menge aller Mengen. 
 
-Russell's Paradox arises when we consider the property of not having
-itself as !!a{element}, of being \emph{non-self-membered}. What if we
-suppose that there is a set of all sets that do not have themselves as
-!!a{element}? Does
+Das Russellsche Paradoxon entsteht, wenn wir die Eigenschaft betrachten,
+sich selbst nicht als Element zu haben, \emph{nicht-selbst-enthaltend} zu sein.
+Was wäre, wenn wir annehmen,
+dass es eine Menge aller Mengen gibt, die sich selbst nicht als
+Element haben? Existiert die folgende Menge?
 \[
-R = \Setabs{x}{x \notin x}
+R = \Setabs{x}{x \nottin x}
 \]
-exist? It turns out that we can prove that it does not.
+ Wir können beweisen, dass dies nicht der Fall ist.
 
-\begin{thm}[Russell's Paradox]\ollabel{thm:russells-paradox}
-	There is no set $R = \Setabs{x}{x \notin x}$.
+\begin{thm}[Russellsche Antinomie]\ollabel{thm:russells-paradox}
+	Es gibt keine Menge $R = \Setabs{x}{x \notin x}$.
 \end{thm}
 
 \begin{proof}
-If $R = \Setabs{x}{x \notin x}$ exists, then
-$R \in R$ iff $R \notin R$, which is a contradiction.
-\end{proof}
+Wenn $R = \Setabs{x}{x \notin x}$ existiert, dann
+$R \in R$ genau dann, wenn $R \notin R$, was ein Widerspruch ist.
+\end{beweis}
 
 \begin{tagblock}{novice}
 \begin{explain}
-Let's run through this proof more slowly. If $R$ exists, it makes sense to ask whether $R \in
-R$ or not. Suppose that indeed $R \in R$. Now, $R$~was defined as the set of all
-sets that are not !!{element}s of themselves. So, if $R \in R$,
-then $R$ does not itself have $R$'s defining property. But only sets
-that have this property are in~$R$, hence, $R$ cannot be !!a{element}
-of~$R$, i.e., $R \notin R$. But $R$ can't both be and not be
-!!a{element} of~$R$, so we have a contradiction.
+Gehen wir diesen Beweis noch einmal langsam durch. Wenn $R$ existiert,
+ergibt es Sinn zu fragen, ob $R \in
+R$ ist oder nicht. Nehmen wir an, dass $R \in R$ tatsächlich gilt.
+Nun, $R$~wurde definiert als die Menge aller
+Mengen, die nicht Elemente ihrer selbst sind. Also, wenn $R \in R$,
+dann hat $R$ selbst nicht die definierende Eigenschaft von $R$. Aber nur Mengen,
+die diese Eigenschaft haben, sind in~$R$, also kann $R$ kein Element
+von~$R$ sein, d.h. $R \notin R$. Aber $R$ kann nicht sowohl sein als auch nicht
+Element aus~$R$ sein, also liegt ein Widerspruch vor.
 
-Since the assumption that $R \in R$ leads to a contradiction, we have
-$R \notin R$. But this also leads to a contradiction!{} For if $R
-\notin R$, then $R$ itself does have $R$'s defining property, and so $R$ would be
-!!a{element} of $R$ just like all the other non-self-membered sets.
-And again, it can't both not be and be !!a{element} of~$R$.
+Da die Annahme, dass $R \in R$ ist, zu einem Widerspruch führt, gilt
+$R \nottin R$. Aber auch das führt zu einem Widerspruch! Denn wenn $R
+\notin R$, dann hat $R$ selbst die definierende Eigenschaft von $R$, und somit wäre $R$
+Element von $R$, genau wie alle anderen nicht-selbst-enthaltenden Mengen.
+Und noch einmal, es kann nicht sowohl Element als auch kein Element von~$R$ sein.
 \end{explain}
 \end{tagblock}
 
 \begin{digress}
-How do we set up a set theory which avoids falling into
-Russell's Paradox, i.e., which avoids making the \emph{inconsistent}
-claim that $R = \Setabs{x}{x \notin x}$ exists? Well, we would need to
-lay down axioms which give us very precise conditions for stating when
-sets exist (and when they don't). 
+Wie kann man eine Mengenlehre aufstellen, die nicht in das
+Russell-Paradoxon verfällt, d.h. die es vermeidet, die \emph{inkonsistente}
+Behauptung aufzustellen, dass $R = \Setabs{x}{x \notin x}$ existiert?
+Nun, wir müssten
+Axiome aufstellen, die uns sehr präzise Bedingungen für die Aussage geben, wann
+Mengen existieren (und wann sie nicht existieren). 
 	
-The set theory sketched in this chapter doesn't do this. It's
-\emph{genuinely na\"ive}. It tells you only that sets obey
-extensionality and that, if you have some sets, you can form their
-union, intersection, etc. It is possible to develop set theory more
-rigorously than this. \oliflabeldef{cumul:::part}{That rigour will be
-reserved for Part \olref[cumul][][]{part}. For now, we will proceed
-na\"ively, and carefully try to sidestep contradictions.}{}
+Die in diesem Kapitel skizzierte Mengenlehre tut das nicht. Sie ist
+\emph{genuin na\"iv}. Sie sagt nur, dass Mengen der Extensionalität gehorchen
+und dass man, wenn man einige Mengen hat, deren
+Vereinigung, Schnittmenge usw. bilden kann. Es ist möglich, die Mengenlehre noch
+strenger als hier zu entwickeln. \oliflabeldef{cumul:::part}{Diese Strenge wird
+für den Teil \olref[cumul][][]{part} reserviert. Für den Moment werden wir
+naiv vorgehen und vorsichtig versuchen, Widersprüche zu umgehen.}{}
 \end{digress}
 
 
