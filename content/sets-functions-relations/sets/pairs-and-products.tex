@@ -1,75 +1,77 @@
-% Part: sets-functions-relations
-% Chapter: sets
-% Section: pairs-and-products
+% Teil: sets-functions-relations
+% Kapitel: Mengen
+% Abschnitt: pairs-and-products
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{set}{pai}
-\olsection{Pairs, Tuples, Cartesian Products}
+\olsection{Paare, Tupel, kartesische Produkte}
 
 \begin{explain}
-It follows from extensionality that sets have no order to their
-elements. So if we want to represent order, we use \emph{ordered
-pairs} $\tuple{x, y}$. In an unordered pair $\{x, y\}$, the order does
-not matter: $\{x, y\} = \{y, x\}$. In an ordered pair, it does: if $x
-\neq y$, then $\tuple{x, y} \neq \tuple{y, x}$.
+Aus der Extensionalität folgt, dass Elemente von Mengen ungeordnet sind.
+Wenn wir also eine Ordnung darstellen wollen, verwenden wir \emph{geordnete
+Paare} $\tuple{x, y}$. Bei einem ungeordneten Paar $\{x, y\}$ spielt die Reihenfolge
+keine Rolle: $\{x, y\} = \{y, x\}$. Bei einem geordneten Paar spielt sie eine Rolle: Wenn $x
+\neq y$, dann ist $\tuple{x, y} \neq \tuple{y, x}$.
 
-How should we think about ordered pairs in set theory? Crucially, we
-want to preserve the idea that ordered pairs are identical iff they
-share the same first element and share the same second element, i.e.:
+Wie sollten wir geordnete Paare mengentheoretisch betrachten?
+Entscheidend ist, dass wir die Idee bewahren,
+dass geordnete Paare identisch sind, wenn sie
+das gleiche erste Element und das gleiche zweite Element haben, d.h.:
 \[
   \tuple{a, b}= \tuple{c, d}\text{ iff both }a = c \text{ and }b=d.
 \]
-We can define ordered pairs in set theory using the Wiener-Kuratowski
-definition.
+Wir können geordnete Paare mengentheoretisch mit Hilfe der Wiener-Kuratowski
+Definition definieren.
 \end{explain}
 
-\begin{defn}[Ordered pair]\ollabel{wienerkuratowski}
+\begin{defn}[Geordnetes Paar]\ollabel{wienerkuratowski}
 	$\tuple{a, b} = \{\{a\}, \{a, b\}\}$.
 \end{defn}
 
 \begin{prob}
-	Using \olref[sfr][set][pai]{wienerkuratowski}, prove that $\tuple{a,
-	b}= \tuple{c, d}$ iff both $a = c$ and $b=d$.
+	Beweisen Sie mit \olref[sfr][set][pai]{wienerkuratowski}, dass $\tuple{a,
+	b}= \tuple{c, d}$ genau dann, wenn sowohl $a = c$ als auch $b=d$ gelten.
 \end{prob}
 
 \begin{explain}
-Having fixed a definition of an ordered pair, we can use it to define
-further sets. For example, sometimes we also want ordered sequences of
-more than two objects, e.g., \emph{triples} $\tuple{x, y, z}$,
-\emph{quadruples} $\tuple{x, y, z, u}$, and so on.  We can think of
-triples as special ordered pairs, where the first element is itself an
-ordered pair: $\tuple{x, y, z}$ is $\tuple{\tuple{x, y},z}$. The same
-is true for quadruples: $\tuple{x,y,z,u}$ is
-$\tuple{\tuple{\tuple{x,y},z},u}$, and so on. In general, we talk of
-\emph{ordered $n$-tuples} $\tuple{x_1, \dots, x_n}$.
+Nachdem wir eine Definition eines geordneten Paares festgelegt haben, 
+können wir sie zur Definition
+weiterer Mengen verwenden. Zum Beispiel wollen wir manchmal auch geordnete Folgen von
+mehr als zwei Objekten, z.B. \emph{Tripeln} $\tuple{x, y, z}$,
+\emph{Quadrupeln} $\tuple{x, y, z, u}$, und so weiter gebrauchen.  Wir können die
+Tripel als spezielle geordnete Paare betrachten, wobei das erste Element selbst ein
+geordnetes Paar ist: $\tuple{x, y, z}$ ist $\tuple{\tuple{x, y},z}$. Dasselbe
+gilt für Quadrupel: $\tuple{x,y,z,u}$ ist
+$\tuple{\tuple{\tuple{x,y},z},u}$, und so weiter. Im Allgemeinen sprechen wir von
+\emph{geordneten $n$-Tupeln} $\tuple{x_1, \dots, x_n}$.
 
-Certain sets of ordered pairs, or other ordered $n$-tuples, will be useful.
+Bestimmte Mengen von geordneten Paaren oder anderen geordneten $n$-Tupeln werden sich als nützlich erweisen.
 \end{explain}
 
-\begin{defn}[Cartesian product]
-Given sets $A$ and $B$, their \emph{Cartesian product} $A \times B$ is
-defined by
+\begin{defn}[Kartesisches Produkt]
+Bei gegebenen Mengen $A$ und $B$ ist ihr \emph{Kartesisches Produkt} $A \times B$
+definiert durch
 \[
-  A \times B = \Setabs{\tuple{x, y}}{x \in A \text{ and } y \in B}.
+  A \times B = \Setabs{\tuple{x, y}}{x \in A \text{ und } y \in B}.
 \]
 \end{defn}
 
 \begin{ex}
-If $A = \{0, 1\}$, and $B = \{1, a, b\}$, then their product is
+Wenn $A = \{0, 1\}$, und $B = \{1, a, b\}$, dann ist ihr Produkt
 \[
 A \times B = \{ \tuple{0, 1}, \tuple{0, a}, \tuple{0, b},
-    \tuple{1, 1}, \tuple{1, a}, \tuple{1, b} \}.
+    \tuple{1, 1}, \tuple{1, a}, \tupel{1, b} \}.
 \]
 \end{ex}
 
 \begin{ex}
-If $A$ is a set, the product of $A$ with itself, $A \times A$, is also
-written~$A^2$. It is the set of \emph{all} pairs $\tuple{x, y}$ with
-$x, y \in A$. The set of all triples $\tuple{x, y, z}$ is $A^3$, and
-so on. We can give a recursive definition:
+Ist $A$ eine Menge, so wird das Produkt von $A$ mit sich selbst, $A \times A$, auch
+als ~$A^2$ bezeichnet. Es ist die Menge \emph{aller} Paare $\tuple{x, y}$ mit
+$x, y \in A$. Die Menge aller Tripel $\tuple{x, y, z}$ ist $A^3$,
+und so weiter. Wir können eine rekursive Definition angeben:
 \begin{align*}
   A^1 & = A\\
   A^{k+1} & = A^k \times A
@@ -77,50 +79,50 @@ so on. We can give a recursive definition:
 \end{ex}
 
 \begin{prob}
-List all !!{element}s of $\{1, 2, 3\}^3$.
+Listen Sie alle Elemente von $\{1, 2, 3\}^3$ auf.
 \end{prob}
 
 \begin{prop}\ollabel{cardnmprod}
-If $A$ has $n$ !!{element}s and $B$ has $m$ !!{element}s, then $A
-\times B$ has $n\cdot m$ elements.
+Wenn $A$ aus $n$ Elementen besteht und $B$ aus $m$ Elementen, dann hat $A
+\times B$ genau $n\cdot m$ Elemente.
 \end{prop}
 
 \begin{proof}
-For every !!{element}~$x$ in~$A$, there are $m$ !!{element}s of the
-form $\tuple{x, y} \in A \times B$. Let $B_x = \Setabs{\tuple{x, y}}{y
-  \in B}$. Since whenever $x_1 \neq x_2$, $\tuple{x_1, y} \neq
-\tuple{x_2, y}$, $B_{x_1} \cap B_{x_2} = \emptyset$. But if $A = \{x_1,
-\dots, x_n\}$, then $A \times B = B_{x_1} \cup \dots \cup B_{x_n}$, and so has
-$n\cdot m$ !!{element}s.
+Für jedes Element~$x$ in~$A$ gibt es $m$ Elemente der
+Form $\tuple{x, y} \in A \times B$. Sei $B_x = \Setabs{\tuple{x, y}}{y
+  \in B}$. Da immer, wenn $x_1 \neq x_2$, auch $\tuple{x_1, y} \neq
+\tuple{x_2, y}$ gilt, folgt $B_{x_1} \cap B_{x_2} = \emptyset$. Wenn aber $A = \{x_1,
+\dots, x_n\}$, dann ist $A \times B = B_{x_1} \cdot \dots \cdot B_{x_n}$, und hat somit
+$n\cdot m$ Elemente.
 
-To visualize this, arrange the !!{element}s of~$A \times B$ in a grid:
+Um dies zu veranschaulichen, ordne die Elemente von~$A \times B$ in einer Tabelle an:
 \[
 \begin{array}{rcccc}
-  B_{x_1} = & \{\tuple{x_1, y_1} & \tuple{x_1, y_2} & \dots & \tuple{x_1, y_m}\}\\
-  B_{x_2} = & \{\tuple{x_2, y_1} & \tuple{x_2, y_2} & \dots & \tuple{x_2, y_m}\}\\
+  B_{x_1} = & \{\tuple{x_1, y_1} & \tuple{x_1, y_2} & \dots & \tuple{x_1, y_m}\}\
+  B_{x_2} = & \{\tuple{x_2, y_1} & \tuple{x_2, y_2} & \dots & \tuple{x_2, y_m}\}
   \vdots & & \vdots\\
-  B_{x_n} = & \{\tuple{x_n, y_1} & \tuple{x_n, y_2} & \dots & \tuple{x_n, y_m}\}
+  B_{x_n} = & \{\tuple{x_n, y_1} & \tuple{x_n, y_2} & \dots & \tuple{x_n, y_m}}
 \end{array}
 \]
-Since the $x_i$ are all different, and the $y_j$ are all different, no
-two of the pairs in this grid are the same, and there are $n\cdot m$
-of them.
-\end{proof}
+Da die $x_i$ alle verschieden sind, und die $y_j$ alle verschieden sind, sind keine
+zwei der Paare in diesem Gitter gleich, und es gibt $n\cdot m$
+von ihnen.
+\end{beweis}
 
 \begin{prob}
-Show, by induction on~$k$, that for all $k \ge 1$, if $A$ has $n$
-!!{element}s, then $A^k$ has $n^k$ !!{element}s.
+Zeigen Sie mittels Induktion auf~$k$, dass für alle $k \ge 1$gilt: Wenn $A$ aus $n$ Elementen besteht,
+dann hat $A^k$ genau $n^k$ Elemente.
 \end{prob}
 
 \begin{ex}
-If $A$ is a set, a \emph{word} over~$A$ is any sequence of
-!!{element}s of~$A$. A sequence can be thought of as an $n$-tuple of
-!!{element}s of~$A$. For instance, if $A = \{a, b, c\}$, then the
-sequence ``$bac$'' can be thought of as the triple~$\tuple{b, a, c}$.
-Words, i.e., sequences of symbols, are of crucial importance in
-computer science. By convention, we count !!{element}s of~$A$ as
-sequences of length~$1$, and $\emptyset$ as the sequence of length~$0$.
-The set of \emph{all} words over~$A$ then is
+Wenn $A$ eine Menge ist, dann ist ein \emph{Wort} über~$A$ eine beliebige Folge von Elementen
+aus~$A$. Eine Folge kann man sich als ein $n$-Tupel von
+Elementen aus~$A$ vorstellen. Wenn zum Beispiel $A = \{a, b, c\}$, dann kann die
+Folge ``$bac$'' als das Tripel~$\tuple{b, a, c}$ aufgefasst werden.
+Wörter, d.h. Folgen von Symbolen, sind von entscheidender Bedeutung in der
+Informatik. Als Konvention zählen wir Elemente von~$A$ als
+Folgen der Länge~$1$, und $\emptyset$ als Folge der Länge~$0$.
+Die Menge \emph{aller} Wörter über~$A$ ist dann
 \[
 A^* = \{\emptyset\} \cup A \cup A^2 \cup A^3 \cup \dots
 \]
