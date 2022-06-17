@@ -1,6 +1,6 @@
-% Part: sets-functions-relations
-% Chapter: sets
-% Section: unions-and-intersections
+% Teil: sets-functions-relations
+% Kapitel: sets
+% Abschnitt: unions-and-intersections
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
@@ -10,165 +10,165 @@
 \olsection{Unions and Intersections}
 
 \begin{explain}
-In \olref[sfr][set][bas]{sec}, we introduced definitions of sets by
-abstraction, i.e., definitions of the form $\Setabs{x}{\phi(x)}$.
-Here, we invoke some property~$\phi$, and this property can mention
-sets we've already defined. So for instance, if $A$ and~$B$ are sets,
-the set $\Setabs{x}{x \in A \lor x \in B}$ consists of all those
-objects which are !!{element}s of either $A$ or~$B$, i.e., it's the
-set that combines the !!{element}s of $A$ and~$B$. We can visualize
-this as in \olref{fig:union}, where the highlighted area indicates the
-!!{element}s of the two sets $A$ and~$B$ together.
+In \olref[sfr][set][bas]{sec} haben wir abstrakte Mengendefinitionen eingeführt,
+ d.h. Definitionen der Form $\Setabs{x}{\phi(x)}$.
+Hier berufen wir uns auf eine Eigenschaft~$\phi$, und diese Eigenschaft kann
+Mengen, die wir bereits definiert haben, betreffen. Wenn also zum Beispiel $A$ und~$B$ Mengen sind,
+besteht die Menge $\Setabs{x}{x \in A \lor x \in B}$ aus all jenen
+Objekte, die Elemente von entweder $A$ oder~$B$ sind, d.h. es ist die
+Menge, die die Elemente von $A$ und~$B$ zusammenfasst. Wir können uns das vorstellen
+wie in \olref{fig:union}, wobei der hervorgehobene Bereich die
+Elemente anzeigt, die in beiden Mengen $A$ und~$B$ liegen.
 
 \begin{figure}
   \olasset{assets/diagrams/union.tikz}
-  \caption{The union $A \cup B$ of two sets is set of !!{element}s of
-   $A$ together with those of~$B$.}
+  \caption{Die Vereinigung $A \cup B$ zweier Mengen ist die Menge der Elemente von
+   $A$ zusammen mit denen von~$B$.}
   \ollabel{fig:union} 
 \end{figure}
 
-This operation on sets---combining them---is very useful and common,
-and so we give it a formal name and a symbol. 
+Diese Operation auf Mengen - das Kombinieren von Mengen - ist sehr nützlich und üblich,
+und deshalb geben wir ihr einen formalen Namen und ein Symbol. 
 \end{explain}
 
-\begin{defn}[Union]
-The \emph{union} of two sets $A$ and $B$, written $A \cup B$, is the
-set of all things which are !!{element}s of $A$, $B$, or both.
+\begin{defn}[Vereinigung]
+Die \emph{Vereinigung} von zwei Mengen $A$ und $B$, geschrieben $A \cup B$, ist die
+Menge aller Dinge, die Elemente von $A$ oder $B$ oder beiden sind.
 \[
 A \cup B = \Setabs{x}{x \in A \lor x \in B}
 \]
 \end{defn}
 
 \begin{ex}
-Since the multiplicity of !!{element}s doesn't matter, the union of two
-sets which have !!a{element} in common contains that !!{element} only once,
-e.g., $\{ a, b, c\} \cup \{ a, 0, 1\} = \{a, b, c, 0, 1\}$.
+Da das mehrmalige Auftreten von Elementen keine Rolle spielt, enthält die Vereinigung von zwei
+Mengen, die ein Element gemeinsam haben, dieses Element nur einmal,
+z.B., $\{ a, b, c\} \cup \{ a, 0, 1\} = \{a, b, c, 0, 1\}$.
 
-The union of a set and one of its subsets is just the bigger set: $\{a,
+Die Vereinigung einer Menge und einer ihrer Teilmengen ist einfach die größere Menge: $\{a,
 b, c \} \cup \{a \} = \{a, b, c\}$.
 
-The union of a set with the empty set is identical to the set: $\{a,
+Die Vereinigung einer Menge mit der leeren Menge ist gleich der Menge selbst: $\{a,
 b, c \} \cup \emptyset = \{a, b, c \}$.
 \end{ex}
 
 \begin{prob}
-Prove that if $A \subseteq B$, then $A \cup B = B$.
+Beweise, dass wenn $A \subseteq B$, dann $A \cup B = B$.
 \end{prob}
 
 \begin{explain}
-We can also consider a ``dual'' operation to union. This is the
-operation that forms the set of all !!{element}s that are !!{element}s
-of~$A$ and are also !!{element}s of~$B$. This operation is called 
-\emph{intersection}, and can be depicted as in \olref{fig:intersection}.
+Wir können auch eine ``duale'' Operation zur Vereinigung betrachten. Dies ist die
+Operation, die die Menge aller Elemente bildet, die sowohl Elemente
+von~$A$ als auch von~$B$ sind. Diese Operation wird als 
+\emph{Durchschnitt} oder schlicht \emph{Schnitt} bezeichnet, und kann wie in \olref{fig:intersection} dargestellt werden.
 \begin{figure}
   \olasset{assets/diagrams/intersection.tikz}
-  \caption{The intersection $A \cap B$ of two sets is the set of
-    !!{element}s they have in common.}
+  \caption{Die Schnittmenge $A \cap B$ von zwei Mengen ist die Menge der
+    Elemente, die sie gemeinsam haben.}
   \ollabel{fig:intersection}
 \end{figure}
 \end{explain}
 
-\begin{defn}[Intersection]
-The \emph{intersection} of two sets $A$ and $B$, written $A \cap B$, is
-the set of all things which are !!{element}s of both $A$ and~$B$.
+\begin{defn}[Schnittmenge]
+Die \emph{Schnittmenge} zweier Mengen $A$ und $B$, geschrieben $A \cap B$, ist
+die Menge aller Dinge, die Elemente sowohl von $A$ als auch von~$B$ sind.
 \[
 A \cap B = \Setabs{x}{x \in A \land x \in B}
 \]
-Two sets are called \emph{disjoint} if their intersection is
-empty. This means they have no !!{element}s in common.
+Zwei Mengen werden \emph{disjunkt} genannt, wenn ihre Schnittmenge
+leer ist. Das bedeutet, dass sie keine Elemente gemeinsam haben.
 \end{defn}
 
 \begin{ex}
-If two sets have no !!{element}s in common, their intersection is empty:
+Wenn zwei Mengen keine Elemente gemeinsam haben, ist ihre Schnittmenge leer:
 $\{ a, b, c\} \cap \{ 0, 1\} = \emptyset$.
 
-If two sets do have !!{element}s in common, their intersection is the set of
-all those: $\{a, b, c \} \cap \{a, b, d \} = \{a, b\}$.
+Wenn zwei Mengen aber Elemente gemeinsam haben, ist ihre Schnittmenge die Menge von
+aller dieser Elemente: $\{a, b, c \} \cap \{a, b, d \} = \{a, b\}$.
 
-The intersection of a set with one of its subsets is just the smaller
-set: $\{a, b, c\} \cap \{a, b\} = \{a, b\}$.
+Die Schnittmenge einer Menge mit einer ihrer Teilmengen ist einfach die kleinere
+Menge: $\{a, b, c\} \cap \{a, b\} = \{a, b\}$.
 
-The intersection of any set with the empty set is empty: $\{a, b, c \}
+Die Schnittmenge jeder Menge mit der leeren Menge ist leer: $\{a, b, c \}
 \cap \emptyset = \emptyset$.
 \end{ex}
 
 \begin{prob}
-Prove rigorously that if $A \subseteq B$, then $A \cap B = A$.
+Beweisen Sie lückenlos, dass wenn $A \subseteq B$, dann $A \cap B = A$.
 \end{prob}
 
 \begin{explain}
-We can also form the union or intersection of more than two
-sets. An elegant way of dealing with this in general is the
-following: suppose you collect all the sets you want to form the union
-(or intersection) of into a single set. Then we can define the union
-of all our original sets as the set of all objects which belong to at
-least one !!{element} of the set, and the intersection as the set of
-all objects which belong to every !!{element} of the set.
+Wir können auch die Vereinigung oder die Schnittmenge von mehr als zwei
+Mengen bilden. Eine elegante Art, damit im Allgemeinen umzugehen, ist die Folgende:
+Nehmen wir an, wir fassen alle Mengen, über die wir die Vereinigung (oder den Durchschnitt) bilden wollen,
+in einer einzigen Menge zusammen. Dann können wir die Vereinigung
+aller unserer ursprünglichen Mengen als die Menge aller Objekte definieren, die zu mindestens einem
+mindestens einem Element der Menge gehören, und die Schnittmenge als die Menge der
+allen Objekten, die zu jedem Element der Menge gehören.
 \end{explain}
 
 \begin{defn}
-If $A$ is a set of sets, then $\bigcup A$ is the set of !!{element}s of
-!!{element}s of~$A$:
+Wenn $A$ eine Menge von Mengen ist, dann ist $\bigcup A$ die Menge der Elemente von
+Elementen aus~$A$:
 \begin{align*}
-\bigcup A & = \Setabs{x}{x \text{ belongs to !!a{element} of } A},
-\text{ i.e.,}\\
-& = \Setabs{x}{\text{there is a } B \in A
-  \text{ so that } x \in B}
+\bigcup A & = \Setabs{x}{x \text{ gehört zu Element aus } A},
+\text{ d.h., }\
+& = \Setabs{x}{\text{es gibt ein } B \in A
+  \text{ sodass } x \in B}
 \end{align*}
 \end{defn}
 
 \begin{defn}
-If $A$ is a set of sets, then $\bigcap A$ is the set of objects which
-all elements of~$A$ have in common:
+Wenn $A$ eine Menge von Mengen ist, dann ist $\bigcap A$ die Menge der Objekte, die
+alle Elemente aus~$A$ gemeinsam haben:
 \begin{align*}
-\bigcap A & = \Setabs{x}{x \text{ belongs to every !!{element} of } A},
-\text{ i.e.,}\\
- & = \Setabs{x}{\text{for all } B \in A, x \in B}
+\bigcap A & = \Setabs{x}{x \text{ gehört zu jedem Element aus } A},
+\text{ d.h., }\
+ & = \Setabs{x}{\text{für alle } B \in A, x \in B}
 \end{align*}
 \end{defn}
 
 \begin{ex}
-Suppose $A = \{ \{ a, b \}, \{ a, d, e \}, \{ a, d \} \}$.
-Then $\bigcup A = \{ a, b, d, e \}$ and $\bigcap A = \{ a \}$.
+Angenommen $A = \{ \{ a, b \}, \{ a, d, e \}, \{ a, d \} \}$.
+Dann sind $\bigcup A = \{ a, b, d, e \}$ und $\bigcap A = \{ a \}$.
 \end{ex}
 \begin{prob}
-	Show that if $A$ is a set and $A \in B$, then $A \subseteq \bigcup B$.
+	Zeigen Sie, dass wenn $A$ eine Menge ist und $A \in B$, dann gilt $A \subseteq \bigcup B$.
 \end{prob}
 
-We could also do the same for a sequence of sets $A_1$, $A_2$, \dots
+Das Gleiche könnte man auch für eine Folge von Mengen $A_1$, $A_2$, \dots tun.
 \begin{align*}
-\bigcup_i A_i & = \Setabs{x}{x \text{ belongs to one of the } A_i}\\
-\bigcap_i A_i & = \Setabs{x}{x \text{ belongs to every } A_i}.
+\bigcup_i A_i & = \Setabs{x}{x \text{ gehört zu einer der } A_i}\\
+\bigcap_i A_i & = \Setabs{x}{x \text{ gehört zu jedem } A_i}.
 \end{align*}
 
-When we have an \emph{index} of sets, i.e., some set $I$ such that we
-are considering $A_i$ for each $i \in I$, we may also use these
-abbreviations:
+Wenn wir einen \emph{Index} von Mengen haben, d.h. eine Menge $I$, für die wir
+$A_i$ für jedes $i \in I$ betrachten, können wir auch diese
+Abkürzungen verwenden:
 \begin{align*}
-	\bigcup_{i \in I} A_i & = \bigcup \Setabs{A_i }{i \in I}\\
+	\bigcup_{i \in I} A_i & = \bigcup \Setabs{A_i }{i \in I}\
 	\bigcap_{i \in I} A_i & = \bigcap\Setabs{A_i}{i \in I}
 \end{align*}
 
-Finally, we may want to think about the set of all !!{element}s in~$A$
-which are not in~$B$. We can depict this as in \olref{difference}.
+Schließlich können wir über die Menge aller Elemente aus~$A$ nachdenken,
+die nicht aus~$B$ sind. Wir können dies wie in \olref{difference} darstellen.
 
 \begin{figure}
   \olasset{assets/diagrams/difference.tikz}
-  \caption{The difference $A \setminus B$ of two sets is the set of
-    those !!{element}s of~$A$ which are not also !!{element}s of~$B$.}
+  \caption{Die Differenz $A \setminus B$ von zwei Mengen ist die Menge der
+    derjenigen Elemente aus $A$, die nicht auch Elemente aus $B$ sind.
   \ollabel{difference}
 \end{figure}
 
-\begin{defn}[Difference]
-The \emph{set difference}~$A \setminus B$ is the set of all !!{element}s of
-$A$ which are not also !!{element}s of~$B$, i.e.,
+\begin{defn}[Differenz]
+Die \emph{Differenzmenge}~$A \setminus B$ ist die Menge aller Elemente von
+$A$, die nicht auch Elemente von~$B$ sind, d.h.,
 \[
-A\setminus B = \Setabs{x}{x\in A \text{ and } x \notin B}.
+A\setminus B = \Setabs{x}{x\in A \text{ und } x \nichtin B}.
 \]
 \end{defn}
 
 \begin{prob}
-	Prove that if $A \subsetneq B$, then $B \setminus A \neq \emptyset$.
+	Beweisen Sie, dass, wenn $A \subsetneq B$, dann $B \setminus A \neq \emptyset$ gilt.
 \end{prob}
 
 \end{document}
