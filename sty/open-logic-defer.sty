@@ -49,7 +49,7 @@
 
 \declaretheorem[
   style=definition, numbered=yes,
-  name={Problem}]{probd}
+  name={Aufgabe}]{probd}
 
 % \probch holds the chapter number
 
@@ -102,8 +102,8 @@
     \Closesolutionfile{\jobname}
     \renewcommand*{\probch}{\thechapter}
     \ifproblems{% print problems if there are any
-      \section*{Problems}
-      \addcontentsline{toc}{section}{Problems}
+      \section*{Aufgaben}
+      \addcontentsline{toc}{section}{Aufgaben}
       \Readsolutionfile{\jobname}}}}
 
 % - `\collectproblems`: execute this in the preamble to arrange for
