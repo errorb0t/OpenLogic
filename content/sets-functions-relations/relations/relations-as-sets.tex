@@ -1,67 +1,67 @@
-% Part: sets-functions-relations
-% Chapter: relations
-% Section: relations-as-sets
+% Teil: Mengen-Funktionen-Relationen
+% Kapitel: Relationen
+% Abschnitt: relations-as-sets
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{rel}{set}
-\olsection{Relations as Sets}
+\olsection{Relationen als Mengen}
 
 \begin{explain}
-In \olref[sfr][set][imp]{sec}, we mentioned some important sets:
-$\Nat$, $\Int$, $\Rat$, $\Real$. You will no doubt remember some
-interesting relations between the !!{element}s of some of these sets.
-For instance, each of these sets has a completely standard \emph{order
-relation} on it.  There is also the relation \emph{is identical with}
-that every object bears to itself and to no other thing. There are
-many more interesting relations that we'll encounter, and even more
-possible relations. Before we review them, though, we will start by
-pointing out that we can look at relations as a special sort of set. 
+In \olref[sfr][set][imp]{sec} haben wir einige wichtige Mengen erwähnt:
+$\Nat$, $\Int$, $\Rat$, $\Real$. Wir erinnern uns an manche bestimmten Relationen
+zwischen den Elementen einiger dieser Mengen.
+Zum Beispiel gibt es eine ganz normale \emph{Ordnungsrelation} auf jeder dieser Mengen. 
+Es gibt auch die Relation \emph{ist identisch mit},
+in der jedes Objekt zu sich selbst und zu keinem anderen Ding steht. Es gibt
+viele weitere interessante Relationen, die wir kennenlernen werden, und noch mehr
+mögliche Relationen. Bevor wir sie jedoch betrachten, wollen wir zunächst
+darauf hinweisen, dass wir Relationen als eine besondere Art von Mengen betrachten können. 
   
-For this, recall two things from \olref[sfr][set][pai]{sec}. First,
-recall the notion of a \emph{ordered pair}: given $a$ and $b$, we can
-form~$\tuple{a, b}$. Importantly, the order of elements \emph{does}
-matter here. So if $a \neq b$ then $\tuple{a, b} \neq \tuple{b, a}$.
-(Contrast this with unordered pairs, i.e., $2$-element sets, where
-$\{a, b\}=\{b, a\}$.) Second, recall the notion of a \emph{Cartesian
-product}: if $A$ and $B$ are sets, then we can form~$A \times B$, the
-set of all pairs $\tuple{x, y}$ with $x \in A$ and $y \in B$. In
-particular, $A^{2}= A \times A$ is the set of all ordered pairs
-from~$A$.
-  
-Now we will consider a particular relation on a set: the $<$-relation
-on the set~$\Nat$ of natural numbers. Consider the set of all pairs of
-numbers $\tuple{n, m}$ where $n<m$, i.e.,
-\[
-  R=\Setabs{\tuple{n, m}}{n, m \in \Nat \text{ and } n<m}.
-\]
-There is a close connection between $n$ being less than $m$, and the
-pair $\tuple{n, m}$ being a member of $R$, namely:
-\[
-      n<m\text{ iff }\tuple{n, m} \in R.
-\]
-Indeed, without any loss of information, we can consider the set $R$
-to \emph{be} the $<$-relation on $\Nat$. 
+Dazu erinnern wir uns an zwei Dinge aus \olref[sfr][set][pai]{sec}. Erstens
+erinnern wir uns an den Begriff \emph{geordnetes Paar}: Für $a$ und $b$ können wir
+Tupel ${a, b}$ bilden. Wichtig ist, dass die Reihenfolge der Elemente hier \emph{doch}
+eine Rolle spielt. Wenn also $a \neq b$, dann $\tuple{a, b} \neq \tuple{b, a}$.
+(Im Gegensatz zu ungeordneten Paaren, d.h. $2$-Elemente-Mengen, bei denen
+$\{a, b\}=\{b, a\}$.) Zweitens: Erinnern wir uns an den Begriff \emph{kartesisches
+Produkt}: Wenn $A$ und $B$ Mengen sind, dann können wir~$A \times B$ bilden, die
+Menge aller Paare $\tuple{x, y}$ mit $x \in A$ und $y \in B$.
+Insbesondere ist $A^{2}= A \times A$ die Menge aller geordneten Paare
+aus~$A$.
 
-In the same way we can construct a subset of $\Nat^{2}$ for any
-relation between numbers. Conversely, given any set of pairs of
-numbers $S \subseteq \Nat^{2}$, there is a corresponding relation
-between numbers, namely, the relationship $n$ bears to $m$ if and only
-if $\tuple{n, m} \in S$. This justifies the following definition:
+Wir nehmen nun eine besondere Relation auf einer Menge in den Blick: die $<$-Relation
+auf der Menge~$\Nat$ der natürlichen Zahlen. Betrachten wir die Menge aller Paare von
+Zahlen $\tuple{n, m}$ mit $n<m$, d.h.,
+\[
+  R=\Setabs{\tuple{n, m}}{n, m \in \Nat \text{ und } n<m}.
+\]
+Es besteht ein enger Zusammenhang zwischen $n$, das kleiner ist als $m$, und dem
+Paar $\tuple{n, m}$, das ein Element aus $R$ ist, nämlich:
+\[
+      n<m\text{ gdw }\tuple{n, m} \in R.
+\]
+In der Tat können wir ohne Informationsverlust die Menge $R$ als
+\emph{die $<$-Relation auf $\Nat$ selbst} betrachten. 
+
+Auf dieselbe Weise können wir eine Teilmenge von $\Nat^{2}$ für jede
+Beziehung zwischen Zahlen konstruieren. Umgekehrt kann man für eine beliebige Menge von Paaren von
+Zahlen $S \subseteq \Nat^{2}$, gibt es eine entsprechende Beziehung
+zwischen Zahlen, nämlich die Beziehung $n$ zu $m$ genau dann, wenn $\tuple{n, m} \in S$.
+Dies rechtfertigt die folgende Definition:
 \end{explain}
   
-\begin{defn}[Binary relation] 
-A \emph{binary relation} on a set $A$ is a subset of~$A^{2}$. If $R
-\subseteq A^{2}$ is a binary relation on~$A$ and $x, y \in A$, we
-sometimes write $Rxy$ (or $xRy$) for $\tuple{x, y} \in R$.
+\begin{defn}[Binäre Relation] 
+Eine \emph{binäre Relation} auf einer Menge $A$ ist eine Teilmenge von~$A^{2}$. Wenn $R
+\subseteq A^{2}$ eine binäre Relation auf~$A$ und $x, y \in A$ ist, schreibt man kurz
+$Rxy$ (oder $xRy$) für $\tuple{x, y} \in R$.
 \end{defn}
   
 \begin{ex}
   \ollabel{relations}
-The set $\Nat^{2}$ of pairs of natural numbers can be listed in a
-2-dimensional matrix like this:
+Die Menge $\Nat^{2}$ der Paare natürlicher Zahlen lässt sich in einer
+zweidimensionalen Matrix wie folgt auflisten:
 \[
   \begin{array}{ccccc}
   \mathbf{\tuple{ 0,0 }} & \tuple{ 0,1 } &
@@ -75,51 +75,51 @@ The set $\Nat^{2}$ of pairs of natural numbers can be listed in a
   \vdots & \vdots & \vdots & \vdots & \mathbf{\ddots}
   \end{array}
 \]
-We have put the diagonal, here, in bold, since the subset of $\Nat^2$
-consisting of the pairs lying on the diagonal, i.e.,
+Wir haben die Diagonale hier fett gesetzt, da die Teilmenge von $\Nat^2$
+bestehend aus den Paaren, die auf der Diagonale liegen, d.h.,
 \[
   \{\tuple{0,0 }, \tuple{ 1,1 }, \tuple{ 2,2 }, \dots\},
   \]
-is the \emph{identity relation on}~$\Nat$. (Since the identity
-relation is popular, let's define $\Id{A}=\Setabs{\tuple{ x,x }}{x \in
-A}$ for any set $A$.) The subset of all pairs lying above the
-diagonal, i.e.,
+die \emph{Identitätsrelation auf}~$\Nat$ ist. (Da die Identitätsrelation sehr
+beliebt ist, definieren wir $\Id{A}=\Setabs{\tuple{ x,x }}{x \in
+A}$ für jede Menge $A$.) Die Teilmenge aller Paare, die oberhalb der
+Diagonale liegen, d.h.,
 \[
   L = \{\tuple{ 0,1 },\tuple{ 0,2 },\ldots,\tuple{ 1,2 },
   \tuple{ 1,3 }, \dots, \tuple{ 2,3 }, \tuple{ 2,4 },\ldots\},
 \]
-is the \emph{less than} relation, i.e., $Lnm$ iff $n<m$. The subset of
-pairs below the diagonal, i.e.,
+ist die \emph{kleiner-als}-Relation, d.h. $Lnm$ gdw $n<m$. Die Teilmenge der
+Paare unterhalb der Diagonale, d.h.,
 \[
   G=\{ \tuple{ 1,0 },\tuple{ 2,0 },\tuple{
     2,1 }, \tuple{ 3,0 },\tuple{ 3,1 },\tuple{ 3,2 }, \dots\},
 \]
-is the \emph{greater than} relation, i.e., $Gnm$ iff $n>m$. The union
-of $L$ with $I$, which we might call $K=L\cup I$, is the \emph{less
-than or equal to} relation: $Knm$ iff $n \le m$. Similarly, $H=G \cup
-I$ is the \emph{greater than or equal to relation.} These relations
-$L$, $G$, $K$, and $H$ are special kinds of relations called
-\emph{orders}. $L$ and $G$ have the property that no number bears $L$
-or $G$ to itself (i.e., for all $n$, neither $Lnn$ nor $Gnn$).
-Relations with this property are called \emph{irreflexive}, and, if
-they also happen to be orders, they are called \emph{strict orders.}
+ist die \emph{größer-als}-Relation, d.h. $Gnm$ gdw $n>m$. Die Vereinigung
+von $L$ mit $I$, die wir $K=L\cup I$ nennen können, ist die \emph{kleiner-gleich}-Relation:
+$Knm$ gdw $n \le m$. In ähnlicher Weise ist $H=G \cup
+I$ die \emph{größer-gleich}-Relation. Diese Relationen
+$L$, $G$, $K$ und $H$ sind besondere Arten von Relationen, genannt
+\emph{Ordnungen}. $L$ und $G$ haben die Eigenschaft, dass keine Zahl zu sich selbst in der Relation
+$L$ oder $G$ steht (d.h. für alle $n$ weder $Lnn$ noch $Gnn$).
+Relationen mit dieser Eigenschaft nennt man \emph{irreflexiv}, und wenn
+sie zufällig auch Ordnungen sind, nennt man sie \emph{Striktordnungen}.
 \end{ex}
 
 \begin{explain}
-Although orders and identity are important and natural relations, it
-should be emphasized that according to our definition \emph{any}
-subset of $A^{2}$ is a relation on~$A$, regardless of how unnatural or
-contrived it seems. In particular, $\emptyset$ is a relation on any
-set (the \emph{empty relation}, which no pair of elements bears), and
-$A^{2}$~itself is a relation on~$A$ as well (one which every pair
-bears), called the \emph{universal relation}. But also something like
-$E=\Setabs{\tuple{n, m}}{n>5 \text{ or } m \times n \ge 34}$ counts as
-a relation.
+Obwohl Ordnungen und Identität wichtige und natürliche Beziehungen sind,
+sollte hervorgehoben werden, dass nach unserer Definition \emph{jede}
+Teilmenge von $A^{2}$ eine Relation auf~$A$ ist, unabhängig davon, wie unnatürlich oder
+konstruiert sie erscheint. Insbesondere ist $\emptyset$ eine Relation auf jeder
+Menge (die \emph{leere Relation}, die kein Paar von Elementen trägt), und
+$A^{2}$~selbst ist ebenfalls eine Relation auf~$A$ (eine, die jedes Paar
+trägt), genannt die \emph{universelle Relation}. Aber auch etwas wie
+$E=\Setabs{\tuple{n, m}}{n>5 \text{ oder } m \times n \ge 34}$ zählt als
+eine Relation.
 \end{explain}
   
 \begin{prob}
-  List the !!{element}s of the relation $\subseteq$ on the set
-  $\Pow{\{a, b, c\}}$.
+  Listen Sie die Elemente der Relation $\subseteq$ auf der Menge
+  $\Pow{\{a, b, c\}}$ auf.
 \end{prob}
 
 \end{document}
