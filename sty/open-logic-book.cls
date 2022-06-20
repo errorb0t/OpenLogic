@@ -634,7 +634,7 @@ from \emph{Open Logic Text} revision
 
 \newpage
 \pagestyle{OLPpage}
-\currentpdfbookmark{Inhaltsverzeichnis}{name}
+\currentpdfbookmark{Inhalt}{name}
 \tableofcontents*
 }
 

@@ -29,6 +29,12 @@
 
 \RequirePackage{bussproofs}
 
+% fix babel to print "Inhalt" over "Inhaltsverzeichnis"
+\addto\captionsngerman{
+  \renewcommand{\contentsname}
+    {Inhalt}
+}
+
 % change definition of prooftree environment to align proofs at bottom
 % to make placement of qed symbols work
 \renewenvironment{prooftree}
@@ -71,7 +77,7 @@
 \RequirePackage{thmtools}
 
 % Load cleverref for automatic includion of theorem names in references
-\RequirePackage[nameinlink]{cleveref} % always after hyperref!
+\RequirePackage[german, nameinlink]{cleveref} % always after hyperref!
 
 \makeatletter
 
