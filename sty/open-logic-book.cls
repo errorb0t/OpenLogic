@@ -261,7 +261,7 @@
 \renewcommand*{\partnumfont}{\fontsize{24pt}{0pt}\selectfont\bfseries\sffamily}
 \renewcommand*{\parttitlefont}{\normalfont\fontsize{54pt}{54pt}\selectfont\bfseries\itshape\color{OLPcolor}}
 \renewcommand*{\printpartname}{%
-  \partnamefont PART}
+  \partnamefont TEIL}
 
 \chapterstyle{OLPchapter}
 
