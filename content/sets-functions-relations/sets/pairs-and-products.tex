@@ -21,10 +21,10 @@ Entscheidend ist, dass wir die Idee bewahren,
 dass geordnete Paare identisch sind, wenn sie
 das gleiche erste Element und das gleiche zweite Element haben, d.h.:
 \[
-  \tuple{a, b}= \tuple{c, d}\text{ iff both }a = c \text{ and }b=d.
+  \tuple{a, b}= \tuple{c, d}\text{ gdw sowohl }a = c \text{ als auch }b=d.
 \]
 Wir können geordnete Paare mengentheoretisch mit Hilfe der Wiener-Kuratowski
-Definition definieren.
+Definition beschreiben.
 \end{explain}
 
 \begin{defn}[Geordnetes Paar]\ollabel{wienerkuratowski}
@@ -69,7 +69,7 @@ A \times B = \{ \tuple{0, 1}, \tuple{0, a}, \tuple{0, b},
 
 \begin{ex}
 Ist $A$ eine Menge, so wird das Produkt von $A$ mit sich selbst, $A \times A$, auch
-als ~$A^2$ bezeichnet. Es ist die Menge \emph{aller} Paare $\tuple{x, y}$ mit
+als~$A^2$ bezeichnet. Es ist die Menge \emph{aller} Paare $\tuple{x, y}$ mit
 $x, y \in A$. Die Menge aller Tripel $\tuple{x, y, z}$ ist $A^3$,
 und so weiter. Wir können eine rekursive Definition angeben:
 \begin{align*}
@@ -95,7 +95,7 @@ Form $\tuple{x, y} \in A \times B$. Sei $B_x = \Setabs{\tuple{x, y}}{y
 \dots, x_n\}$, dann ist $A \times B = B_{x_1} \cdot \dots \cdot B_{x_n}$, und hat somit
 $n\cdot m$ Elemente.
 
-Um dies zu veranschaulichen, ordne die Elemente von~$A \times B$ in einer Tabelle an:
+Um das zu veranschaulichen, ordne die Elemente von~$A \times B$ in einer Tabelle an:
 \[
 \begin{array}{rcccc}
   B_{x_1} = & \{\tuple{x_1, y_1} & \tuple{x_1, y_2} & \dots & \tuple{x_1, y_m}\} \\
@@ -105,7 +105,7 @@ Um dies zu veranschaulichen, ordne die Elemente von~$A \times B$ in einer Tabell
 \end{array}
 \]
 Da die $x_i$ alle verschieden sind, und die $y_j$ alle verschieden sind, sind keine
-zwei der Paare in diesem Gitter gleich, und es gibt $n\cdot m$
+zwei der Paare in dieser Tabelle gleich, und es gibt $n\cdot m$
 von ihnen.
 \end{proof}
 
