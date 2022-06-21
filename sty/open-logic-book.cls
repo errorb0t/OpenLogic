@@ -507,7 +507,7 @@
 
 \bigskip
 
-\textbf{\color{OLPcolor}Instigator}
+\textbf{\color{OLPcolor}Anstifter}
 
 \medskip
 
@@ -515,7 +515,7 @@ Richard Zach, \emph{University of Calgary}
 
 \bigskip
 
-\textbf{\color{OLPcolor}Editorial Board}
+\textbf{\color{OLPcolor}Redaktionsleitung}
 
 \medskip
 
@@ -564,7 +564,8 @@ Zesen Qian, \emph{Carnegie Mellon University}
 
 \vspace{100pt}
 
-\fontsize{14pt}{14pt}\selectfont Remixed by \OLPauthor{}
+\fontsize{14pt}{14pt}\selectfont Von Richard Zach \\
+Übersetzt und überarbeitet von \OLPauthor{}
 
 \vfill
 
@@ -576,42 +577,22 @@ Zesen Qian, \emph{Carnegie Mellon University}
 
 % copyright page
 
-\noindent
-The Open Logic Project would like to acknowledge the generous support
-of the \href{https://taylorinstitute.ucalgary.ca/}{Taylor Institute
-of Teaching and Learning} of the University of Calgary, and the
-Alberta Open Educational Resources (ABOER) Initiative, which is made
-possible through an investment from the Alberta government.
+\noindent Titelbild von \href{http://mattleadbeater.com}{Matthew
+  Leadbeater}, lizenziert unter einer
+\href{https://creativecommons.org/licenses/by-nc/4.0/}{Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz}.
 
-\bigskip
+\vspace{20mm}
 
-\noindent
-\includegraphics[height=1.2cm]{\olpath/assets/logos/ti-\OLPassetversion}
-
-\bigskip
-
-\noindent
-\includegraphics[height=1.5cm]{\olpath/assets/logos/aboer-\OLPassetversion}
-
-\vfill
-
-\noindent Cover illustrations by \href{http://mattleadbeater.com}{Matthew
-  Leadbeater}, used under a
-\href{https://creativecommons.org/licenses/by-nc/4.0/}{Creative Commons
-  Attribution-NonCommercial 4.0 International License}.
-
-\vfill
-
-\noindent Typeset in Baskervald X and Nimbus Sans by
+\noindent Schriftsatz in Baskervald X und Nimbus Sans von
 \LaTeX.
 
-\vfill
-
-\noindent This version of \emph{\OLPbooktitle} is
-revision \gitAbbrevHash{} (\gitAuthorDate), with content generated
-from \emph{Open Logic Text} revision
-\OLPrevision. Free download at:\\[.5ex]
-\url{\OLPsourcelink}
+% \vspace{20mm}
+% 
+% \noindent This version of \emph{\OLPbooktitle} is
+% revision \gitAbbrevHash{} (\gitAuthorDate), with content generated
+% from \emph{Open Logic Text} revision
+% \OLPrevision. Free download at:\\[.5ex]
+% \url{\OLPsourcelink}
 
 \vfill
 
