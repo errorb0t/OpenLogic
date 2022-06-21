@@ -12,12 +12,12 @@
 \begin{explain}
 In \olref[sfr][set][bas]{sec} haben wir abstrakte Mengendefinitionen eingeführt,
  d.h. Definitionen der Form $\Setabs{x}{\phi(x)}$.
-Hier berufen wir uns auf eine Eigenschaft~$\phi$, und diese Eigenschaft kann
+Hier berufen wir uns auf eine Eigenschaft~$\phi$. Diese Eigenschaft kann
 Mengen, die wir bereits definiert haben, betreffen. Wenn also zum Beispiel $A$ und~$B$ Mengen sind,
-besteht die Menge $\Setabs{x}{x \in A \lor x \in B}$ aus all jenen
-Objekte, die Elemente von entweder $A$ oder~$B$ sind, d.h. es ist die
+besteht die Menge $\Setabs{x}{x \in A \lor x \in B}$ aus denjenigen
+Objekten, die Elemente von entweder $A$ oder~$B$ sind, d.h. es ist die
 Menge, die die Elemente von $A$ und~$B$ zusammenfasst. Wir können uns das vorstellen
-wie in \olref{fig:union}, wobei der hervorgehobene Bereich die
+wie in \olref{fig:union}, wobei der schraffierte Bereich die
 Elemente anzeigt, die in beiden Mengen $A$ und~$B$ liegen.
 
 \begin{figure}
@@ -33,7 +33,7 @@ und deshalb geben wir ihr einen formalen Namen und ein Symbol.
 
 \begin{defn}[Vereinigung]
 Die \emph{Vereinigung} von zwei Mengen $A$ und $B$, geschrieben $A \cup B$, ist die
-Menge aller Dinge, die Elemente von $A$ oder $B$ oder beiden sind.
+Menge aller Dinge, die Elemente aus~$A$ oder aus~$B$ oder aus beiden Mengen sind.
 \[
 A \cup B = \Setabs{x}{x \in A \lor x \in B}
 \]
@@ -56,14 +56,14 @@ Beweise, dass wenn $A \subseteq B$, dann $A \cup B = B$.
 \end{prob}
 
 \begin{explain}
-Wir können auch eine ``duale'' Operation zur Vereinigung betrachten. Dies ist die
+Wir können auch eine \glqq duale\grqq{} Operation zur Vereinigung betrachten. Dies ist die
 Operation, die die Menge aller Elemente bildet, die sowohl Elemente
 von~$A$ als auch von~$B$ sind. Diese Operation wird als 
 \emph{Durchschnitt} oder schlicht \emph{Schnitt} bezeichnet, und kann wie in \olref{fig:intersection} dargestellt werden.
 \begin{figure}
   \olasset{assets/diagrams/intersection.tikz}
   \caption{Die Schnittmenge $A \cap B$ von zwei Mengen ist die Menge der
-    Elemente, die sie gemeinsam haben.}
+    Elemente, die sie sich teilen.}
   \ollabel{fig:intersection}
 \end{figure}
 \end{explain}
@@ -82,8 +82,8 @@ leer ist. Das bedeutet, dass sie keine Elemente gemeinsam haben.
 Wenn zwei Mengen keine Elemente gemeinsam haben, ist ihre Schnittmenge leer:
 $\{ a, b, c\} \cap \{ 0, 1\} = \emptyset$.
 
-Wenn zwei Mengen aber Elemente gemeinsam haben, ist ihre Schnittmenge die Menge von
-aller dieser Elemente: $\{a, b, c \} \cap \{a, b, d \} = \{a, b\}$.
+Wenn zwei Mengen aber Elemente gemeinsam haben, ist ihre Schnittmenge die Menge
+aller dieser Elemente:\\ $\{a, b, c \} \cap \{a, b, d \} = \{a, b\}$.
 
 Die Schnittmenge einer Menge mit einer ihrer Teilmengen ist einfach die kleinere
 Menge: $\{a, b, c\} \cap \{a, b\} = \{a, b\}$.
@@ -111,9 +111,9 @@ Wenn $A$ eine Menge von Mengen ist, dann ist $\bigcup A$ die Menge der Elemente 
 Elementen aus~$A$:
 \begin{align*}
 \bigcup A & = \Setabs{x}{x \text{ gehört zu Element aus } A},
-\text{ d.h., }\
+\text{ d.h., }\\
 & = \Setabs{x}{\text{es gibt ein } B \in A
-  \text{ sodass } x \in B}
+  \text{ sodass } x \in B}.
 \end{align*}
 \end{defn}
 
@@ -122,8 +122,8 @@ Wenn $A$ eine Menge von Mengen ist, dann ist $\bigcap A$ die Menge der Objekte, 
 alle Elemente aus~$A$ gemeinsam haben:
 \begin{align*}
 \bigcap A & = \Setabs{x}{x \text{ gehört zu jedem Element aus } A},
-\text{ d.h., }\
- & = \Setabs{x}{\text{für alle } B \in A, x \in B}
+\text{ d.h., }\\
+ & = \Setabs{x}{\text{für alle } B \in A, x \in B}.
 \end{align*}
 \end{defn}
 
@@ -145,17 +145,17 @@ Wenn wir einen \emph{Index} von Mengen haben, d.h. eine Menge $I$, für die wir
 $A_i$ für jedes $i \in I$ betrachten, können wir auch diese
 Abkürzungen verwenden:
 \begin{align*}
-	\bigcup_{i \in I} A_i & = \bigcup \Setabs{A_i }{i \in I}\
+	\bigcup_{i \in I} A_i & = \bigcup \Setabs{A_i }{i \in I}\\
 	\bigcap_{i \in I} A_i & = \bigcap\Setabs{A_i}{i \in I}
 \end{align*}
 
-Schließlich können wir über die Menge aller Elemente aus~$A$ nachdenken,
-die nicht aus~$B$ sind. Wir können dies wie in \olref{difference} darstellen.
+Zuletzt können wir noch über die Menge aller Elemente aus~$A$ nachdenken,
+die nicht aus~$B$ sind. Wir können das wie in \olref{difference} darstellen.
 
 \begin{figure}
   \olasset{assets/diagrams/difference.tikz}
-  \caption{Die Differenz $A \setminus B$ von zwei Mengen ist die Menge der
-    derjenigen Elemente aus $A$, die nicht auch Elemente aus $B$ sind.}
+  \caption{Die Differenz $A \setminus B$ zweier Mengen ist die Menge der
+    derjenigen Elemente aus~$A$, die nicht auch Elemente aus~$B$ sind.}
   \ollabel{difference}
 \end{figure}
 
