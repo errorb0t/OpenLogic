@@ -1,85 +1,84 @@
-% Part: sets-functions-relations
-% Chapter: relations
-% Section: special-properties
+% Teil: sets-functions-relations
+% Kapitel: relations
+% Abschnitt: special-properties
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{rel}{prp}
-\olsection{Special Properties of Relations}
+\olsection{Besondere Eigenschaften von Relationen}
 
 \begin{intro}
-Some kinds of relations turn out to be so common that they have been
-given special names.  For instance, $\le$ and~$\subseteq$ both relate
-their respective domains (say, $\Nat$ in the case of~$\le$ and
-$\Pow{A}$ in the case of~$\subseteq$) in similar ways.  To get at
-exactly how these relations are similar, and how they differ, we
-categorize them according to some special properties that relations
-can have.  It turns out that (combinations of) some of these special
-properties are especially important: orders and equivalence relations.
+Einige Arten von Relationen sind so häufig, dass sie besondere Namen haben.
+Zum Beispiel beziehen sich $\le$ und~$\subseteq$ beide auf
+ihre jeweiligen Definitionsbereiche (z. B. $\Nat$ im Fall von~$\le$ und
+$\Pow{A}$ im Fall von~$\subseteq$) in ähnlicher Weise.  Um herauszufinden,
+wie ähnlich sich diese Beziehungen sind, und wie sie sich unterscheiden,
+kategorisieren wir sie nach einigen speziellen Eigenschaften, die Relationen
+haben können.  Es stellt sich heraus, dass (Kombinationen von) einiger dieser speziellen
+Eigenschaften besonders wichtig sind: Ordnungen und Äquivalenzbeziehungen.
 \end{intro}
 
-\begin{defn}[Reflexivity]
-A relation $R \subseteq A^2$ is \emph{reflexive} iff, for every $x \in
-A$, $Rxx$.
+\begin{defn}[Reflexivität]
+Eine Relation $R \subseteq A^2$ heißt \emph{reflexiv} gdw für jedes $x \in
+A$ gilt: $Rxx$.
 \end{defn}
 
-\begin{defn}[Transitivity]
-A relation $R \subseteq A^2$ is \emph{transitive} iff, whenever $Rxy$
-and $Ryz$, then also $Rxz$.
+\begin{defn}[Transitivität]
+Eine Relation $R \subseteq A^2$ heißt \emph{transitiv}, gdw falls $Rxy$
+und $Ryz$, dann auch~$Rxz$.
 \end{defn}
 
-\begin{defn}[Symmetry]
-A relation~$R \subseteq A^2$ is \emph{symmetric} iff, whenever
-$Rxy$, then also~$Ryx$.
+\begin{defn}[Symmetrie]
+Eine Beziehung~$R \subseteq A^2$ heißt \emph{symmetrisch}, gdw falls
+$Rxy$, dann auch~$Ryx$.
 \end{defn}
 
-\begin{defn}[Anti-symmetry]
-A relation~$R \subseteq A^2$ is \emph{anti-sym\-met\-ric} iff, whenever both
-$Rxy$ and $Ryx$, then $x=y$ (or, in other words: if $x\neq y$ then
-either $\lnot Rxy$ or $\lnot Ryx$).
+\begin{defn}[Antisymmetrie]
+Eine Relation~$R \subseteq A^2$ ist \emph{anti-sym\-met\-ric}, gdw falls sowohl
+$Rxy$ als auch $Ryx$, dann $x=y$ (oder, anders ausgedrückt: falls $x\neq y$, dann
+entweder $\lnot Rxy$ oder $\lnot Ryx$).
 \end{defn}
 
 \begin{explain}
-In a symmetric relation, $Rxy$ and $Ryx$ always hold together, or
-neither holds.  In an anti-symmetric relation, the only way for $Rxy$
-and $Ryx$ to hold together is if $x = y$.  Note that this does not
-\emph{require} that $Rxy$ and $Ryx$ holds when $x = y$, only that it
-isn't ruled out.  So an anti-symmetric relation can be reflexive, but
-it is not the case that every anti-symmetric relation is
-reflexive.  Also note that being anti-symmetric and merely not being
-symmetric are different conditions.  In fact, a relation can be both
-symmetric and anti-symmetric at the same time (e.g., the identity
-relation is).
+In einer symmetrischen Beziehung gelten $Rxy$ und $Ryx$ immer zugleich, oder
+gar nicht.  In einer antisymmetrischen Beziehung können $Rxy$
+und $Ryx$ nur dann zugleich gelten, wenn $x = y$.  Wir sollten beachten, dass das nicht bedeutet
+dass $Rxy$ und $Ryx$ zugleich gelten \emph{müssen}, wenn $x = y$, nur dass es
+nicht ausgeschlossen ist.  Eine antisymmetrische Beziehung kann also reflexiv sein, aber
+es ist nicht so, dass jede antisymmetrische Beziehung reflexiv ist.
+Auch ist wichtig, dass \glqq antisymmetrisch\grqq{} nicht dasselbe wie
+\glqq nicht symmetrisch\grqq{} ist.  In der Tat kann eine Beziehung sowohl
+symmetrisch und antisymmetrisch sein (z. B. die Identitätsbeziehung).
 \end{explain}
 
-\begin{defn}[Connectivity]
-A relation $R \subseteq A^2$ is \emph{connected} if for all $x,y\in
-A$, if $x \neq y$, then either $Rxy$ or~$Ryx$.
+\begin{defn}[Totalität]
+Eine Relation $R \subseteq A^2$ heißt \emph{total} gdw für alle $x,y\in
+A$, falls $x \neq y$, dann entweder~$Rxy$ oder~$Ryx$.
 \end{defn}
 
 \begin{prob}
-Give examples of relations that are (a) reflexive and symmetric but
-not transitive, (b) reflexive and anti-symmetric, (c) anti-symmetric,
-transitive, but not reflexive, and (d) reflexive, symmetric, and
-transitive.  Do not use relations on numbers or sets.
+Nennen Sie Beispiele für Beziehungen, die (a) reflexiv und symmetrisch, aber
+nicht transitiv, (b) reflexiv und antisymmetrisch, (c) antisymmetrisch,
+transitiv, aber nicht reflexiv, und (d) reflexiv, symmetrisch und
+transitiv sind.  Verwenden Sie keine Beziehungen über Zahlen oder Mengen.
 \end{prob} 
  
-\begin{defn}[Irreflexivity]
-A relation $R \subseteq A^2$ is called \emph{irreflexive} if, for all $x \in
-A$, not $Rxx$. 
+\begin{defn}[Irreflexivität]
+Eine Relation $R \subseteq A^2$ heißt \emph{irreflexiv} gdw für alle $x \in
+A$ nicht~$Rxx$ gilt. 
 \end{defn}
 
-\begin{defn}[Asymmetry]
-A relation $R \subseteq A^2$ is called \emph{asymmetric} if for no pair $x,y\in
-A$ we have both $Rxy$ and~$Ryx$. 
+\begin{defn}[Asymmetrie]
+Eine Beziehung $R \subseteq A^2$ heißt \emph{asymmetrisch}, wenn für kein Paar $x,y\in
+A$ sowohl $Rxy$ als auch~$Ryx$ existieren. 
 \end{defn}
 
-Note that if $A \neq \emptyset$, then no irreflexive relation on~$A$
-is reflexive and every asymmetric relation on~$A$ is also
-anti-symmetric. However, there are $R \subseteq A^2$ that are not
-reflexive and also not irreflexive, and there are anti-symmetric
-relations that are not asymmetric. 
+Man beachte, dass wenn $A \neq \emptyset$ ist, dann keine irreflexive Relation auf~$A$
+reflexiv ist und jede asymmetrische Relation auf~$A$ auch
+antisymmetrisch ist. Es gibt jedoch $R \subseteq A^2$, die weder
+reflexiv noch irreflexiv sind, und es gibt antisymmetrische
+Relationen, die nicht asymmetrisch sind. 
 
 \end{document}
