@@ -10,14 +10,14 @@
 \olsection{Teilmengen und Potenzmengen}
 
 \begin{explain}
-Wir werden Mengen oft vergleichen wollen. Und eine offensichtliche Art des Vergleichs
+Wir werden Mengen oft vergleichen wollen. Eine offensichtliche Art des Vergleichs
 könnte folgendermaßen lauten: \emph{Alles in der einen Menge ist auch in der anderen}.
 Diese Situation ist so wichtig, dass wir für sie
 eine neue Notation einzuführen.
 \end{explain}
 
 \begin{defn}[Teilmenge]
-Wenn jedes Element einer Menge $A$ auch ein Element von~$B$ ist, dann sagen wir,
+Wenn jedes Element einer Menge~$A$ auch ein Element einer Menge~$B$ ist, dann sagen wir,
 dass $A$ eine \emph{Teilmenge} von~$B$ ist, und schreiben $A \subseteq B$. Wenn
 $A$ keine Teilmenge von~$B$ ist, schreiben wir $A \not\subseteq B$.
 Wenn $A \subseteq B$ gilt, aber $A \neq B$ ist, schreiben wir $A \subsetneq B$ und sagen,
@@ -34,14 +34,14 @@ Zahlen. Außerdem: $\{ a, b \} \subseteq \{ a, b, c \}$. Aber $\{ a, b, e
 \begin{ex}
 Die Zahl $2$ ist ein Element der Menge der ganzen Zahlen, während die
 Menge der geraden Zahlen eine Teilmenge der Menge der ganzen Zahlen ist. Allerdings kann eine 
-Menge jedoch sowohl ein Element als auch eine Teilmenge einer anderen Menge sein, z.B. $\{0\} \in \{0, \{0\}\}$ und auch $\{0\} \subseteq \{0,
+Menge sowohl ein Element als auch eine Teilmenge einer anderen Menge sein, z.B. $\{0\} \in \{0, \{0\}\}$ und auch $\{0\} \subseteq \{0,
 \{0\}\}$.
 \end{ex}
 
 Die Extensionalität gibt ein Kriterium für die Gleichheit zweier Mengen 
 vor: $A = B$ genau dann, wenn
 jedes Element von~$A$ auch ein Element von~$B$ ist und umgekehrt.
-Die Definition von "Teilmenge" legt $A \subseteq B$ genau wie die
+Die Definition von \glqq Teilmenge\grqq{} legt $A \subseteq B$ genau wie die
 erste Hälfte dieses Kriteriums fest: Jedes Element von~$A$ ist auch
 ein Element von~$B$. Natürlich gilt die Definition auch, wenn wir
 $A$ und $B$ vertauschen. Das heißt, $B \subseteq A$, wenn jedes Element
@@ -56,13 +56,13 @@ $A = B$ genau dann, wenn sowohl $A \subseteq B$ als auch $B \subseteq A$ sind.
 Jetzt ist auch eine gute Gelegenheit, ein paar weitere
 hilfreiche Notationen einzuführen. Bei der Definition, wann $A$ eine Teilmenge von~$B$ ist,
 haben wir gesagt, dass
-``jedes Element von~$A$ ist \dots,'' und haben für die ``$\dots$''
-``ein Element von $B$'' eingesetzt. Aber das ist eine so häufige \emph{Form} von
-Ausdrucks, dass es hilfreich sein wird, eine formale Notation dafür einzuführen.
+\glqq jedes Element von~$A$ ist \dots,\grqq{} und haben für die \glqq$\dots$\grqq{}
+\glqq ein Element von $B$\grqq{} eingesetzt. Aber das ist eine so häufige Ausdrucks\emph{form},
+dass es hilfreich sein wird, eine formale Notation für sie einzuführen.
 
 \begin{defn}\ollabel{forallxina}
 $(\forall x \in A)\phi$ ist eine Abkürzung für $\forall x(x \in A \lif
-\phi)$. Analog ist $(\exists x \in A)\phi$ rine Abkürzung für $\exists x(x
+\phi)$. Analog ist $(\exists x \in A)\phi$ eine Abkürzung für $\exists x(x
 \in A \land \phi)$. 
 \end{defn}
 
@@ -81,7 +81,7 @@ Die Menge, die aus allen Teilmengen einer Menge~$A$ besteht, nennt man die
 \end{defn}
 
 \begin{ex}
-Was sind alle möglichen Teilmengen von $\{ a, b, c \}$? Sie sind:
+Was sind alle möglichen Teilmengen von $\{ a, b, c \}$? Offenbar
 $\emptyset$, $\{a \}$, $\{b\}$, $\{c\}$, $\{a, b\}$, $\{a, c\}$, $\{b,
 c\}$, $\{a, b, c\}$. Die Menge all dieser Teilmengen ist
 $\Pow{\{a,b,c\}}$:
@@ -96,8 +96,8 @@ Listen Sie alle Teilmengen von $\{a, b, c, d\}$ auf.
 \end{prob}
 
 \begin{prob}
-Zeigen Sie, dass wenn $A$ $n$ Elemente hat, dann hat $\Pow{A}$ $2^n$
-Elemente.
+Zeigen Sie, dass wenn $A$ $n$ Elemente hat, dann $\Pow{A}$ $2^n$
+Elemente besitzt.
 \end{prob}
 
 \end{document}
