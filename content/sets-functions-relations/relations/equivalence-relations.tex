@@ -12,16 +12,16 @@
 
 Die Identitätsrelation auf einer Menge ist reflexiv, symmetrisch und
 transitiv. Relationen~$R$, die alle drei dieser Eigenschaften besitzen, 
-sind häufig anzutreffen.
+kommen oft vor.
 
 \begin{defn}[Äquivalenzrelation] 
-Eine Beziehung $R \subseteq A^2$, die reflexiv, symmetrisch und
+Eine Relation ${R \subseteq A^2}$, die reflexiv, symmetrisch und
 transitiv ist, nennt man eine \emph{Äquivalenzrelation}. Elemente $x$
-und $y$ von~$A$ heißen \emph{$R$-äquivalent}, wenn~$Rxy$.
+und $y$ von~$A$ heißen \emph{äquivalent unter $R$}, falls~$Rxy$.
 \end{defn}
 
 Aus Äquivalenzbeziehungen ergibt sich der Begriff der \emph{Äquivalenzklasse}.
-Eine Äquivalenzrelation \glqq zerbröckelt\grqq{} den Definitionsbereich in
+Eine Äquivalenzrelation \glqq zerlegt\grqq{} den Definitionsbereich in
 verschiedene Partitionen. Innerhalb jeder Partition stehen alle Objekte zueinander 
 in Beziehung; und keine Objekte aus verschiedenen Partitionen
 stehen in Beziehung zueinander. Manchmal ist es hilfreich, einfach über
@@ -30,8 +30,8 @@ Definition ein:
 
 \begin{defn}\ollabel{def:Äquivalenzklasse}
 Sei $R \subseteq A^2$ eine Äquivalenzrelation. Für jedes $x \in A$
-ist die \emph{Äquivalenzklasse} von $x$ in~$A$ die Menge $\equivrep{x}{R}
-= \Setabs{y \in A}{Rxy}$. Die \emph{Quotientenmenge} von $R$ auf~$A$ ist
+ist die \emph{Äquivalenzklasse} von $x$ in~$A$ die Menge ${\equivrep{x}{R}
+= \Setabs{y \in A}{Rxy}}$. Die \emph{Quotientenmenge} von $R$ auf~$A$ ist
 $\equivclass{A}{R} = \Setabs{\equivrep{x}{R}}{x \in A}$, d.h. die Menge
 dieser Äquivalenzklassen. 
 \end{defn}
@@ -47,7 +47,7 @@ $\equivrep{x}{R} = \equivrep{y}{R}$.
 \begin{proof}
 Für die hin-Richtung sei $Rxy$, und $z \in
 \equivrep{x}{R}$. Nach Definition ist dann $Rxz$. Da $R$ eine
-Äquivalenzrelation ist, gilt $Ryz$. (Um es klar zu sagen: Da $Rxy$ gilt und~$R$
+Äquivalenzrelation ist, gilt $Ryz$. (Um genau zu sein: Da $Rxy$ gilt und~$R$
 symmetrisch ist, wissen wir $Ryx$, und da $Rxz$ gilt und~$R$ transitiv ist,
 haben wir~$Ryz$). Also $z \in \equivrep{y}{R}$. Allgemeiner:
 $\equivrep{x}{R} \subseteq \equivrep{y}{R}$. Aber genauso gilt:
@@ -56,7 +56,7 @@ $\equivrep{y}{R} \subseteq \equivrep{x}{R}$. Also $\equivrep{x}{R} =
 
 Für die rück-Richtung nehmen wir an, dass $\equivrep{x}{R} =
 \equivrep{y}{R}$. Da $R$ reflexiv ist, ist $Ryy$, also $y \in
-\equivrep{y}{R}$. Also ist auch $y \in \equivrep{x}{R}$ durch die Annahme,
+\equivrep{y}{R}$. Also ist auch $y \in \equivrep{x}{R}$ aufgrund der Annahme,
 dass $\equivrep{x}{R} = \equivrep{y}{R}$. Also $Rxy$.
 \end{proof}
 
@@ -65,8 +65,8 @@ Ein schönes Beispiel für Äquivalenzbeziehungen stammt aus der Zahlentheorie.
 Definiere für beliebige $a$, $b$ und $n \in \Nat$, dass $a \equiv_n b$ gdw
 die Division von $a$ durch~$n$ denselben Rest ergibt wie die Division von $b$ durch~$n$.
 (Etwas symbolischer: $a \equiv_n b$ gdw für ein $k \in
-\Int$ gilt: $a - b = kn$.) Nun ist $\equiv_n$ fürbeliebige~$n$ eine Äquivalenzrelation.
-Und es gibt genau $n$ verschiedene Äquivalenzklassen
+\Int$ gilt: $a - b = kn$.) Nun ist $\equiv_n$ für beliebige~$n$ eine Äquivalenzrelation.
+Und es gibt genau $n$ verschiedene Äquivalenzklassen,
 die durch~$\equiv_n$ erzeugt werden; das heißt, $\equivclass{\Nat}{\equiv_n}$ hat
 $n$ Elemente. Diese sind: die Menge der durch $n$ teilbaren Zahlen
 ohne Rest, d.h. $\equivrep{0}{\equiv_n}$; die Menge der Zahlen
