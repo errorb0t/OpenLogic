@@ -1,71 +1,71 @@
-% Part: sets-functions-relations
-% Chapter: relations
-% Section: operations
+% Teil: Mengen-Funktionen-Relationen
+% Kapitel: Relationen
+% Abschnitt: Operationen
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{rel}{ops}
-\olsection{Operations on Relations}
+\olsection{Operationen auf Relationen}
 
-It is often useful to modify or combine relations. In
-\olref[sfr][rel][ord]{prop:stricttopartial}, we considered the \emph{union}
-of relations, which is just the union of two relations considered as
-sets of pairs. Similarly, in \olref[sfr][rel][ord]{prop:partialtostrict},
-we considered the relative difference of relations. Here are some
-other operations we can perform on relations.
+Es ist oft nützlich, Relationen zu ändern oder zu kombinieren. In
+\olref[sfr][rel][ord]{prop:stricttopartial} haben wir die \emph{Vereinigung}
+von Relationen betrachtet, die lediglich die Vereinigung zweier Relationen als
+Mengen von Paaren ist. In ähnlicher Weise wurde in \olref[sfr][rel][ord]{prop:partialtostrict},
+haben wir die relative Differenz von Relationen betrachtet. Hier sind einige
+andere Operationen, die wir mit Relationen durchführen können.
 
 \begin{defn}\ollabel{relationoperations} 
-Let $R$, $S$ be relations, and $A$ be any set. 
+Seien $R$, $S$ Relationen und $A$ eine beliebige Menge. 
 
-The \emph{inverse} of $R$ is $R^{-1} = \Setabs{\tuple{y, x}}{\tuple{x,
+Das \emph{Umkehrrelation} von $R$ ist $R^{-1} = \Setabs{\tuple{y, x}}{\tuple{x,
     y} \in R}$.
 
-The \emph{relative product} of $R$ and $S$ is $(R \mid S) =
+Das \emph{relative Produkt}, auch \emph{Vorwärtsverkettung}, von $R$ und $S$ ist $(R \mid S) =
 \{\tuple{x, z} : \exists y(Rxy \land Syz)\}$.
 
-The \emph{restriction} of $R$ to $A$ is $\funrestrictionto{R}{A}= R
+Die \emph{Einschränkung} von $R$ auf $A$ ist $\funrestrictionto{R}{A}= R
 \cap A^2$.
 
-The \emph{application} of $R$ to $A$ is $\funimage{R}{A} = \{y :
-(\exists x \in A)Rxy\}$
+Das \emph{Bild} von $A$ unter $R$ ist $\funimage{R}{A} = \{y :
+(\exists x \in A)Rxy\}$.
 \end{defn}
 
 \begin{ex}
-Let $S \subseteq \Int^2$ be the successor relation on~$\Int$, i.e.,
-$S = \Setabs{\tuple{x, y} \in \Int^2}{x + 1 = y}$, so that $Sxy$ iff $x + 1 = y$.
+Sei $S \subseteq \Int^2$ die Nachfolgerelation auf~$\Int$, d.h.,
+$S = \Setabs{\tuple{x, y} \in \Int^2}{x + 1 = y}$, so dass $Sxy$ gdw $x + 1 = y$.
 
-$S^{-1}$ is the predecessor relation on $\Int$, i.e.,
+$S^{-1}$ ist die Vorgängerrelation auf $\Int$, d.h.,
 $\Setabs{\tuple{x,y}\in\Int^2}{x -1 =y}$.
 
-$S\mid S$ is 
+$S\mid S$ ist 
 $ \Setabs{\tuple{x,y}\in\Int^2}{x + 2 =y}$
 
-$\funrestrictionto{S}{\Nat}$ is the successor relation on~$\Nat$.
+$\funrestrictionto{S}{\Nat}$ ist die Nachfolgerelation auf~$\Nat$.
 
-$\funimage{S}{\{1,2,3\}}$ is $\{2, 3, 4\}$.
+$\funimage{S}{\{1,2,3\}}$ ist $\{2, 3, 4\}$.
 \end{ex}
 
-\begin{defn}[Transitive closure]Let $R \subseteq A^2$ be a binary relation. 
+\begin{defn}[Transitive Hülle]Sei $R \subseteq A^2$ eine binäre Relation. 
 	
-The \emph{transitive closure} of~$R$ is $R^+ = \bigcup_{0 < n \in
-\Nat} R^n$, where we recursively define $R^1 = R$ and $R^{n+1} = R^n
-\mid R$.
+Die \emph{transitive Hülle} von~$R$ ist $R^+ = \bigcup_{0 < n \in
+\Nat} R^n$, wobei wir rekursiv $R^1 = R$ und $R^{n+1} = R^n
+\mid R$ definieren.
 
-The \emph{reflexive transitive closure} of $R$ is $R^* = R^+ \cup
+Die \emph{reflexive transitive Hülle} von $R$ ist $R^* = R^+ \cup
 \Id{A}$.
 \end{defn}
 
 \begin{ex}
-Take the successor relation $S \subseteq \Int^2$. $S^2xy$ iff $x + 2 =
-y$, $S^3xy$ iff $x + 3 = y$, etc. So $S^+xy$ iff $x + n = y$ for some
-$n \geq 1$. In other words, $S^+xy$ iff $x < y$, and $S^*xy$ iff $x \le
+Betrachten wir die Nachfolgerelation $S \subseteq \Int^2$. $S^2xy$ gdw $x + 2 =
+y$, $S^3xy$ gdw $x + 3 = y$, usw. Also $S^+xy$ gdw $x + n = y$ für beliebige
+$n \geq 1$. Mit anderen Worten: $S^+xy$ gdw $x < y$, und $S^*xy$ gdw $x \le
 y$.
 \end{ex}
 
 \begin{prob}
-Show that the transitive closure of $R$ is in fact transitive.
+Zeigen Sie, dass die transitive Hülle von $R$ tatsächlich transitiv ist.
 \end{prob}
 
 \end{document}
