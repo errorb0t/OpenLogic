@@ -7,134 +7,132 @@
 \begin{document}
 
 \olfileid{sfr}{fun}{bas}
-\olsection{Basics}
+\olsection{Grundlagen}
 
 \begin{explain}
-A \emph{function} is a map which sends each !!{element} of a given set
-to a specific !!{element} in some (other) given set. For instance, the
-operation of adding~$1$ defines a function: each number~$n$ is mapped
-to a unique number~$n+1$. 
+  Eine \emph{Funktion} ist eine Abbildung, die jedes Element einer gegebenen Menge
+  zu einem bestimmten Element in einer (anderen) gegebenen Menge schickt. Zum Beispiel definiert die
+  Operation des $1$-dazu-Addierens eine Funktion: jede Zahl~$n$ wird abgebildet
+  auf eine eindeutige Zahl~$n+1$. 
+    
+  Allgemeiner ausgedrückt können Funktionen Paare, Tripel usw. als Input annehmen und
+ eine Art von Output liefern. Viele Funktionen sind uns aus der elementaren
+  Arithmetik vertraut. Zum Beispiel sind die Addition und die Multiplikation
+  Funktionen. Sie nehmen zwei Zahlen auf und geben eine dritte zurück.
   
-More generally, functions may take pairs, triples, etc., as inputs and
-returns some kind of output. Many functions are familiar to us from
-basic arithmetic. For instance, addition and multiplication are
-functions. They take in two numbers and return a third.
+  In diesem mathematischen, abstrakten Sinn ist eine Funktion eine \emph{Black
+  Box}: Es kommt nur darauf an, welcher Output mit welchem Input gepaart wird, nicht auf
+  die Methode zur Berechnung des Outputs.
+  \end{explain}
+  
+  \begin{defn}[Funktion]
+  Eine \emph{Funktion} $f \colon A \to B$ ist eine Abbildung jedes Elements
+  aus~$A$ auf ein Element aus~$B$.
+  
+  Wir nennen $A$ die \emph{Definitionsmenge} von~$f$ und $B$ die \emph{Wertemenge}
+  von~$f$.  Die Elemente von~$A$ heißen Inputs oder \emph{Argumente}
+  von~$f$, und das Element von~$B$, das mit einem Argument~$x$ gepaart ist
+  wird der \emph{(Funktions-)Wert von~$f$} für das Argument~$x$ genannt,
+  geschrieben~$f(x)$.
+  
+  Das \emph{Bild} $\ran{f}$ von~$f$ ist die Teilmenge der Wertemenge
+  bestehend aus den Werten von~$f$ für beliebige Argumente; $\ran{f} =
+  \Setabs{f(x)}{x \in A}$.
+  \end{defn}
+  
+  Das Diagramm in \olref{fig:function} kann helfen, sich Funktionen vorzustellen. Die Ellipse
+  auf der linken Seite stellt die Definitionsmenge der Funktion dar, die Ellipse auf der
+  die Ellipse auf der rechten Seite stellt die \emph{Wertemenge} der Funktion dar; und ein Pfeil
+  zeigt von einem \emph{Argument} in der Definitionsmenge zum entsprechenden
+  \emph{Wert} in der Wertemenge.
+  
+  \begin{figure}
+    \olasset{assets/diagrams/function.tikz}
+    \caption{Eine Funktion ist eine Abbildung von jedem Element einer Menge auf
+      ein Element einer anderen. Ein Pfeil zeigt von einem Argument im
+      Definitionsbereich auf den entsprechenden Wert im Wertebereich.}
+    \ollabel{fig:function}
+  \end{figure}
+  
+  \begin{ex}
+  Die Multiplikation nimmt Paare von natürlichen Zahlen als Inputs und bildet sie
+  auf natürliche Zahlen als Outputs, geht also von $\Nat \times \Nat$ (der Definitionsmenge) zu $\Nat$ (der Wertemenge). Wie sich herausstellt, ist das Bild auch
+  $\Nat$, da jedes $n \in \Nat$ $n \times 1$ ist.
+  \end{ex}
+  
+  \begin{ex}
+  Die Multiplikation ist eine Funktion, weil sie jede Eingabe - also jedes Paar
+  von natürlichen Zahlen - mit einer einzigen Ausgabe paart: $\times \colon \Nat^2 \to
+  \Nat$. Im Gegensatz dazu ist die Quadratwurzel auf der Definitionsmenge
+  $\Nat$ keine Funktion, da jede positive ganze Zahl $n$ zwei
+  Quadratwurzeln hat: $\sqrt{n}$ und $-\sqrt{n}$. Wir können sie zu einer Funktion machen, indem wir
+  nur die positive Quadratwurzel ausgeben: $\sqrt{\phantom{X}} \colon
+  \Nat \to \Real$. 
+  \end{ex}
+  
+  \begin{ex}
+  Die Relation, die jeden Schüler eines Klasse mit seiner Mathenote verbindet,
+  ist eine Funktion - kein Schüler kann zwei verschiedene Mathenoten in derselben Klasse erhalten. Die Relation, die jeden Schüler in einer Klasse mit seinen
+  Eltern paart, ist keine Funktion: Schüler können null, zwei oder mehr Eltern haben.
+  \end{ex}
+  
+  \begin{explain}
+  Wir können Funktionen definieren, indem wir genau angeben, wie der
+  Wert der Funktion für jedes mögliche Argment ist. Verschiedene Möglichkeiten
+  sind die Angabe einer Formel, die Beschreibung einer Methode zur Berechnung
+  des Wertes oder die Auflistung der Werte für jedes Argument. Wie auch immer Funktionen
+  definiert werden, müssen wir sicherstellen, dass wir für jedes Argument einen,
+  und nur einen, Wert angeben.
+  \end{explain}
+  
+  
+  \begin{ex}
+  Sei $f \colon \Nat \to \Nat$ so definiert, dass $f(x) = x+1$. Das
+  ist eine Definition, die $f$ als eine Funktion spezifiziert, die
+  natürliche Zahlen aufnimmt und natürliche Zahlen ausgibt. Sie sagt uns, dass $f$ für eine
+  natürliche Zahl~$x$ ihren Nachfolger~$x+1$ ausgibt.
+  In diesem Fall ist die Wertemenge $\Nat$ nicht das Bild von~$f$, da die
+  natürliche Zahl~$0$ nicht der Nachfolger einer natürlichen Zahl ist. Der
+  Bereich von~$f$ ist die Menge aller positiven ganzen Zahlen, $\Int^{+}$.
+  \end{ex}
+  
+  \begin{ex}\ollabel{examplefunext}
+  Es sei $g \colon \Nat \to \Nat$ so definiert, dass $g(x) = x+2-1$. Diese
+  sagt uns, dass $g$ eine Funktion ist, die natürliche Zahlen aufnimmt und
+  natürliche Zahlen ausgibt. Für eine natürliche Zahl~$n$ gibt $g$
+  den Vorgänger des Nachfolgers des Nachfolgers von~$x$, aus d.h.
+  $x+1$.
+  \end{ex}
+  
+  \begin{explain}
+  Wir haben gerade zwei Funktionen, $f$ und $g$, mit unterschiedlichen
+  \emph{Definitionen}. Es handelt sich jedoch um dieselbe Funktion.
+  Schließlich gilt für jede natürliche Zahl~$n$, dass $f(n) = n+1 = n+2-1 =
+  g(n)$. Anders ausgedrückt: Unsere Definitionen für $f$ und~$g$ geben
+  dieselbe Abbildung mit Hilfe verschiedener Gleichungen an. Implizit stützen wir uns also
+  auf ein Prinzip der Extensionalität für Funktionen, 
+  \[
+    \text{falls }\forall x\, f(x) = g(x)\text{, dann }f = g
+  \]
+  vorausgesetzt, dass $f$ und~$g$ denselben Definitionsbereich und denselben Wertebereich haben.
+  \end{explain}
+  
+  \begin{ex}
+  Wir können Funktionen auch durch Fälle definieren. Zum Beispiel könnten wir definieren
+  $h \colon \Nat \to \Nat$ durch
+  \[
+  h(x) =
+  \begin{cases}
+    \frac{x}{2} & \text{falls $x$ gerade ist} \\
+    \frac{x+1}{2} & \text{falls $x$ ungerade ist.}
+  \end{cases}
+  \]
 
-In this mathematical, abstract sense, a function is a \emph{black
-box}: what matters is only what output is paired with what input, not
-the method for calculating the output.
-\end{explain}
-
-\begin{defn}[Function]
-A \emph{function} $f \colon A \to B$ is a mapping of each !!{element}
-of~$A$ to an !!{element} of~$B$.
-
-We call $A$ the \emph{domain} of~$f$ and $B$ the \emph{codomain}
-of~$f$.  The !!{element}s of~$A$ are called inputs or \emph{arguments}
-of~$f$, and the !!{element} of~$B$ that is paired with an argument~$x$
-by~$f$ is called the \emph{value of~$f$} for argument~$x$,
-written~$f(x)$.
-
-The \emph{range} $\ran{f}$ of~$f$ is the subset of the codomain
-consisting of the values of~$f$ for some argument; $\ran{f} =
-\Setabs{f(x)}{x \in A}$.
-\end{defn}
-
-The diagram in \olref{fig:function} may help to think about functions. The ellipse
-on the left represents the function's \emph{domain}; the ellipse on
-the right represents the function's \emph{codomain}; and an arrow
-points from an \emph{argument} in the domain to the corresponding
-\emph{value} in the codomain.
-
-\begin{figure}
-  \olasset{assets/diagrams/function.tikz}
-  \caption{A function is a mapping of each !!{element} of one set to
-    !!a{element} of another. An arrow points from an argument in the
-    domain to the corresponding value in the codomain.}
-  \ollabel{fig:function}
-\end{figure}
-
-\begin{ex}
-Multiplication takes pairs of natural numbers as inputs and maps them
-to natural numbers as outputs, so goes from $\Nat \times \Nat$ (the
-domain) to $\Nat$ (the codomain). As it turns out, the range is also
-$\Nat$, since every $n \in \Nat$ is $n \times 1$.
-\end{ex}
-
-\begin{ex}
-Multiplication is a function because it pairs each input---each pair
-of natural numbers---with a single output: $\times \colon \Nat^2 \to
-\Nat$. By contrast, the square root operation applied to the domain
-$\Nat$ is not functional, since each positive integer $n$ has two
-square roots: $\sqrt{n}$ and $-\sqrt{n}$. We can make it functional by
-only returning the positive square root: $\sqrt{\phantom{X}} \colon
-\Nat \to \Real$. 
-\end{ex}
-
-\begin{ex}
-The relation that pairs each student in a class with their final grade
-is a function---no student can get two different final grades in the
-same class. The relation that pairs each student in a class with their
-parents is not a function: students can have zero, or two, or more
-parents.
-\end{ex}
-
-\begin{explain}
-We can define functions by specifying in some precise way what the
-value of the function is for every possible argment. Different ways of
-doing this are by giving a formula, describing a method for computing
-the value, or listing the values for each argument. However functions
-are defined, we must make sure that for each argment we specify one,
-and only one, value.
-\end{explain}
-
-
-\begin{ex}
-Let $f \colon \Nat \to \Nat$ be defined such that $f(x) = x+1$. This
-is a definition that specifies $f$ as a function which takes in
-natural numbers and outputs natural numbers. It tells us that, given a
-natural number~$x$, $f$ will output its successor~$x+1$.
-In this case, the codomain $\Nat$ is not the range of~$f$, since the
-natural number~$0$ is not the successor of any natural number. The
-range of~$f$ is the set of all positive integers, $\Int^{+}$.
-\end{ex}
-
-\begin{ex}\ollabel{examplefunext}
-Let $g \colon \Nat \to \Nat$ be defined such that $g(x) = x+2-1$. This
-tells us that $g$ is a function which takes in natural numbers and
-outputs natural numbers. Given a natural number~$n$, $g$ will output
-the predecessor of the successor of the successor of~$x$, i.e.,
-$x+1$.
-\end{ex}
-
-\begin{explain}
-We just considered two functions, $f$ and $g$, with different
-\emph{definitions}. However, these are the \emph{same function}. After
-all, for any natural number~$n$, we have that $f(n) = n+1 = n+2-1 =
-g(n)$. Otherwise put: our  definitions for $f$ and~$g$ specify the
-same mapping by means of different equations. Implicitly, then, we are
-relying upon a principle of extensionality for functions, 
-\[
-  \text{if }\forall x\, f(x) = g(x)\text{, then }f = g
-\]
-provided that $f$ and~$g$ share the same domain and codomain.
-\end{explain}
-
-\begin{ex}
-We can also define functions by cases. For instance, we could define
-$h \colon \Nat \to \Nat$  by
-\[
-h(x) =
-\begin{cases}
-  \frac{x}{2} & \text{if $x$ is even} \\
-  \frac{x+1}{2} & \text{if $x$ is odd.}
-\end{cases}
-\]
-Since every natural number is either even or odd, the output of this
-function will always be a natural number. Just remember that if you
-define a function by cases, every possible input must fall into
-exactly one case.  In some cases, this will require a proof that the
-cases are exhaustive and exclusive.
-\end{ex}
-
-\end{document}
+  Da jede natürliche Zahl entweder gerade oder ungerade ist, ist die Ausgabe dieser
+  Funktion immer eine natürliche Zahl. Wann immer wir
+  eine Funktion durch Fälle definieren, muss jede mögliche Eingabe
+  genau einem Fall entsprechen.  In manchen Fällen erfordert dies einen Beweis, dass die
+  Fälle vollständig und einander ausschließend vorliegen.
+  \end{ex}
+  
+  \end{document}
