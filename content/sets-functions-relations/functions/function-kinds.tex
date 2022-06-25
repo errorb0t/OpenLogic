@@ -1,118 +1,118 @@
-% Part: sets-functions-relations
-% Chapter: functions
-% Section: kinds
+% Teil: Mengen-Funktionen-Beziehungen
+% Kapitel: Funktionen
+% Abschnitt: kinds
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{fun}{kin}
-\olsection{Kinds of Functions}
+\olsection{Arten von Funktionen}
 
 \begin{explain}
-It will be useful to introduce a kind of taxonomy for some of the
-kinds of functions which we encounter most frequently. 
+Es wird nützlich sein, eine Art Klassifizierung für einige der
+Arten von Funktionen einzuführen, die uns am häufigsten begegnen. 
 
-To start, we might want to consider functions which have the property
-that every member of the codomain is a value of the function. Such
-functions are called !!{surjective}, and can be pictured as in
+Für den Anfang könnten wir Funktionen betrachten, die die Eigenschaft haben,
+dass jedes Element der Wertemenge ein Wert der Funktion ist. Solche
+Funktionen werden surjektiv genannt und können wie folgt dargestellt werden
 \olref{fig:surjective}.
 
 \begin{figure}
   \olasset{assets/diagrams/surjective.tikz}
-  \caption{!!^a{surjective} function has every !!{element} of the
-    codomain as a value.}
+  \caption{eine surjektive Funktion bildet auf jedes Element der
+    Wertemenge ab.}
   \ollabel{fig:surjective}
 \end{figure}
 \end{explain}
 
-\begin{defn}[!!^{surjective} function]
-A function $f \colon A \rightarrow B$ is \emph{!!{surjective}} iff $B$
-is also the range of~$f$, i.e., for every $y \in B$ there is at least
-one $x \in A$ such that~$f(x) = y$, or in symbols:
+\begin{defn}[surjektive Funktion]
+Eine Funktion $f \colon {A \rightarrow B}$ heißt \emph{surjektiv} gdw $B$
+auch die Wertemenge von~$f$ ist, d.h. für jedes $y \in B$ gibt es mindestens
+ein $x \in A$, sodass~$f(x) = y$, oder in Zeichen:
 \[
   (\forall y \in B)(\exists x \in A)f(x) = y.
 \]
-We call such a function !!a{surjection} from $A$ to $B$.
+Wir nennen eine solche Funktion Surjektion von $A$ nach $B$.
 \end{defn}
 
 \begin{explain}
-If you want to show that $f$ is !!a{surjection}, then you need to show
-that every object in $f$'s codomain is the value of $f(x)$ for some
-input $x$.
+Wenn man zeigen will, dass $f$ eine Surjektion ist, dann muss man zeigen
+dass jedes Objekt in $f$'s Wertemenge der Wert von $f(x)$ für eine
+Eingabe $x$ ist.
 
-Note that any function \emph{induces} !!a{surjection}. After all,
-given a function $f \colon A \to B$, let $f' \colon A \to \ran{f}$ be
-defined by $f'(x) = f(x)$. Since $\ran{f}$ is \emph{defined} as
-$\Setabs{f(x) \in B}{x \in A}$, this function $f'$ is guaranteed to be
-!!a{surjection}
+Man beachte, dass jede Funktion eine Surjektion \emph{induziert}. Denn:
+Für eine Funktion $f \colon A \to B$ sei $f' \colon A \to \ran{f}$
+definiert durch $f'(x) = f(x)$. Da $\ran{f}$ \emph{definiert} ist als
+$\Setabs{f(x) \in B}{x \in A}$, ist diese Funktion $f'$ garantiert
+surjektiv.
 \end{explain}
 
 \begin{explain}
-Now, any function maps each possible input to a unique output. But
-there are also functions which never map different inputs to the same
-outputs. Such functions are called !!{injective}, and can be pictured
-as in \olref{fig:injective}.
+Nun bildet jede Funktion jeden möglichen Input auf einen eindeutigen Output ab. Aber
+es gibt auch Funktionen, die niemals verschiedene Inputs auf denselben Output abbilden.
+Solche Funktionen nennt man injektiv, und man kann sie sich vorstellen
+wie in \olref{fig:injective}.
+\end{explain}
+
+\begin{defn}[injektive Funktion] 
+Eine Funktion $f \colon A \rightarrow B$ ist \emph{injektiv} gdw für
+jedes $y \in B$ höchstens ein $x \in A$ existiert, sodass~$f(x) = y$. Wir
+nennen eine solche Funktion eine Injektion von $A$ nach~$B$.
+\end{defn}
+
+\begin{explain}
+Wenn man zeigen will, dass $f$ eine Injektion ist, muss man zeigen, dass
+für beliebige Elemente $x$ und $y$ der Wertemenge von $f$ gilt: Falls $f(x)=f(y)$, dann
+$x=y$. 
 \begin{figure}
   \olasset{assets/diagrams/injective.tikz}
-  \caption{!!^a{injective} function never maps two different
-    arguments to the same value.}
+  \caption{Eine injektive Funktion bildet niemals zwei unterschiedliche
+    Argumente auf denselben Wert ab.}
   \ollabel{fig:injective}
 \end{figure}
 \end{explain}
 
-\begin{defn}[!!^{injective} function] 
-A function $f \colon A \rightarrow B$ is \emph{!!{injective}} iff for
-each $y \in B$ there is at most one $x \in A$ such that~$f(x) = y$. We
-call such a function !!a{injection} from $A$ to~$B$.
-\end{defn}
-
-\begin{explain}
-If you want to show that $f$ is !!a{injection}, you need to show that
-for any !!{element}s $x$ and $y$ of $f$'s domain, if $f(x)=f(y)$, then
-$x=y$. 
-\end{explain}
-
 \begin{ex}
-The constant function $f\colon \Nat \to \Nat$ given by $f(x) = 1$ is
-neither !!{injective}, nor !!{surjective}.
+Die konstante Funktion $f\colon \Nat \to \Nat$, gegeben durch $f(x) = 1$, ist
+weder injektiv, noch surjektiv.
 
-The identity function $f\colon \Nat \to \Nat$ given by $f(x) = x$ is
-both !!{injective} and !!{surjective}.
+Die Identitätsfunktion $f\colon \Nat \to \Nat$, gegeben durch $f(x) = x$, ist
+sowohl injektiv als auch surjektiv.
 
-The successor function $f \colon \Nat \to \Nat$ given by $f(x) = x+1$
-is !!{injective} but not !!{surjective}.
+Die Nachfolgefunktion $f \colon \Nat \to \Nat$, gegeben durch $f(x) = x+1$
+ist injektiv, aber nicht surjektiv.
   
-The function $f \colon \Nat \to \Nat$ defined by:
+Die Funktion $f \colon \Nat \to \Nat$, definiert durch:
 \[
   f(x) =
   \begin{cases}
-    \frac{x}{2} & \text{if $x$ is even} \\
-    \frac{x+1}{2} & \text{if $x$ is odd.}
+    \frac{x}{2} & \text{falls $x$ gerade ist} \\
+    \frac{x+1}{2} & \text{falls $x$ ungerade ist.}
   \end{cases}
 \]
-is !!{surjective}, but not !!{injective}.
+ist surjektiv, aber nicht injektiv.
 \end{ex}
 
 \begin{explain}
-Often enough, we want to consider functions which are both
-!!{injective} and !!{surjective}. We call such functions
-!!{bijective}. They look like the function pictured in
-\olref{fig:bijective}. !!^{bijection}s are also sometimes called
-\emph{one-to-one correspondences}, since they uniquely pair elements
-of the codomain with elements of the domain.
+Oft wollen wir Funktionen betrachten, die sowohl
+injektiv als auch surjektiv sind. Wir nennen solche Funktionen
+bijektiv. Sie sehen aus wie die Funktion, die in
+\olref{fig:bijective}. Bijektionen werden manchmal auch als
+\emph{Eins-zu-Eins-Korrespondenzen} genannt, da sie eindeutig Elemente
+des Wertemenge mit Elementen der Definitionsmenge verbinden.
 \begin{figure}
   \olasset{assets/diagrams/bijective.tikz}
-  \caption{!!^a{bijective} function uniquely pairs the elements of the
-    codomain with those of the domain.}
+  \caption{Eine bijektive Funktion paart eindeutig die Elemente der
+    Wertemenge mit denen der Definitionsmenge.}
   \ollabel{fig:bijective}
 \end{figure}
 \end{explain}
 
-\begin{defn}[!!^{bijection}] 
-A function $f \colon A \to B$ is \emph{!!{bijective}} iff it is both
-!!{surjective} and !!{injective}. We call such a function
-!!a{bijection} from $A$ to~$B$ (or between $A$ and~$B$).
+\begin{defn}[Bijektion] 
+Eine Funktion $f \colon A \to B$ heißt \emph{bijektiv}, wenn sie sowohl
+surjektiv als auch injektiv ist. Wir nennen eine solche Funktion
+Bijektion von $A$ nach~$B$ (oder zwischen $A$ und~$B$).
 \end{defn}
 
 \end{document}
