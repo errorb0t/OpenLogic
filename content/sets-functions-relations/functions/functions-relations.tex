@@ -1,6 +1,6 @@
-% Part: sets-functions-relations
-% Chapter: functions
-% Section: functions-relations
+% Teil: Mengen-Funktionen-Beziehungen
+% Kapitel: Funktionen
+% Abschnitt: functions-relations
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
@@ -9,95 +9,97 @@
 
 \olfileid{sfr}{fun}{rel}
 
-\olsection{Functions as Relations}
+\olsection{Funktionen als Relationen}
 
 \begin{explain} 
-A function which maps !!{element}s of~$A$ to !!{element}s of~$B$
-obviously defines a relation between $A$ and~$B$, namely the relation
-which holds between $x$ and $y$ iff $f(x) = y$.  In fact, we might
-even---if we are interested in reducing the building blocks of
-mathematics for instance---\emph{identify} the function~$f$ with this
-relation, i.e., with a set of pairs.  This then raises the question:
-which relations define functions in this way?
+Eine Funktion, die Elemente aus~$A$ auf Elemente aus~$B$ abbildet,
+definiert offensichtlich eine Relation zwischen $A$ und~$B$, nämlich die Relation,
+die zwischen $x$ und $y$ besteht, falls $f(x) = y$.  In der Tat, wir könnten
+sogar---wenn wir daran interessiert sind, die Grundbausteine der
+Mathematik zu reduzieren---die Funktion~$f$ mit dieser Relation \emph{identifizieren},
+d.h. mit einer Menge von Paaren. Das wirft dann die Frage auf:
+Welche Relationen definieren Funktionen auf diese Weise?
 \end{explain}
 
-\begin{defn}[Graph of a function] Let $f\colon A \to B$ be a function.
-The \emph{graph} of~$f$ is the relation $R_f \subseteq A \times B$
-defined by
+\begin{defn}[Graph einer Funktion] Sei $f\colon A \to B$ eine Funktion.
+Der \emph{Graph} von~$f$ ist die Relation $R_f \subseteq A \times B$
+definiert durch
 \[
 R_f = \Setabs{\tuple{x,y}}{f(x) = y}.
 \]
 \end{defn}
 
 \begin{explain}
-The graph of a function is uniquely determined, by extensionality.
-Moreover, extensionality (on sets) will immediate vindicate the
-implicit principle of extensionality for functions,
-whereby if $f$ and~$g$ share a domain and codomain then they are
-identical if they agree on all values. 
+Der Graph einer Funktion ist durch die Extensionalität eindeutig bestimmt.
+Außerdem bestätigt die Extensionalität (auf Mengen) unmittelbar das
+implizite Prinzip der Extensionalität für Funktionen,
+wonach, falls $f$ und~$g$ sich Definitions- und Wertemenge teilen, identisch sind,
+wenn sie in allen Funktionswerten übereinstimmen. 
 
-Similarly, if a relation is ``functional'', then it is the graph of a function. 
+Wenn eine Beziehung \glqq funktional\grqq{} ist, dann ist sie der Graph einer Funktion. 
 \end{explain}
 
 \begin{prop}\ollabel{prop:graph-function}
-Let $R \subseteq A \times B$ be such that:
+Sei $R \subseteq A \times B$ sodass:
 \begin{enumerate}
-\item If $Rxy$ and $Rxz$ then $y = z$; and 
-\item for every $x \in A$ there is some $y \in B$ such that $\tuple{x,
+\item Falls $Rxy$ und $Rxz$ dann $y = z$; und 
+\item für jedes $x \in A$ gibt es ein $y \in B$ mit $\tuple{x,
 y} \in R$.  
 \end{enumerate}
-Then $R$ is the graph of the function $f\colon A \to B$ defined by
-$f(x) = y$ iff $Rxy$. 
+Dann ist $R$ der Graph der Funktion $f\colon A \to B$ definiert durch
+$f(x) = y$ gdw $Rxy$. 
 \end{prop}
 
 \begin{proof}
-Suppose there is a $y$ such that $Rxy$.  If there were another $z \neq
-y$ such that $Rxz$, the condition on~$R$ would be violated. Hence, if
-there is a $y$ such that $Rxy$, this $y$ is unique, and so $f$ is
-well-defined.  Obviously, $R_f = R$.
+Angenommen, es gibt ein $y$, für das $Rxy$ gilt.  Gäbe es ein anderes $z \neq
+y$, so dass $Rxz$, würde die Bedingung, die wir an~$R$ gestellt haben, verletzt werden. Wenn es
+also ein $y$ gibt, für das $Rxy$ gilt, so ist dieses $y$ eindeutig, und $f$ ist somit
+wohldefiniert.  Es ist offensichtlich, dass $R_f = R$ ist.
 \end{proof}
 
 \begin{explain}
-Every function $f\colon A \to B$ has a graph, i.e., a relation on $A
-\times B$ defined by $f(x) = y$. On the other hand, every relation~$R
-\subseteq A \times B$ with the properties given in
-\olref{prop:graph-function} is the graph of a function~$f \colon A \to
-B$. Because of this close connection between functions and their
-graphs, we can think of a function simply as its graph. In other
-words, functions can be identified with certain relations, i.e., with
-certain sets of tuples. \oliflabeldef{sfr:rel:ref:sec}{Note, though,
-that the spirit of this ``identification'' is as in
-\olref[sfr][rel][ref]{sec}: it is not a claim about the metaphysics of
-functions, but an observation that it is convenient to \emph{treat}
-functions as certain sets. One reason that this is so convenient, is
-that w}{W}e can now consider performing similar operations on
-functions as we performed on relations (see
-\olref[sfr][rel][ops]{sec}). In particular:
+Jede Funktion $f\colon A \to B$ hat einen Graphen, d.h. eine Beziehung auf $A
+\times B$, definiert durch $f(x) = y$. Andererseits ist jede Relation~$R
+\subseteq A \times B$ mit den Eigenschaften aus
+\olref{prop:graph-function} der Graph einer Funktion~$f \colon A \to
+B$. Wegen dieser engen Verbindung zwischen Funktionen und ihren
+Graphen können wir uns eine Funktion einfach als ihren Graphen vorstellen.
+Mit anderen Worten: Funktionen können mit bestimmten Relationen identifiziert werden, d.h. mit
+bestimmten Mengen von Tupeln. \oliflabeldef{sfr:rel:ref:sec}{Man beachte jedoch,
+dass der Sinn dieser ``Identifikation'' der gleiche ist wie in
+\olref[sfr][rel][ref]{sec}: Es handelt sich nicht um eine Behauptung über die Metaphysik von
+Funktionen, sondern eine Beobachtung, dass es praktisch ist,
+Funktionen als bestimmte Mengen zu \emph{behandeln}. Ein Grund, warum das so praktisch ist folgender:} 
+Wir können nun in Betracht ziehen, ähnliche Operationen mit Funktionen durchzuführen, 
+ie wir es bei Relationen getan haben (siehe
+\olref[sfr][rel][ops]{sec}). Insbesondere:
 \end{explain}
 
 \begin{defn}\ollabel{defn:funimage}
-Let $f \colon A \to B$ be a function with $C\subseteq A$.
+Sei $f \colon A \to B$ eine Funktion mit $C\subseteq A$.
 
-The \emph{restriction} of~$f$ to~$C$ is the
-function~$\funrestrictionto{f}{C}\colon C \to B$ defined by
-$(\funrestrictionto{f}{C})(x) = f(x)$ for all $x \in C$. In other
-words, $\funrestrictionto{f}{C} = \Setabs{\tuple{x, y} \in R_f}{x \in
+Die \emph{Restriktion} von~$f$ auf~$C$ ist die
+Funktion~$\funrestrictionto{f}{C}\colon C \to B$ definiert durch
+$(\funrestrictionto{f}{C})(x) = f(x)$ für alle $x \in C$.
+Mit anderen Worten, $\funrestrictionto{f}{C} = \Setabs{\tuple{x, y} \in R_f}{x \in
 C}$.
 
-The \emph{application} of~$f$ to~$C$ is $\funimage{f}{C} =
-\Setabs{f(x)}{x \in C}$. We also call this the \emph{image} of~$C$
-under~$f$.
+Das \emph{Bild} von~$C$ unter~$f$ ist $\funimage{f}{C} =
+\Setabs{f(x)}{x \in C}$.
 \end{defn}
 
 \begin{explain}
-It follows from these definition that $\ran{f} =
-\funimage{f}{\dom{f}}$, for any function~$f$.
-\oliflabeldef{sfr:rel:ops:sec}{These notions are exactly as one would
-expect, given the definitions in \olref[sfr][rel][ops]{sec} and our
-identification of functions with relations. But two other
-operations---inverses and relative products---require a little more
-detail. We will provide that in the \olref[inv]{sec} and
-\olref[cmp]{sec}.}{}
+Aus diesen Definitionen folgt für jede Funktion~$f$, dass $\ran{f} =
+\funimage{f}{\dom{f}}$.
+\oliflabeldef{sfr:rel:ops:sec}{Diese Begriffe sind genau so, wie man sie
+erwarten würde, wenn man die Definitionen in \olref[sfr][rel][ops]{sec} und unsere
+Identifizierung von Funktionen mit Relationen heranzieht. Aber zwei andere
+Operationen - Inverse und relative Produkte - erfordern ein wenig mehr
+Feinarbeit. Diese werden wir in den Kapiteln \olref[inv]{sec} und
+\olref[cmp]{sec} leisten.}{}
 \end{explain}
 
 \end{document}
+
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
