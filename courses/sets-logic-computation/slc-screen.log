@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  1 JUL 2022 23:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  2 JUL 2022 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3301,11 +3301,21 @@ Overfull \hbox (0.76646pt too wide) detected at line 239
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 240
- \T1/Baskervaldx-TOsF/b/n/10.95 391
+ \T1/Baskervaldx-TOsF/b/n/10.95 397
+ []
+
+
+Overfull \hbox (0.76646pt too wide) detected at line 241
+ \T1/Baskervaldx-TOsF/b/n/10.95 399
+ []
+
+
+Overfull \hbox (0.76646pt too wide) detected at line 242
+ \T1/Baskervaldx-TOsF/b/n/10.95 404
  []
 
 ) [11]
-<illustrations/SkolemChapter.png, id=678, 355.5684pt x 381.1038pt>
+<illustrations/SkolemChapter.png, id=682, 355.5684pt x 381.1038pt>
 File: illustrations/SkolemChapter.png Graphic file (type png)
 <use illustrations/SkolemChapter.png>
 Package pdftex.def Info: illustrations/SkolemChapter.png  used on input line 18
@@ -3336,7 +3346,7 @@ LaTeX Font Warning: Font shape `U/stmry/m/n' in size <5.5> not available
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 155.
 [16] [17]) [18] [19]
-<illustrations/CantorChapter.png, id=726, 358.941pt x 385.44pt>
+<illustrations/CantorChapter.png, id=730, 358.941pt x 385.44pt>
 File: illustrations/CantorChapter.png Graphic file (type png)
 <use illustrations/CantorChapter.png>
 Package pdftex.def Info: illustrations/CantorChapter.png  used on input line 28
@@ -3751,7 +3761,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--142
  []
 
 ))) [71]
-<illustrations/GodelChapter.png, id=1459, 356.7729pt x 384.2355pt>
+<illustrations/GodelChapter.png, id=1463, 356.7729pt x 384.2355pt>
 File: illustrations/GodelChapter.png Graphic file (type png)
 <use illustrations/GodelChapter.png>
 Package pdftex.def Info: illustrations/GodelChapter.png  used on input line 39.
@@ -17965,7 +17975,7 @@ ine 89.
  [263])
 (../../content/first-order-logic/../../content/first-order-logic/beyond/other-l
 ogics.tex [264]))) [265]
-<illustrations/TuringChapter.png, id=3410, 356.532pt x 382.3083pt>
+<illustrations/TuringChapter.png, id=3414, 356.532pt x 382.3083pt>
 File: illustrations/TuringChapter.png Graphic file (type png)
 <use illustrations/TuringChapter.png>
 Package pdftex.def Info: illustrations/TuringChapter.png  used on input line 48
@@ -22214,7 +22224,7 @@ ine 71.
 ))) [326] [327
 
 ]
-<illustrations/NoetherChapter.png, id=4000, 356.7729pt x 382.0674pt>
+<illustrations/NoetherChapter.png, id=4004, 356.7729pt x 382.0674pt>
 File: illustrations/NoetherChapter.png Graphic file (type png)
 <use illustrations/NoetherChapter.png>
 Package pdftex.def Info: illustrations/NoetherChapter.png  used on input line 5
@@ -25643,7 +25653,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 )) [373]
 (../../content/history/biographies/georg-cantor.tex
-<../../assets/photos/cantor-georg/cantor-georg-small.png, id=4347, 72.27pt x 11
+<../../assets/photos/cantor-georg/cantor-georg-small.png, id=4351, 72.27pt x 11
 3.223pt>
 File: ../../assets/photos/cantor-georg/cantor-georg-small.png Graphic file (typ
 e png)
@@ -25659,7 +25669,7 @@ LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/sc' will be
 
  <../../assets/photos/cantor-georg/cantor-georg-small.png (PNG copy)>])
 (../../content/history/biographies/alonzo-church.tex
-<../../assets/photos/church-alonzo/church-alonzo-small.png, id=4357, 72.27pt x 
+<../../assets/photos/church-alonzo/church-alonzo-small.png, id=4361, 72.27pt x 
 89.3739pt>
 File: ../../assets/photos/church-alonzo/church-alonzo-small.png Graphic file (t
 ype png)
@@ -25675,7 +25685,7 @@ Underfull \hbox (badness 4168) in paragraph at lines 15--26
 
 [375 <../../assets/photos/church-alonzo/church-alonzo-small.png (PNG copy)>])
 (../../content/history/biographies/gerhard-gentzen.tex
-<../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png, id=4373, 72.27p
+<../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png, id=4377, 72.27p
 t x 58.0569pt>
 File: ../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png Graphic fil
 e (type png)
@@ -25687,7 +25697,7 @@ all.png  used on input line 14.
 (../../assets/photos/gentzen-gerhard/gentzen-gerhard-credit.tex) [376] [377 <..
 /../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png (PNG copy)>])
 (../../content/history/biographies/kurt-goedel.tex
-<../../assets/photos/goedel-kurt/goedel-kurt-small.png, id=4395, 36.135pt x 54.
+<../../assets/photos/goedel-kurt/goedel-kurt-small.png, id=4399, 36.135pt x 54.
 4434pt>
 File: ../../assets/photos/goedel-kurt/goedel-kurt-small.png Graphic file (type 
 png)
@@ -25716,7 +25726,7 @@ Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting on input line 35.
 [378 <../../assets/photos/goedel-kurt/goedel-kurt-small.png (PNG copy)>]
 [379]) (../../content/history/biographies/emmy-noether.tex
-<../../assets/photos/noether-emmy/noether-emmy-small.png, id=4428, 54.2025pt x 
+<../../assets/photos/noether-emmy/noether-emmy-small.png, id=4432, 54.2025pt x 
 82.74915pt>
 File: ../../assets/photos/noether-emmy/noether-emmy-small.png Graphic file (typ
 e png)
@@ -25735,7 +25745,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 53.
  [381])
 (../../content/history/biographies/bertrand-russell.tex
-<../../assets/photos/russell-bertrand/russell-bertrand-small.png, id=4452, 36.1
+<../../assets/photos/russell-bertrand/russell-bertrand-small.png, id=4456, 36.1
 35pt x 53.2389pt>
 File: ../../assets/photos/russell-bertrand/russell-bertrand-small.png Graphic f
 ile (type png)
@@ -25751,7 +25761,7 @@ Underfull \hbox (badness 4699) in paragraph at lines 15--20
 
 [382 <../../assets/photos/russell-bertrand/russell-bertrand-small.png (PNG copy
 )>] [383]) (../../content/history/biographies/alfred-tarski.tex
-<../../assets/photos/tarski-alfred/tarski-alfred-small.png, id=4482, 27.10126pt
+<../../assets/photos/tarski-alfred/tarski-alfred-small.png, id=4486, 27.10126pt
  x 38.75479pt>
 File: ../../assets/photos/tarski-alfred/tarski-alfred-small.png Graphic file (t
 ype png)
@@ -25767,7 +25777,7 @@ Underfull \hbox (badness 4024) in paragraph at lines 15--21
 
 [384 <../../assets/photos/tarski-alfred/tarski-alfred-small.png (PNG copy)>])
 (../../content/history/biographies/alan-turing.tex
-<../../assets/photos/turing-alan/turing-alan-small.png, id=4493, 301.125pt x 39
+<../../assets/photos/turing-alan/turing-alan-small.png, id=4497, 301.125pt x 39
 5.4775pt>
 File: ../../assets/photos/turing-alan/turing-alan-small.png Graphic file (type 
 png)
@@ -25788,7 +25798,7 @@ Underfull \hbox (badness 5077) in paragraph at lines 32--43
 
 [386 <../../assets/photos/turing-alan/turing-alan-small.png (PNG copy)>])
 (../../content/history/biographies/ernst-zermelo.tex
-<../../assets/photos/zermelo-ernst/zermelo-ernst-small.png, id=4513, 54.2025pt 
+<../../assets/photos/zermelo-ernst/zermelo-ernst-small.png, id=4517, 54.2025pt 
 x 78.95497pt>
 File: ../../assets/photos/zermelo-ernst/zermelo-ernst-small.png Graphic file (t
 ype png)
@@ -26432,9 +26442,6 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                slc-screen
 (biblatex)                and rerun LaTeX afterwards.
@@ -26444,10 +26451,10 @@ Package logreq Info: Writing requests to 'slc-screen.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 76784 strings out of 478354
- 1717286 string characters out of 2837118
- 2194587 words of memory out of 3000000
- 90681 multiletter control sequences out of 15000+600000
+ 76912 strings out of 478354
+ 1718673 string characters out of 2837118
+ 2195966 words of memory out of 3000000
+ 90809 multiletter control sequences out of 15000+600000
  755925 words of font info for 390 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  297i,20n,276p,1659b,3841s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -26590,9 +26597,9 @@ iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/foels/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/foels/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/foels/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/boondox/zxxrw8a.pfb>
-Output written on slc-screen.pdf (425 pages, 4759217 bytes).
+Output written on slc-screen.pdf (425 pages, 4759615 bytes).
 PDF statistics:
- 6182 PDF objects out of 6186 (max. 8388607)
+ 6184 PDF objects out of 6186 (max. 8388607)
  2453 named destinations out of 2487 (max. 500000)
  1878 words of extra memory for PDF output out of 10000 (max. 10000000)
 
