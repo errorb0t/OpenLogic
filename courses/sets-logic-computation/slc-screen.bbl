@@ -1,0 +1,2144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Aspray1984}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=14d2a69d7bd50aa791fc387b5796b3ab}{%
+           family={Aspray},
+           familyi={A\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \strng{fullhash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \strng{bibnamehash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \strng{authorbibnamehash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \strng{authornamehash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \strng{authorfullhash}{14d2a69d7bd50aa791fc387b5796b3ab}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Interview}
+      \field{title}{The {P}rinceton Mathematics Community in the 1930s: {A}lonzo {C}hurch}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb http://www.princeton.edu/mudd/finding_aids/mathoral/pmc05.htm
+      \endverb
+      \verb{url}
+      \verb http://www.princeton.edu/mudd/finding_aids/mathoral/pmc05.htm
+      \endverb
+    \endentry
+    \entry{Baaz2011}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cd0f01dbee92d19a3c799c223ca2290b}{%
+           family={Baaz},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3b407bb63367a850366076095ee1970}{%
+           family={Papadimitriou},
+           familyi={P\bibinitperiod},
+           given={Christos\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6eb295bf50be1e9d481755a61cdc93f}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Hilary\bibnamedelima W.},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3b63c577143e7ddf272693c8301798}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Dana\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e72599bbbd98d7c848a22ff12130aed}{%
+           family={Harper\bibnamedelima Jr.},
+           familyi={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Charles\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e2e8860ee3a9861c044f7ec08347fb7f}
+      \strng{fullhash}{bd48aadb4e32ca005743d8252c3e5d2c}
+      \strng{bibnamehash}{e2e8860ee3a9861c044f7ec08347fb7f}
+      \strng{authorbibnamehash}{e2e8860ee3a9861c044f7ec08347fb7f}
+      \strng{authornamehash}{e2e8860ee3a9861c044f7ec08347fb7f}
+      \strng{authorfullhash}{bd48aadb4e32ca005743d8252c3e5d2c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kurt {G}ödel and the Foundations of Mathematics: Horizons of Truth}
+      \field{year}{2011}
+    \endentry
+    \entry{Cantor1892}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=570c8e05aa703079708f9a64837f9704}{%
+           family={Cantor},
+           familyi={C\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Teubner}%
+      }
+      \strng{namehash}{570c8e05aa703079708f9a64837f9704}
+      \strng{fullhash}{570c8e05aa703079708f9a64837f9704}
+      \strng{bibnamehash}{570c8e05aa703079708f9a64837f9704}
+      \strng{authorbibnamehash}{570c8e05aa703079708f9a64837f9704}
+      \strng{authornamehash}{570c8e05aa703079708f9a64837f9704}
+      \strng{authorfullhash}{570c8e05aa703079708f9a64837f9704}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jahresbericht der deutschen Mathematiker-Vereinigung}
+      \field{title}{{Über} eine elementare {Frage} der {Mannigfaltigkeitslehre}}
+      \field{volume}{1}
+      \field{year}{1892}
+      \field{pages}{75\bibrangedash 8}
+      \range{pages}{4}
+    \endentry
+    \entry{Cheng2004}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58257b3ae9d752dcf69472fc4d5bf347}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \strng{fullhash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \strng{bibnamehash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \strng{authorbibnamehash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \strng{authornamehash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \strng{authorfullhash}{58257b3ae9d752dcf69472fc4d5bf347}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Write Proofs: A Quick Quide}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb http://http://eugeniacheng.com/wp-content/uploads/2017/02/cheng-proofguide.pdf
+      \endverb
+      \verb{url}
+      \verb http://http://eugeniacheng.com/wp-content/uploads/2017/02/cheng-proofguide.pdf
+      \endverb
+    \endentry
+    \entry{Church1936}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb8fba5b5e50ff0f327f47041fe3f891}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Alonzo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{fullhash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{bibnamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authorbibnamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authornamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authorfullhash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Symbolic Logic}
+      \field{title}{A note on the {E}ntscheidungsproblem}
+      \field{volume}{1}
+      \field{year}{1936}
+      \field{pages}{40\bibrangedash 41}
+      \range{pages}{2}
+    \endentry
+    \entry{Church1936a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb8fba5b5e50ff0f327f47041fe3f891}{%
+           family={Church},
+           familyi={C\bibinitperiod},
+           given={Alonzo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{fullhash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{bibnamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authorbibnamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authornamehash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \strng{authorfullhash}{eb8fba5b5e50ff0f327f47041fe3f891}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Mathematics}
+      \field{title}{An Unsolvable Problem of Elementary Number Theory}
+      \field{volume}{58}
+      \field{year}{1936}
+      \field{pages}{345\bibrangedash 363}
+      \range{pages}{19}
+    \endentry
+    \entry{Tarski1983}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5943303b8609d9e993925c31a8b36dd3}{%
+           family={Corcoran},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Indianapolis}%
+      }
+      \list{publisher}{1}{%
+        {Hackett}%
+      }
+      \strng{namehash}{5943303b8609d9e993925c31a8b36dd3}
+      \strng{fullhash}{5943303b8609d9e993925c31a8b36dd3}
+      \strng{bibnamehash}{5943303b8609d9e993925c31a8b36dd3}
+      \strng{authorbibnamehash}{5943303b8609d9e993925c31a8b36dd3}
+      \strng{authornamehash}{5943303b8609d9e993925c31a8b36dd3}
+      \strng{authorfullhash}{5943303b8609d9e993925c31a8b36dd3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Logic, Semantics, Metamathematics}
+      \field{year}{1983}
+    \endentry
+    \entry{Dauben1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7870e8024b8c50c4af446f5e00750a3}{%
+           family={Dauben},
+           familyi={D\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{e7870e8024b8c50c4af446f5e00750a3}
+      \strng{fullhash}{e7870e8024b8c50c4af446f5e00750a3}
+      \strng{bibnamehash}{e7870e8024b8c50c4af446f5e00750a3}
+      \strng{authorbibnamehash}{e7870e8024b8c50c4af446f5e00750a3}
+      \strng{authornamehash}{e7870e8024b8c50c4af446f5e00750a3}
+      \strng{authorfullhash}{e7870e8024b8c50c4af446f5e00750a3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{G}eorg {C}antor: {H}is {M}athematics and {P}hilosophy of the {I}nfinite}
+      \field{year}{1990}
+    \endentry
+    \entry{Dick1981}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da84da05dd433e3e81b5e419da12d7e8}{%
+           family={Dick},
+           familyi={D\bibinitperiod},
+           given={Auguste},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Birkhäuser}%
+      }
+      \strng{namehash}{da84da05dd433e3e81b5e419da12d7e8}
+      \strng{fullhash}{da84da05dd433e3e81b5e419da12d7e8}
+      \strng{bibnamehash}{da84da05dd433e3e81b5e419da12d7e8}
+      \strng{authorbibnamehash}{da84da05dd433e3e81b5e419da12d7e8}
+      \strng{authornamehash}{da84da05dd433e3e81b5e419da12d7e8}
+      \strng{authorfullhash}{da84da05dd433e3e81b5e419da12d7e8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emmy {N}oether 1882--1935}
+      \field{year}{1981}
+    \endentry
+    \entry{Duncan2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bd880b4af7f9920371381dac7a6d068}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Arlene},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bd880b4af7f9920371381dac7a6d068}
+      \strng{fullhash}{7bd880b4af7f9920371381dac7a6d068}
+      \strng{bibnamehash}{7bd880b4af7f9920371381dac7a6d068}
+      \strng{authorbibnamehash}{7bd880b4af7f9920371381dac7a6d068}
+      \strng{authornamehash}{7bd880b4af7f9920371381dac7a6d068}
+      \strng{authorfullhash}{7bd880b4af7f9920371381dac7a6d068}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {B}ertrand {R}ussell {R}esearch {C}entre}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://russell.mcmaster.ca/
+      \endverb
+      \verb{url}
+      \verb http://russell.mcmaster.ca/
+      \endverb
+    \endentry
+    \entry{Ebbinghaus2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e000ac991e933718137fb3932643846d}{%
+           family={Ebbinghaus},
+           familyi={E\bibinitperiod},
+           given={Heinz-Dieter},
+           giveni={H\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{e000ac991e933718137fb3932643846d}
+      \strng{fullhash}{e000ac991e933718137fb3932643846d}
+      \strng{bibnamehash}{e000ac991e933718137fb3932643846d}
+      \strng{authorbibnamehash}{e000ac991e933718137fb3932643846d}
+      \strng{authornamehash}{e000ac991e933718137fb3932643846d}
+      \strng{authorfullhash}{e000ac991e933718137fb3932643846d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ernst {Z}ermelo: {A}n {A}pproach to his {L}ife and {W}ork}
+      \field{year}{2015}
+    \endentry
+    \entry{Ebbinghaus2010}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e000ac991e933718137fb3932643846d}{%
+           family={Ebbinghaus},
+           familyi={E\bibinitperiod},
+           given={Heinz-Dieter},
+           giveni={H\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c441e4dea74a369d49418ee4951a22c}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Craig\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c06b2ec4a09e43c651aba2c9279773}{%
+           family={Kanamori},
+           familyi={K\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \strng{fullhash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \strng{bibnamehash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \strng{authorbibnamehash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \strng{authornamehash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \strng{authorfullhash}{b6f73c84a5cd1eda972f287e181dea8d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ernst Zermelo. Collected Works}
+      \field{volume}{1}
+      \field{year}{2010}
+    \endentry
+    \entry{Ebbinghaus2013}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e000ac991e933718137fb3932643846d}{%
+           family={Ebbinghaus},
+           familyi={E\bibinitperiod},
+           given={Heinz-Dieter},
+           giveni={H\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19c06b2ec4a09e43c651aba2c9279773}{%
+           family={Kanamori},
+           familyi={K\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \strng{fullhash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \strng{bibnamehash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \strng{authorbibnamehash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \strng{authornamehash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \strng{authorfullhash}{fedd6ccbdefb519b643586a2f8a1a05d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ernst Zermelo: Collected Works}
+      \field{volume}{2}
+      \field{year}{2013}
+    \endentry
+    \entry{EndertonND}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b50c15602a78b51cbc6946ab32488502}{%
+           family={Enderton},
+           familyi={E\bibinitperiod},
+           given={Herbert\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ee2b2e0f6a8a2121defcab8a9c7bc244}{%
+           family={Burge},
+           familyi={B\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b50c15602a78b51cbc6946ab32488502}{%
+           family={Enderton},
+           familyi={E\bibinitperiod},
+           given={Herbert\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{fullhash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{bibnamehash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{authorbibnamehash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{authornamehash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{authorfullhash}{b50c15602a78b51cbc6946ab32488502}
+      \strng{editorbibnamehash}{0a7e6cd4cda9d87d8570b14d93fd7d1d}
+      \strng{editornamehash}{0a7e6cd4cda9d87d8570b14d93fd7d1d}
+      \strng{editorfullhash}{0a7e6cd4cda9d87d8570b14d93fd7d1d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Collected Works of {A}lonzo {C}hurch}
+      \field{title}{{A}lonzo {C}hurch: {L}ife and {W}ork}
+      \field{year}{2019}
+    \endentry
+    \entry{Feferman2004}{book}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=e1dc5c3dd0f08c3487f990c3b3ef27b3}{%
+           family={Feferman},
+           familyi={F\bibinitperiod},
+           given={Anita},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=4882f9cf8c157580b3191115697f529b}{%
+           family={Feferman},
+           familyi={F\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f890caae9eeec9957150d06345432747}
+      \strng{fullhash}{f890caae9eeec9957150d06345432747}
+      \strng{bibnamehash}{f890caae9eeec9957150d06345432747}
+      \strng{authorbibnamehash}{f890caae9eeec9957150d06345432747}
+      \strng{authornamehash}{f890caae9eeec9957150d06345432747}
+      \strng{authorfullhash}{f890caae9eeec9957150d06345432747}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alfred Tarski: Life and Logic}
+      \field{year}{2004}
+    \endentry
+    \entry{Godel1986}{book}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4882f9cf8c157580b3191115697f529b}{%
+           family={Feferman},
+           familyi={F\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d96c04e5774f14e8f8c3926a4c75995b}{%
+           family={Dawson\bibnamedelima Jr.},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a62ed53de06e4be288a0b76aed4b53a}{%
+           family={Kleene},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49f6ca132b49f7f6c19cd0f29506e2a4}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f48640301c2ee285cda30fb82c1ed107}{%
+           family={Solovay},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2eace2ac400ba132fd7077b2e8211981}{%
+           family={Heijenoort},
+           familyi={H\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{fullhash}{a293f4783ca5a934f4d7b01ae1e86ccf}
+      \strng{bibnamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authorbibnamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authornamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authorfullhash}{a293f4783ca5a934f4d7b01ae1e86ccf}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kurt Gödel: Collected Works. Vol. 1: Publications 1929--1936}
+      \field{year}{1986}
+    \endentry
+    \entry{Godel1990}{book}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4882f9cf8c157580b3191115697f529b}{%
+           family={Feferman},
+           familyi={F\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d96c04e5774f14e8f8c3926a4c75995b}{%
+           family={Dawson\bibnamedelima Jr.},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a62ed53de06e4be288a0b76aed4b53a}{%
+           family={Kleene},
+           familyi={K\bibinitperiod},
+           given={Stephen\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49f6ca132b49f7f6c19cd0f29506e2a4}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f48640301c2ee285cda30fb82c1ed107}{%
+           family={Solovay},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2eace2ac400ba132fd7077b2e8211981}{%
+           family={Heijenoort},
+           familyi={H\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{fullhash}{a293f4783ca5a934f4d7b01ae1e86ccf}
+      \strng{bibnamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authorbibnamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authornamehash}{48055c1197a4df8ec1fb05d345ef8eec}
+      \strng{authorfullhash}{a293f4783ca5a934f4d7b01ae1e86ccf}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kurt Gödel: Collected Works. Vol. 2: Publications 1938--1974}
+      \field{year}{1990}
+    \endentry
+    \entry{Frege1884}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c468d5fce77082669983ce899030b96}{%
+           family={Frege},
+           familyi={F\bibinitperiod},
+           given={Gottlob},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Breslau}%
+      }
+      \list{publisher}{1}{%
+        {Wilhelm Koebner}%
+      }
+      \strng{namehash}{1c468d5fce77082669983ce899030b96}
+      \strng{fullhash}{1c468d5fce77082669983ce899030b96}
+      \strng{bibnamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authorbibnamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authornamehash}{1c468d5fce77082669983ce899030b96}
+      \strng{authorfullhash}{1c468d5fce77082669983ce899030b96}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Translation in \cite{Frege1953}}
+      \field{title}{Die {Grundlagen} der {Arithmetik}: Eine logisch mathematische {Untersuchung} über den {Begriff} der {Zahl}}
+      \field{year}{1884}
+    \endentry
+    \entry{Frey2015}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=38d5128b5dcd93d048ad9e7bdb2ec7ee}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Holly},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f2d1ccd3742feb3bdc2cd3b7d3ab31d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Tracy\bibnamedelima V.},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \strng{fullhash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \strng{bibnamehash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \strng{authorbibnamehash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \strng{authornamehash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \strng{authorfullhash}{d22d528d78536adf55f0e3216ea9cc0a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Podcast audio}
+      \field{title}{Stuff you Missed in History Class: {E}mmy {N}oether, Mathematics Trailblazer}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/episode/emmy-noether-mathematics-trailblazer-30207491/
+      \endverb
+      \verb{url}
+      \verb https://www.iheart.com/podcast/stuff-you-missed-in-history-cl-21124503/episode/emmy-noether-mathematics-trailblazer-30207491/
+      \endverb
+    \endentry
+    \entry{Gentzen1935a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e5b9df4ca83f294927feb14983d943d}{%
+           family={Gentzen},
+           familyi={G\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{fullhash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{bibnamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authorbibnamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authornamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authorfullhash}{2e5b9df4ca83f294927feb14983d943d}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Mathe\-mati\-sche Zeit\-schrift}
+      \field{note}{{E}nglish translation in \cite{Gentzen1969}, pp.~68--131}
+      \field{title}{Untersuchungen über das logische {S}chließen {I}}
+      \field{volume}{39}
+      \field{year}{1935}
+      \field{pages}{176\bibrangedash 210}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/BF01201353
+      \endverb
+    \endentry
+    \entry{Gentzen1935b}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e5b9df4ca83f294927feb14983d943d}{%
+           family={Gentzen},
+           familyi={G\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{fullhash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{bibnamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authorbibnamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authornamehash}{2e5b9df4ca83f294927feb14983d943d}
+      \strng{authorfullhash}{2e5b9df4ca83f294927feb14983d943d}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Mathe\-mati\-sche Zeit\-schrift}
+      \field{note}{{E}nglish translation in \cite{Gentzen1969}, pp.~68--131}
+      \field{title}{Untersuchungen über das logische {S}chließen {II}}
+      \field{volume}{39}
+      \field{year}{1935}
+      \field{pages}{176\bibrangedash 210\bibrangessep 405\bibrangedash 431}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1007/BF01201363
+      \endverb
+    \endentry
+    \entry{Godel1929}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=741b5eae8f0486fe4cfb19725eb596a0}{%
+           family={Gödel},
+           familyi={G\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universität Wien}%
+      }
+      \strng{namehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{fullhash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{bibnamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authorbibnamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authornamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authorfullhash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Reprinted and translated in \cite{Godel1986}, pp.~60--101}
+      \field{title}{Über die {V}ollständigkeit des {L}ogikkalküls [{O}n the Completeness of the Calculus of Logic]}
+      \field{type}{Dissertation}
+      \field{year}{1929}
+    \endentry
+    \entry{Godel1931}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=741b5eae8f0486fe4cfb19725eb596a0}{%
+           family={Gödel},
+           familyi={G\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{fullhash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{bibnamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authorbibnamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authornamehash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \strng{authorfullhash}{741b5eae8f0486fe4cfb19725eb596a0}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monatshefte für Mathematik und Physik}
+      \field{note}{Reprinted and translated in \cite{Godel1986}, pp.~144--195}
+      \field{title}{Über formal unentscheidbare {S}ätze der \emph{{P}rincipia {M}athematica} und verwandter {S}ysteme {I} [{O}n Formally Undecidable Propositions of \emph{{P}rincipia {M}athematica} and Related Systems~{I}]}
+      \field{volume}{38}
+      \field{year}{1931}
+      \field{pages}{173\bibrangedash 198}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/BF01700692
+      \endverb
+    \endentry
+    \entry{Grattan-Guinness1971}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d97a181b384cb82de23896749db5d17b}{%
+           family={Grattan-Guinness},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Ivor},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d97a181b384cb82de23896749db5d17b}
+      \strng{fullhash}{d97a181b384cb82de23896749db5d17b}
+      \strng{bibnamehash}{d97a181b384cb82de23896749db5d17b}
+      \strng{authorbibnamehash}{d97a181b384cb82de23896749db5d17b}
+      \strng{authornamehash}{d97a181b384cb82de23896749db5d17b}
+      \strng{authorfullhash}{d97a181b384cb82de23896749db5d17b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Science}
+      \field{number}{4}
+      \field{title}{Towards a Biography of {G}eorg {C}antor}
+      \field{volume}{27}
+      \field{year}{1971}
+      \field{pages}{345\bibrangedash 391}
+      \range{pages}{47}
+    \endentry
+    \entry{Hammack2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ce4cc47d9dbeaf4261079b3408c626e}{%
+           family={Hammack},
+           familyi={H\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Richmond, VA}%
+      }
+      \list{publisher}{1}{%
+        {Virginia Commonwealth University}%
+      }
+      \strng{namehash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \strng{fullhash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \strng{bibnamehash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \strng{authorbibnamehash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \strng{authornamehash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \strng{authorfullhash}{6ce4cc47d9dbeaf4261079b3408c626e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Book of Proof}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf
+      \endverb
+    \endentry
+    \entry{Hodges2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af4af1aaeaf8849af906a36e95a2bd53}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Vintage}%
+      }
+      \strng{namehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{fullhash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{bibnamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authorbibnamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authornamehash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \strng{authorfullhash}{af4af1aaeaf8849af906a36e95a2bd53}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alan Turing: The Enigma}
+      \field{year}{2014}
+    \endentry
+    \entry{Hutchings2003}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e216f52f26869bc5b263e24f10950665}{%
+           family={Hutchings},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e216f52f26869bc5b263e24f10950665}
+      \strng{fullhash}{e216f52f26869bc5b263e24f10950665}
+      \strng{bibnamehash}{e216f52f26869bc5b263e24f10950665}
+      \strng{authorbibnamehash}{e216f52f26869bc5b263e24f10950665}
+      \strng{authornamehash}{e216f52f26869bc5b263e24f10950665}
+      \strng{authorfullhash}{e216f52f26869bc5b263e24f10950665}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Mathematical Arguments}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://math.berkeley.edu/~hutching/teach/proofs.pdf
+      \endverb
+      \verb{url}
+      \verb https://math.berkeley.edu/~hutching/teach/proofs.pdf
+      \endverb
+    \endentry
+    \entry{Perimeter2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=878618a05f1daaca8d851387f1bb574c}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={Perimeter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{878618a05f1daaca8d851387f1bb574c}
+      \strng{fullhash}{878618a05f1daaca8d851387f1bb574c}
+      \strng{bibnamehash}{878618a05f1daaca8d851387f1bb574c}
+      \strng{authorbibnamehash}{878618a05f1daaca8d851387f1bb574c}
+      \strng{authornamehash}{878618a05f1daaca8d851387f1bb574c}
+      \strng{authorfullhash}{878618a05f1daaca8d851387f1bb574c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Video Lecture}
+      \field{title}{Emmy {N}oether: Her Life, Work, and Influence}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=tNNyAyMRsgE
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=tNNyAyMRsgE
+      \endverb
+    \endentry
+    \entry{Irvine2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6de5d8243d7c278185af20182e9fc6ff}{%
+           family={Irvine},
+           familyi={I\bibinitperiod},
+           given={Andrew\bibnamedelima David},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6de5d8243d7c278185af20182e9fc6ff}
+      \strng{fullhash}{6de5d8243d7c278185af20182e9fc6ff}
+      \strng{bibnamehash}{6de5d8243d7c278185af20182e9fc6ff}
+      \strng{authorbibnamehash}{6de5d8243d7c278185af20182e9fc6ff}
+      \strng{authornamehash}{6de5d8243d7c278185af20182e9fc6ff}
+      \strng{authorfullhash}{6de5d8243d7c278185af20182e9fc6ff}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sound Clips of {B}ertrand {R}ussell Speaking}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://plato.stanford.edu/entries/russell/russell-soundclips.html
+      \endverb
+      \verb{url}
+      \verb http://plato.stanford.edu/entries/russell/russell-soundclips.html
+      \endverb
+    \endentry
+    \entry{Noether1983}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0cb6bcf1a8e3658bf8037b530d0cd8c}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \strng{fullhash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \strng{bibnamehash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \strng{authorbibnamehash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \strng{authornamehash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \strng{authorfullhash}{b0cb6bcf1a8e3658bf8037b530d0cd8c}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emmy {N}oether: {G}esammelte {A}bhandlungen---{C}ollected {P}apers}
+      \field{year}{1983}
+    \endentry
+    \entry{Dawson1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=301fd1b9be8d76c19328246bda64a347}{%
+           family={John\bibnamedelima Dawson},
+           familyi={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Jr.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{301fd1b9be8d76c19328246bda64a347}
+      \strng{fullhash}{301fd1b9be8d76c19328246bda64a347}
+      \strng{bibnamehash}{301fd1b9be8d76c19328246bda64a347}
+      \strng{authorbibnamehash}{301fd1b9be8d76c19328246bda64a347}
+      \strng{authornamehash}{301fd1b9be8d76c19328246bda64a347}
+      \strng{authorfullhash}{301fd1b9be8d76c19328246bda64a347}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Logical Dilemmas: The Life and Work of Kurt {G}ödel}
+      \field{year}{1997}
+    \endentry
+    \entry{LibriVoxND}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46de9db51144c3fc5162ca669233ac2}{%
+           family={LibriVox},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c46de9db51144c3fc5162ca669233ac2}
+      \strng{fullhash}{c46de9db51144c3fc5162ca669233ac2}
+      \strng{bibnamehash}{c46de9db51144c3fc5162ca669233ac2}
+      \strng{authorbibnamehash}{c46de9db51144c3fc5162ca669233ac2}
+      \strng{authornamehash}{c46de9db51144c3fc5162ca669233ac2}
+      \strng{authorfullhash}{c46de9db51144c3fc5162ca669233ac2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Collection of public domain audiobooks}
+      \field{title}{Bertrand {R}ussell}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://librivox.org/author/1508?primary_key=1508&search_category=author&search_page=1&search_form=get_results
+      \endverb
+      \verb{url}
+      \verb https://librivox.org/author/1508?primary_key=1508&search_category=author&search_page=1&search_form=get_results
+      \endverb
+    \endentry
+    \entry{Linsenmayer2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16d67d7d8a7b3d9fac4c77418bf18843}{%
+           family={Linsenmayer},
+           familyi={L\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \strng{fullhash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \strng{bibnamehash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \strng{authorbibnamehash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \strng{authornamehash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \strng{authorfullhash}{16d67d7d8a7b3d9fac4c77418bf18843}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Podcast audio}
+      \field{title}{The Partially Examined Life: {G}ödel on Math}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://www.partiallyexaminedlife.com/2014/06/16/ep95-godel/
+      \endverb
+      \verb{url}
+      \verb http://www.partiallyexaminedlife.com/2014/06/16/ep95-godel/
+      \endverb
+    \endentry
+    \entry{MacFarlane2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bf0b7d925a470916ef716a541a4d42b}{%
+           family={MacFarlane},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf0b7d925a470916ef716a541a4d42b}
+      \strng{fullhash}{5bf0b7d925a470916ef716a541a4d42b}
+      \strng{bibnamehash}{5bf0b7d925a470916ef716a541a4d42b}
+      \strng{authorbibnamehash}{5bf0b7d925a470916ef716a541a4d42b}
+      \strng{authornamehash}{5bf0b7d925a470916ef716a541a4d42b}
+      \strng{authorfullhash}{5bf0b7d925a470916ef716a541a4d42b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alonzo {C}hurch's {JSL} Reviews}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb http://johnmacfarlane.net/church.html
+      \endverb
+      \verb{url}
+      \verb http://johnmacfarlane.net/church.html
+      \endverb
+    \endentry
+    \entry{Magnus2021}{book}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1bf82c48951aa21f4574a4c225f00cdd}{%
+           family={Magnus},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d90998d9add9f18b90e7267e4c2ce23}{%
+           family={Button},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dd491284da23effc90babbcd1c380c9}{%
+           family={Loftis},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Robert},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b25d37303fcf344425d8b25cbc619621}{%
+           family={{Thomas-Bolduc}},
+           familyi={T\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0dcac9cad22b589738c700090bd4ad3}{%
+           family={Trueman},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47b1d91a59c6cfbbc805f1f8612ca06e}{%
+           family={Zach},
+           familyi={Z\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Calgary}%
+      }
+      \list{publisher}{1}{%
+        {Open Logic Project}%
+      }
+      \strng{namehash}{2d1c4de48d89bd3ecbbdfc1be9538f71}
+      \strng{fullhash}{6d6e7eaaef82b7667c28d463e6b39b11}
+      \strng{bibnamehash}{2d1c4de48d89bd3ecbbdfc1be9538f71}
+      \strng{authorbibnamehash}{2d1c4de48d89bd3ecbbdfc1be9538f71}
+      \strng{authornamehash}{2d1c4de48d89bd3ecbbdfc1be9538f71}
+      \strng{authorfullhash}{6d6e7eaaef82b7667c28d463e6b39b11}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{F21}
+      \field{title}{Forall {\emph{x}}: {{Calgary}}. {{An}} Introduction to Formal Logic}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://forallx.openlogicproject.org/
+      \endverb
+      \verb{url}
+      \verb https://forallx.openlogicproject.org/
+      \endverb
+      \keyw{textbook}
+    \endentry
+    \entry{Menzler-Trott2007}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba231decdf67c92365e03e16a1dab039}{%
+           family={Menzler-Trott},
+           familyi={M\bibinithyphendelim T\bibinitperiod},
+           given={Eckart},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Providence}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society}%
+      }
+      \strng{namehash}{ba231decdf67c92365e03e16a1dab039}
+      \strng{fullhash}{ba231decdf67c92365e03e16a1dab039}
+      \strng{bibnamehash}{ba231decdf67c92365e03e16a1dab039}
+      \strng{authorbibnamehash}{ba231decdf67c92365e03e16a1dab039}
+      \strng{authornamehash}{ba231decdf67c92365e03e16a1dab039}
+      \strng{authorfullhash}{ba231decdf67c92365e03e16a1dab039}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Logic's Lost Genius: The Life of {G}erhard {G}entzen}
+      \field{year}{2007}
+    \endentry
+    \entry{Potter2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a204e0379c477487ab94e52d6ae94b1b}{%
+           family={Potter},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a204e0379c477487ab94e52d6ae94b1b}
+      \strng{fullhash}{a204e0379c477487ab94e52d6ae94b1b}
+      \strng{bibnamehash}{a204e0379c477487ab94e52d6ae94b1b}
+      \strng{authorbibnamehash}{a204e0379c477487ab94e52d6ae94b1b}
+      \strng{authornamehash}{a204e0379c477487ab94e52d6ae94b1b}
+      \strng{authorfullhash}{a204e0379c477487ab94e52d6ae94b1b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Set Theory and its Philosophy}
+      \field{year}{2004}
+    \endentry
+    \entry{Radiolab2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a4fd0c1a7901546bf4b5c1ac74b3bd6}{%
+           family={Radiolab},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \strng{fullhash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \strng{bibnamehash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \strng{authorbibnamehash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \strng{authornamehash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \strng{authorfullhash}{4a4fd0c1a7901546bf4b5c1ac74b3bd6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Podcast audio}
+      \field{title}{The {T}uring Problem}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://www.radiolab.org/story/193037-turing-problem/
+      \endverb
+      \verb{url}
+      \verb http://www.radiolab.org/story/193037-turing-problem/
+      \endverb
+    \endentry
+    \entry{Rose2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=983aa1b4eead6c023d2b73a606777eec}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{983aa1b4eead6c023d2b73a606777eec}
+      \strng{fullhash}{983aa1b4eead6c023d2b73a606777eec}
+      \strng{bibnamehash}{983aa1b4eead6c023d2b73a606777eec}
+      \strng{authorbibnamehash}{983aa1b4eead6c023d2b73a606777eec}
+      \strng{authornamehash}{983aa1b4eead6c023d2b73a606777eec}
+      \strng{authorfullhash}{983aa1b4eead6c023d2b73a606777eec}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Audio Recording}
+      \field{title}{A Song about {G}eorg {C}antor}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=QUP5Z4Fb5k4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=QUP5Z4Fb5k4
+      \endverb
+    \endentry
+    \entry{Russell1905}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{bibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorbibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mind}
+      \field{title}{On Denoting}
+      \field{volume}{14}
+      \field{year}{1905}
+      \field{pages}{479\bibrangedash 493}
+      \range{pages}{15}
+    \endentry
+    \entry{Russell1967}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Allen}%
+        {Unwin}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{bibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorbibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Autobiography of Bertrand Russell}
+      \field{volume}{1}
+      \field{year}{1967}
+    \endentry
+    \entry{Russell1968}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Allen}%
+        {Unwin}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{bibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorbibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{extraname}{3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Autobiography of Bertrand Russell}
+      \field{volume}{2}
+      \field{year}{1968}
+    \endentry
+    \entry{Russell1969}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Allen}%
+        {Unwin}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{bibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorbibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{extraname}{4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Autobiography of Bertrand Russell}
+      \field{volume}{3}
+      \field{year}{1969}
+    \endentry
+    \entry{RussellND}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{bibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorbibnamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{extraname}{5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Video Interview}
+      \field{title}{{B}ertrand {R}ussell on Smoking}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=80oLTiVW_lc
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=80oLTiVW_lc
+      \endverb
+    \endentry
+    \entry{Sandstrum2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a19de567d87500d04b964f905ad6094b}{%
+           family={Sandstrum},
+           familyi={S\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Allendale, MI}%
+      }
+      \list{publisher}{1}{%
+        {Grand Valley State University}%
+      }
+      \strng{namehash}{a19de567d87500d04b964f905ad6094b}
+      \strng{fullhash}{a19de567d87500d04b964f905ad6094b}
+      \strng{bibnamehash}{a19de567d87500d04b964f905ad6094b}
+      \strng{authorbibnamehash}{a19de567d87500d04b964f905ad6094b}
+      \strng{authornamehash}{a19de567d87500d04b964f905ad6094b}
+      \strng{authorfullhash}{a19de567d87500d04b964f905ad6094b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mathematical Reasoning: Writing and Proof}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://scholarworks.gvsu.edu/books/7/
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.gvsu.edu/books/7/
+      \endverb
+    \endentry
+    \entry{Sautoy2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82ed8c3ebde8da7ec83ddca4ff91cc03}{%
+           family={Sautoy},
+           familyi={S\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={du},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \strng{fullhash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \strng{bibnamehash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \strng{authorbibnamehash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \strng{authornamehash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \strng{authorfullhash}{82ed8c3ebde8da7ec83ddca4ff91cc03}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Audio Recording}
+      \field{title}{{A} Brief History of Mathematics: {G}eorg {C}antor}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://www.bbc.co.uk/programmes/b00ss1j0
+      \endverb
+      \verb{url}
+      \verb http://www.bbc.co.uk/programmes/b00ss1j0
+      \endverb
+    \endentry
+    \entry{Segal2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df79c069bc0b92904de450a12944f23d}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Sanford\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{df79c069bc0b92904de450a12944f23d}
+      \strng{fullhash}{df79c069bc0b92904de450a12944f23d}
+      \strng{bibnamehash}{df79c069bc0b92904de450a12944f23d}
+      \strng{authorbibnamehash}{df79c069bc0b92904de450a12944f23d}
+      \strng{authornamehash}{df79c069bc0b92904de450a12944f23d}
+      \strng{authorfullhash}{df79c069bc0b92904de450a12944f23d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mathematicians under the Nazis}
+      \field{year}{2014}
+    \endentry
+    \entry{Sigmund2007}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=90b4ffc5b4135ac54c04fd50af193d0f}{%
+           family={Sigmund},
+           familyi={S\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8eff4f600ad6cc866ec36733fca306b9}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa04d956b619544f88880eb7e879b1fe}{%
+           family={Mühlberger},
+           familyi={M\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a341d733ffccab9e18362f4019be9671}{%
+           family={Enzensberger},
+           familyi={E\bibinitperiod},
+           given={Hans\bibnamedelima Magnus},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eda844ff88df4779ff7026be86dc5de4}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Juliette},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81ddc3572a95d47db5f1db71e58f6fdd}
+      \strng{fullhash}{b92927248fd67c05ec8c0873feb7e71e}
+      \strng{bibnamehash}{81ddc3572a95d47db5f1db71e58f6fdd}
+      \strng{authorbibnamehash}{81ddc3572a95d47db5f1db71e58f6fdd}
+      \strng{authornamehash}{81ddc3572a95d47db5f1db71e58f6fdd}
+      \strng{authorfullhash}{b92927248fd67c05ec8c0873feb7e71e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Mathematical Intelligencer}
+      \field{number}{3}
+      \field{title}{Kurt {G}ödel: {D}as {A}lbum--{T}he {A}lbum}
+      \field{volume}{29}
+      \field{year}{2007}
+      \field{pages}{73\bibrangedash 76}
+      \range{pages}{4}
+    \endentry
+    \entry{Smith2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b836de7dbb626d7dd9b7bd241126842d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b836de7dbb626d7dd9b7bd241126842d}
+      \strng{fullhash}{b836de7dbb626d7dd9b7bd241126842d}
+      \strng{bibnamehash}{b836de7dbb626d7dd9b7bd241126842d}
+      \strng{authorbibnamehash}{b836de7dbb626d7dd9b7bd241126842d}
+      \strng{authornamehash}{b836de7dbb626d7dd9b7bd241126842d}
+      \strng{authorfullhash}{b836de7dbb626d7dd9b7bd241126842d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Gödel's Theorems}
+      \field{year}{2013}
+    \endentry
+    \entry{Solow2013}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b254e990bc591bd43531f6d4be23faa6}{%
+           family={Solow},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{b254e990bc591bd43531f6d4be23faa6}
+      \strng{fullhash}{b254e990bc591bd43531f6d4be23faa6}
+      \strng{bibnamehash}{b254e990bc591bd43531f6d4be23faa6}
+      \strng{authorbibnamehash}{b254e990bc591bd43531f6d4be23faa6}
+      \strng{authornamehash}{b254e990bc591bd43531f6d4be23faa6}
+      \strng{authorfullhash}{b254e990bc591bd43531f6d4be23faa6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Read and Do Proofs}
+      \field{year}{2013}
+    \endentry
+    \entry{Steinhart2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dac3710f028715d36556a6d4c3cb14a}{%
+           family={Steinhart},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Peterborough, ON}%
+      }
+      \list{publisher}{1}{%
+        {Broadview}%
+      }
+      \strng{namehash}{7dac3710f028715d36556a6d4c3cb14a}
+      \strng{fullhash}{7dac3710f028715d36556a6d4c3cb14a}
+      \strng{bibnamehash}{7dac3710f028715d36556a6d4c3cb14a}
+      \strng{authorbibnamehash}{7dac3710f028715d36556a6d4c3cb14a}
+      \strng{authornamehash}{7dac3710f028715d36556a6d4c3cb14a}
+      \strng{authorfullhash}{7dac3710f028715d36556a6d4c3cb14a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{More Precisely: The Math You Need to Do Philosophy}
+      \field{year}{2018}
+    \endentry
+    \entry{Sykes1992}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec52dd7f2fd596126b2bbc207a1cb18d}{%
+           family={Sykes},
+           familyi={S\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \strng{fullhash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \strng{bibnamehash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \strng{authorbibnamehash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \strng{authornamehash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \strng{authorfullhash}{ec52dd7f2fd596126b2bbc207a1cb18d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{BBC} {H}orizon: The Strange Life and Death of {D}r.~{T}uring}
+      \field{year}{1992}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=gyusnGbBSHE
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=gyusnGbBSHE
+      \endverb
+    \endentry
+    \entry{Gentzen1969}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83c8477cfddd46c14fdf395678e8405b}{%
+           family={Szabo},
+           familyi={S\bibinitperiod},
+           given={Manfred\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {North-Holland}%
+      }
+      \strng{namehash}{83c8477cfddd46c14fdf395678e8405b}
+      \strng{fullhash}{83c8477cfddd46c14fdf395678e8405b}
+      \strng{bibnamehash}{83c8477cfddd46c14fdf395678e8405b}
+      \strng{authorbibnamehash}{83c8477cfddd46c14fdf395678e8405b}
+      \strng{authornamehash}{83c8477cfddd46c14fdf395678e8405b}
+      \strng{authorfullhash}{83c8477cfddd46c14fdf395678e8405b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Collected Papers of {G}erhard {G}entzen}
+      \field{title}{The Collected Papers of {G}erhard {G}entzen}
+      \field{year}{1969}
+    \endentry
+    \entry{Takeuti2003}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9a6f44fd63be15b0b390d3447a3f47e7}{%
+           family={Takeuti},
+           familyi={T\bibinitperiod},
+           given={Gaisi},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db2dde488049792098d4c7954714d75c}{%
+           family={Passell},
+           familyi={P\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31a7e5ea59a1c26110daae21def64842}{%
+           family={Yasugi},
+           familyi={Y\bibinitperiod},
+           given={Mariko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{namehash}{0d13239cb85bd261e4572bb24fc82131}
+      \strng{fullhash}{0d13239cb85bd261e4572bb24fc82131}
+      \strng{bibnamehash}{0d13239cb85bd261e4572bb24fc82131}
+      \strng{authorbibnamehash}{0d13239cb85bd261e4572bb24fc82131}
+      \strng{authornamehash}{0d13239cb85bd261e4572bb24fc82131}
+      \strng{authorfullhash}{0d13239cb85bd261e4572bb24fc82131}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Memoirs of a Proof Theorist: Gödel and Other Logicians}
+      \field{year}{2003}
+    \endentry
+    \entry{Tarski1981}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d9d32785708836ac3a223ad31f277fe}{%
+           family={Tarski},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Basel}%
+      }
+      \list{publisher}{1}{%
+        {Birkhäuser}%
+      }
+      \strng{namehash}{1d9d32785708836ac3a223ad31f277fe}
+      \strng{fullhash}{1d9d32785708836ac3a223ad31f277fe}
+      \strng{bibnamehash}{1d9d32785708836ac3a223ad31f277fe}
+      \strng{authorbibnamehash}{1d9d32785708836ac3a223ad31f277fe}
+      \strng{authornamehash}{1d9d32785708836ac3a223ad31f277fe}
+      \strng{authorfullhash}{1d9d32785708836ac3a223ad31f277fe}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Collected Works of {A}lfred {T}arski}
+      \field{volume}{I--IV}
+      \field{year}{1981}
+    \endentry
+    \entry{Theelen2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b615289cff65e5cb3eded6d597495a22}{%
+           family={Theelen},
+           familyi={T\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b615289cff65e5cb3eded6d597495a22}
+      \strng{fullhash}{b615289cff65e5cb3eded6d597495a22}
+      \strng{bibnamehash}{b615289cff65e5cb3eded6d597495a22}
+      \strng{authorbibnamehash}{b615289cff65e5cb3eded6d597495a22}
+      \strng{authornamehash}{b615289cff65e5cb3eded6d597495a22}
+      \strng{authorfullhash}{b615289cff65e5cb3eded6d597495a22}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LEGO Turing Machine}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=FTSAiF9AHN4
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=FTSAiF9AHN4
+      \endverb
+    \endentry
+    \entry{Turing1937}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1210277649f3c7541e2750ee21da6237}{%
+           family={Turing},
+           familyi={T\bibinitperiod},
+           given={Alan\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{fullhash}{1210277649f3c7541e2750ee21da6237}
+      \strng{bibnamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authorbibnamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authornamehash}{1210277649f3c7541e2750ee21da6237}
+      \strng{authorfullhash}{1210277649f3c7541e2750ee21da6237}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the London Mathematical Society, 2nd Series}
+      \field{title}{On computable numbers, with an application to the ``{E}ntscheidungsproblem''}
+      \field{volume}{42}
+      \field{year}{1937}
+      \field{pages}{230\bibrangedash 265}
+      \range{pages}{36}
+    \endentry
+    \entry{Imitation2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e6e2e2d72971131832e928bc90acb52}{%
+           family={Tyldum},
+           familyi={T\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e6e2e2d72971131832e928bc90acb52}
+      \strng{fullhash}{1e6e2e2d72971131832e928bc90acb52}
+      \strng{bibnamehash}{1e6e2e2d72971131832e928bc90acb52}
+      \strng{authorbibnamehash}{1e6e2e2d72971131832e928bc90acb52}
+      \strng{authornamehash}{1e6e2e2d72971131832e928bc90acb52}
+      \strng{authorfullhash}{1e6e2e2d72971131832e928bc90acb52}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Motion picture}
+      \field{title}{The Imitation Game}
+      \field{year}{2014}
+    \endentry
+    \entry{Velleman2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfd9636c06b16192354491d06d060888}{%
+           family={Velleman},
+           familyi={V\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{bfd9636c06b16192354491d06d060888}
+      \strng{fullhash}{bfd9636c06b16192354491d06d060888}
+      \strng{bibnamehash}{bfd9636c06b16192354491d06d060888}
+      \strng{authorbibnamehash}{bfd9636c06b16192354491d06d060888}
+      \strng{authornamehash}{bfd9636c06b16192354491d06d060888}
+      \strng{authorfullhash}{bfd9636c06b16192354491d06d060888}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{How to Prove It: A Structured Approach}
+      \field{year}{2019}
+    \endentry
+    \entry{Wang1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8cf19241225247d6d07dbf8a516b8ed}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \strng{fullhash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \strng{bibnamehash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \strng{authorbibnamehash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \strng{authornamehash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \strng{authorfullhash}{c8cf19241225247d6d07dbf8a516b8ed}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reflections on Kurt Gödel}
+      \field{year}{1990}
+    \endentry
+    \entry{Zermelo1904}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=600526095e043c5d00a279c38e6e47c1}{%
+           family={Zermelo},
+           familyi={Z\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{fullhash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{bibnamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authorbibnamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authornamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authorfullhash}{600526095e043c5d00a279c38e6e47c1}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathe\-ma\-tische An\-nalen}
+      \field{note}{{E}nglish translation in \cite[pp.~115--119]{Ebbinghaus2010}}
+      \field{title}{Beweis, da{ß} jede {M}enge wohlgeordnet werden kann}
+      \field{volume}{59}
+      \field{year}{1904}
+      \field{pages}{514\bibrangedash 516}
+      \range{pages}{3}
+    \endentry
+    \entry{Zermelo1908}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=600526095e043c5d00a279c38e6e47c1}{%
+           family={Zermelo},
+           familyi={Z\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{fullhash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{bibnamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authorbibnamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authornamehash}{600526095e043c5d00a279c38e6e47c1}
+      \strng{authorfullhash}{600526095e043c5d00a279c38e6e47c1}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematische Annalen}
+      \field{note}{{E}nglish translation in \cite[pp.~189-229]{Ebbinghaus2010}}
+      \field{number}{2}
+      \field{title}{Untersuchungen über die {G}rundlagen der {M}engenlehre~{I}}
+      \field{volume}{65}
+      \field{year}{1908}
+      \field{pages}{261\bibrangedash 281}
+      \range{pages}{21}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,179 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossentry{anti-symmetric}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{assumption}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{asymmetric}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glossentry{bijection}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{br}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{bound}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossentry{cp}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{Church-Turing Theorem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{church-turing thesis}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{closed}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{compactness theorem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{mcs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{completeness}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{completeness-theorem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{composition}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{connected}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{consistent}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{cs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossentry{decision problem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{dtheorem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{derivability}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{derivation}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{difference}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{discharged}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{disjoint}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{fdomain}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{sdomain}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossentry{eigenvariable}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{entailment}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{enumeration}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{equinumerous}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{er}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{sat-extensionality}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{set-extensionality}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossentry{finitely satisfiable}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{formula}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{free}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{free for}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{function}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossentry{graph}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{H}\relax \glsresetentrylist %
+\glossentry{halting problem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossentry{inconsistent}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{if}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{intersection}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{inverse}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{ir}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{irreflexive}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossentry{ls}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{lo}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{mos}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{pf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{po}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{ps}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{preorder}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossentry{range}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{reflexive}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossentry{satisfiable}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{sentence}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{finsequence}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{infsequence}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{sequent}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{set}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{soundness}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{slo}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{so}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{structure}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{subformula}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{subset}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{sf}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{symmetric}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossentry{theorem}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{to}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{transitive}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{tc}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glossentry{undischarged}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{union}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossentry{valid}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\glossentry{variable assignment}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}\glsgroupskip
+\glsgroupheading{X}\relax \glsresetentrylist %
+\glossentry{$x$-variant}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{389}}}%
+\end{theglossary}\glossarypostamble
