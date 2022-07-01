@@ -1,3 +1,9 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/OpenLogicProject/OpenLogic.wiki.git
+[submodule "assets/photos"]
+	path = assets/photos
+	url = https://github.com/OpenLogicProject/photos
+[submodule "assets/portraits"]
+	path = assets/portraits
+	url = https://github.com/OpenLogicProject/portraits
