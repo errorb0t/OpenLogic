@@ -1,0 +1,621 @@
+\contentsline {defn}{{Definition}{1.{1}}{Extensionalität}}{2}{defn.1.1}%
+\contentsline {ex}{{Beispiel}{1.{2}}{}}{3}{ex.1.2}%
+\contentsline {ex}{{Beispiel}{1.{3}}{}}{3}{ex.1.3}%
+\contentsline {ex}{{Beispiel}{1.{4}}{}}{3}{ex.1.4}%
+\contentsline {defn}{{Definition}{1.{5}}{Teilmenge}}{4}{defn.1.5}%
+\contentsline {ex}{{Beispiel}{1.{6}}{}}{4}{ex.1.6}%
+\contentsline {ex}{{Beispiel}{1.{7}}{}}{4}{ex.1.7}%
+\contentsline {prop}{{Proposition}{1.{8}}{}}{5}{prop.1.8}%
+\contentsline {defn}{{Definition}{1.{9}}{}}{5}{defn.1.9}%
+\contentsline {defn}{{Definition}{1.{10}}{Potenzmenge}}{5}{defn.1.10}%
+\contentsline {ex}{{Beispiel}{1.{11}}{}}{5}{ex.1.11}%
+\contentsline {ex}{{Beispiel}{1.{12}}{}}{6}{ex.1.12}%
+\contentsline {ex}{{Beispiel}{1.{13}}{Zeichenfolgen}}{7}{ex.1.13}%
+\contentsline {ex}{{Beispiel}{1.{14}}{Unendliche Folgen}}{7}{ex.1.14}%
+\contentsline {defn}{{Definition}{1.{15}}{Vereinigung}}{8}{defn.1.15}%
+\contentsline {ex}{{Beispiel}{1.{16}}{}}{8}{ex.1.16}%
+\contentsline {defn}{{Definition}{1.{17}}{Schnittmenge}}{8}{defn.1.17}%
+\contentsline {ex}{{Beispiel}{1.{18}}{}}{9}{ex.1.18}%
+\contentsline {defn}{{Definition}{1.{19}}{}}{10}{defn.1.19}%
+\contentsline {defn}{{Definition}{1.{20}}{}}{10}{defn.1.20}%
+\contentsline {ex}{{Beispiel}{1.{21}}{}}{10}{ex.1.21}%
+\contentsline {defn}{{Definition}{1.{22}}{Differenz}}{11}{defn.1.22}%
+\contentsline {defn}{{Definition}{1.{23}}{Geordnetes Paar}}{12}{defn.1.23}%
+\contentsline {defn}{{Definition}{1.{24}}{Kartesisches Produkt}}{12}{defn.1.24}%
+\contentsline {ex}{{Beispiel}{1.{25}}{}}{12}{ex.1.25}%
+\contentsline {ex}{{Beispiel}{1.{26}}{}}{12}{ex.1.26}%
+\contentsline {prop}{{Proposition}{1.{27}}{}}{13}{prop.1.27}%
+\contentsline {proof}{{\proofname }{1}{}}{13}{proof.1}%
+\contentsline {ex}{{Beispiel}{1.{28}}{}}{13}{ex.1.28}%
+\contentsline {thm}{{Theorem}{1.{29}}{Russellsche Antinomie}}{14}{thm.1.29}%
+\contentsline {proof}{{\proofname }{2}{}}{14}{proof.2}%
+\contentsline {probd}{{Aufgabe}{1.1}{}}{16}{probd.1.1}%
+\contentsline {probd}{{Aufgabe}{1.2}{}}{16}{probd.1.2}%
+\contentsline {probd}{{Aufgabe}{1.3}{}}{16}{probd.1.3}%
+\contentsline {probd}{{Aufgabe}{1.4}{}}{16}{probd.1.4}%
+\contentsline {probd}{{Aufgabe}{1.5}{}}{16}{probd.1.5}%
+\contentsline {probd}{{Aufgabe}{1.6}{}}{16}{probd.1.6}%
+\contentsline {probd}{{Aufgabe}{1.7}{}}{17}{probd.1.7}%
+\contentsline {probd}{{Aufgabe}{1.8}{}}{17}{probd.1.8}%
+\contentsline {probd}{{Aufgabe}{1.9}{}}{17}{probd.1.9}%
+\contentsline {probd}{{Aufgabe}{1.10}{}}{17}{probd.1.10}%
+\contentsline {defn}{{Definition}{2.{1}}{Binäre Relation}}{19}{defn.2.1}%
+\contentsline {ex}{{Beispiel}{2.{2}}{}}{19}{ex.2.2}%
+\contentsline {defn}{{Definition}{2.{3}}{Reflexivität}}{21}{defn.2.3}%
+\contentsline {defn}{{Definition}{2.{4}}{Transitivität}}{21}{defn.2.4}%
+\contentsline {defn}{{Definition}{2.{5}}{Symmetrie}}{21}{defn.2.5}%
+\contentsline {defn}{{Definition}{2.{6}}{Antisymmetrie}}{21}{defn.2.6}%
+\contentsline {defn}{{Definition}{2.{7}}{Konnektivität}}{22}{defn.2.7}%
+\contentsline {defn}{{Definition}{2.{8}}{Irreflexivität}}{22}{defn.2.8}%
+\contentsline {defn}{{Definition}{2.{9}}{Asymmetrie}}{22}{defn.2.9}%
+\contentsline {defn}{{Definition}{2.{10}}{Äquivalenzrelation}}{22}{defn.2.10}%
+\contentsline {defn}{{Definition}{2.{11}}{}}{23}{defn.2.11}%
+\contentsline {prop}{{Proposition}{2.{12}}{}}{23}{prop.2.12}%
+\contentsline {proof}{{\proofname }{3}{}}{23}{proof.3}%
+\contentsline {ex}{{Beispiel}{2.{13}}{}}{23}{ex.2.13}%
+\contentsline {defn}{{Definition}{2.{14}}{Quasiordnung}}{24}{defn.2.14}%
+\contentsline {defn}{{Definition}{2.{15}}{Halbordnung}}{24}{defn.2.15}%
+\contentsline {defn}{{Definition}{2.{16}}{Totalordnung}}{24}{defn.2.16}%
+\contentsline {ex}{{Beispiel}{2.{17}}{}}{24}{ex.2.17}%
+\contentsline {ex}{{Beispiel}{2.{18}}{}}{24}{ex.2.18}%
+\contentsline {ex}{{Beispiel}{2.{19}}{}}{25}{ex.2.19}%
+\contentsline {ex}{{Beispiel}{2.{20}}{}}{25}{ex.2.20}%
+\contentsline {defn}{{Definition}{2.{21}}{Striktordnung}}{25}{defn.2.21}%
+\contentsline {defn}{{Definition}{2.{22}}{Strenge Totalordnung}}{25}{defn.2.22}%
+\contentsline {ex}{{Beispiel}{2.{23}}{}}{25}{ex.2.23}%
+\contentsline {prop}{{Proposition}{2.{24}}{}}{26}{prop.2.24}%
+\contentsline {proof}{{\proofname }{4}{}}{26}{proof.4}%
+\contentsline {prop}{{Proposition}{2.{25}}{}}{26}{prop.2.25}%
+\contentsline {proof}{{\proofname }{5}{}}{26}{proof.5}%
+\contentsline {prop}{{Proposition}{2.{26}}{}}{27}{prop.2.26}%
+\contentsline {proof}{{\proofname }{6}{}}{27}{proof.6}%
+\contentsline {defn}{{Definition}{2.{27}}{Gerichteter Graph}}{27}{defn.2.27}%
+\contentsline {ex}{{Beispiel}{2.{28}}{}}{28}{ex.2.28}%
+\contentsline {defn}{{Definition}{2.{29}}{}}{29}{defn.2.29}%
+\contentsline {ex}{{Beispiel}{2.{30}}{}}{29}{ex.2.30}%
+\contentsline {defn}{{Definition}{2.{31}}{Transitive Hülle}}{29}{defn.2.31}%
+\contentsline {ex}{{Beispiel}{2.{32}}{}}{29}{ex.2.32}%
+\contentsline {probd}{{Aufgabe}{2.1}{}}{30}{probd.2.1}%
+\contentsline {probd}{{Aufgabe}{2.2}{}}{30}{probd.2.2}%
+\contentsline {probd}{{Aufgabe}{2.3}{}}{31}{probd.2.3}%
+\contentsline {probd}{{Aufgabe}{2.4}{}}{31}{probd.2.4}%
+\contentsline {probd}{{Aufgabe}{2.5}{}}{31}{probd.2.5}%
+\contentsline {probd}{{Aufgabe}{2.6}{}}{31}{probd.2.6}%
+\contentsline {defn}{{Definition}{3.{1}}{Funktion}}{32}{defn.3.1}%
+\contentsline {ex}{{Beispiel}{3.{2}}{}}{33}{ex.3.2}%
+\contentsline {ex}{{Beispiel}{3.{3}}{}}{33}{ex.3.3}%
+\contentsline {ex}{{Beispiel}{3.{4}}{}}{34}{ex.3.4}%
+\contentsline {ex}{{Beispiel}{3.{5}}{}}{34}{ex.3.5}%
+\contentsline {ex}{{Beispiel}{3.{6}}{}}{34}{ex.3.6}%
+\contentsline {ex}{{Beispiel}{3.{7}}{}}{35}{ex.3.7}%
+\contentsline {defn}{{Definition}{3.{8}}{surjektive Funktion}}{35}{defn.3.8}%
+\contentsline {defn}{{Definition}{3.{9}}{injektive Funktion}}{36}{defn.3.9}%
+\contentsline {ex}{{Beispiel}{3.{10}}{}}{36}{ex.3.10}%
+\contentsline {defn}{{Definition}{3.{11}}{Bijektion}}{37}{defn.3.11}%
+\contentsline {defn}{{Definition}{3.{12}}{Graph einer Funktion}}{38}{defn.3.12}%
+\contentsline {prop}{{Proposition}{3.{13}}{}}{39}{prop.3.13}%
+\contentsline {proof}{{\proofname }{7}{}}{39}{proof.7}%
+\contentsline {defn}{{Definition}{3.{14}}{}}{39}{defn.3.14}%
+\contentsline {defn}{{Definition}{3.{15}}{}}{40}{defn.3.15}%
+\contentsline {prop}{{Proposition}{3.{16}}{}}{41}{prop.3.16}%
+\contentsline {proof}{{\proofname }{8}{}}{41}{proof.8}%
+\contentsline {prop}{{Proposition}{3.{17}}{}}{41}{prop.3.17}%
+\contentsline {proof}{{\proofname }{9}{}}{41}{proof.9}%
+\contentsline {prop}{{Proposition}{3.{18}}{}}{42}{prop.3.18}%
+\contentsline {proof}{{\proofname }{10}{}}{42}{proof.10}%
+\contentsline {prop}{{Proposition}{3.{19}}{}}{42}{prop.3.19}%
+\contentsline {proof}{{\proofname }{11}{}}{42}{proof.11}%
+\contentsline {prop}{{Proposition}{3.{20}}{}}{42}{prop.3.20}%
+\contentsline {proof}{{\proofname }{12}{}}{42}{proof.12}%
+\contentsline {defn}{{Definition}{3.{21}}{Composition}}{43}{defn.3.21}%
+\contentsline {ex}{{Beispiel}{3.{22}}{}}{43}{ex.3.22}%
+\contentsline {defn}{{Definition}{3.{23}}{}}{44}{defn.3.23}%
+\contentsline {ex}{{Beispiel}{3.{24}}{}}{44}{ex.3.24}%
+\contentsline {ex}{{Beispiel}{3.{25}}{}}{44}{ex.3.25}%
+\contentsline {defn}{{Definition}{3.{26}}{Graph of a partial function}}{44}{defn.3.26}%
+\contentsline {prop}{{Proposition}{3.{27}}{}}{44}{prop.3.27}%
+\contentsline {proof}{{\proofname }{13}{}}{45}{proof.13}%
+\contentsline {probd}{{Aufgabe}{3.1}{}}{46}{probd.3.1}%
+\contentsline {probd}{{Aufgabe}{3.2}{}}{46}{probd.3.2}%
+\contentsline {probd}{{Aufgabe}{3.3}{}}{46}{probd.3.3}%
+\contentsline {probd}{{Aufgabe}{3.4}{}}{46}{probd.3.4}%
+\contentsline {probd}{{Aufgabe}{3.5}{}}{46}{probd.3.5}%
+\contentsline {probd}{{Aufgabe}{3.6}{}}{46}{probd.3.6}%
+\contentsline {probd}{{Aufgabe}{3.7}{}}{46}{probd.3.7}%
+\contentsline {probd}{{Aufgabe}{3.8}{}}{46}{probd.3.8}%
+\contentsline {defn}{{Definition}{4.{1}}{Enumeration, informally}}{48}{defn.4.1}%
+\contentsline {prop}{{Proposition}{4.{2}}{}}{49}{prop.4.2}%
+\contentsline {proof}{{\proofname }{14}{}}{49}{proof.14}%
+\contentsline {defn}{{Definition}{4.{3}}{Enumeration, formally}}{49}{defn.4.3}%
+\contentsline {defn}{{Definition}{4.{4}}{}}{50}{defn.4.4}%
+\contentsline {ex}{{Beispiel}{4.{5}}{}}{50}{ex.4.5}%
+\contentsline {ex}{{Beispiel}{4.{6}}{}}{50}{ex.4.6}%
+\contentsline {ex}{{Beispiel}{4.{7}}{}}{50}{ex.4.7}%
+\contentsline {prop}{{Proposition}{4.{8}}{}}{51}{prop.4.8}%
+\contentsline {proof}{{\proofname }{15}{}}{51}{proof.15}%
+\contentsline {cor}{{Korollar}{4.{9}}{}}{51}{cor.4.9}%
+\contentsline {prop}{{Proposition}{4.{10}}{}}{52}{prop.4.10}%
+\contentsline {proof}{{\proofname }{16}{}}{52}{proof.16}%
+\contentsline {cor}{{Korollar}{4.{11}}{}}{52}{cor.4.11}%
+\contentsline {proof}{{\proofname }{17}{}}{52}{proof.17}%
+\contentsline {prop}{{Proposition}{4.{12}}{}}{53}{prop.4.12}%
+\contentsline {proof}{{\proofname }{18}{}}{53}{proof.18}%
+\contentsline {prop}{{Proposition}{4.{13}}{}}{54}{prop.4.13}%
+\contentsline {defn}{{Definition}{4.{14}}{Pairing function}}{55}{defn.4.14}%
+\contentsline {ex}{{Beispiel}{4.{15}}{}}{57}{ex.4.15}%
+\contentsline {ex}{{Beispiel}{4.{16}}{}}{58}{ex.4.16}%
+\contentsline {thm}{{Theorem}{4.{17}}{}}{58}{thm.4.17}%
+\contentsline {proof}{{\proofname }{19}{}}{58}{proof.19}%
+\contentsline {thm}{{Theorem}{4.{18}}{}}{60}{thm.4.18}%
+\contentsline {proof}{{\proofname }{20}{}}{60}{proof.20}%
+\contentsline {proof}{{Proof of {\olref [nen]{thm:nonenum-pownat}} by reduction}{21}{}}{62}{proof.21}%
+\contentsline {defn}{{Definition}{4.{19}}{}}{64}{defn.4.19}%
+\contentsline {prop}{{Proposition}{4.{20}}{}}{64}{prop.4.20}%
+\contentsline {proof}{{\proofname }{22}{}}{64}{proof.22}%
+\contentsline {prop}{{Proposition}{4.{21}}{}}{64}{prop.4.21}%
+\contentsline {proof}{{\proofname }{23}{}}{64}{proof.23}%
+\contentsline {defn}{{Definition}{4.{22}}{}}{65}{defn.4.22}%
+\contentsline {defn}{{Definition}{4.{23}}{}}{65}{defn.4.23}%
+\contentsline {thm}{{Theorem}{4.{24}}{Cantor}}{66}{thm.4.24}%
+\contentsline {proof}{{\proofname }{24}{}}{66}{proof.24}%
+\contentsline {thm}{{Theorem}{4.{25}}{Schr\"oder-Bernstein}}{67}{thm.4.25}%
+\contentsline {probd}{{Aufgabe}{4.1}{}}{69}{probd.4.1}%
+\contentsline {probd}{{Aufgabe}{4.2}{}}{69}{probd.4.2}%
+\contentsline {probd}{{Aufgabe}{4.3}{}}{69}{probd.4.3}%
+\contentsline {probd}{{Aufgabe}{4.4}{}}{69}{probd.4.4}%
+\contentsline {probd}{{Aufgabe}{4.5}{}}{69}{probd.4.5}%
+\contentsline {probd}{{Aufgabe}{4.6}{}}{69}{probd.4.6}%
+\contentsline {probd}{{Aufgabe}{4.7}{}}{69}{probd.4.7}%
+\contentsline {probd}{{Aufgabe}{4.8}{}}{69}{probd.4.8}%
+\contentsline {probd}{{Aufgabe}{4.9}{}}{70}{probd.4.9}%
+\contentsline {probd}{{Aufgabe}{4.10}{}}{70}{probd.4.10}%
+\contentsline {probd}{{Aufgabe}{4.11}{}}{70}{probd.4.11}%
+\contentsline {probd}{{Aufgabe}{4.12}{}}{70}{probd.4.12}%
+\contentsline {probd}{{Aufgabe}{4.13}{}}{70}{probd.4.13}%
+\contentsline {probd}{{Aufgabe}{4.14}{}}{70}{probd.4.14}%
+\contentsline {probd}{{Aufgabe}{4.15}{}}{70}{probd.4.15}%
+\contentsline {probd}{{Aufgabe}{4.16}{}}{70}{probd.4.16}%
+\contentsline {probd}{{Aufgabe}{4.17}{}}{70}{probd.4.17}%
+\contentsline {probd}{{Aufgabe}{4.18}{}}{70}{probd.4.18}%
+\contentsline {probd}{{Aufgabe}{4.19}{}}{71}{probd.4.19}%
+\contentsline {probd}{{Aufgabe}{4.20}{}}{71}{probd.4.20}%
+\contentsline {probd}{{Aufgabe}{4.21}{}}{71}{probd.4.21}%
+\contentsline {probd}{{Aufgabe}{4.22}{}}{71}{probd.4.22}%
+\contentsline {probd}{{Aufgabe}{4.23}{}}{71}{probd.4.23}%
+\contentsline {probd}{{Aufgabe}{4.24}{}}{71}{probd.4.24}%
+\contentsline {probd}{{Aufgabe}{4.25}{}}{71}{probd.4.25}%
+\contentsline {probd}{{Aufgabe}{4.26}{}}{71}{probd.4.26}%
+\contentsline {probd}{{Aufgabe}{4.27}{}}{71}{probd.4.27}%
+\contentsline {probd}{{Aufgabe}{4.28}{}}{71}{probd.4.28}%
+\contentsline {defn}{{Definition}{5.{1}}{}}{78}{defn.5.1}%
+\contentsline {ex}{{Beispiel}{6.{1}}{}}{90}{ex.6.1}%
+\contentsline {ex}{{Beispiel}{6.{2}}{}}{90}{ex.6.2}%
+\contentsline {ex}{{Beispiel}{6.{3}}{}}{90}{ex.6.3}%
+\contentsline {defn}{{Definition}{6.{4}}{Terms}}{92}{defn.6.4}%
+\contentsline {defn}{{Definition}{6.{5}}{Formula}}{92}{defn.6.5}%
+\contentsline {defn}{{Definition}{6.{6}}{}}{93}{defn.6.6}%
+\contentsline {defn}{{Definition}{6.{7}}{Syntactic identity}}{94}{defn.6.7}%
+\contentsline {lem}{{Lemma}{6.{8}}{}}{95}{lem.6.8}%
+\contentsline {proof}{{\proofname }{25}{}}{95}{proof.25}%
+\contentsline {defn}{{Definition}{6.{9}}{Proper prefix}}{96}{defn.6.9}%
+\contentsline {lem}{{Lemma}{6.{10}}{}}{96}{lem.6.10}%
+\contentsline {proof}{{\proofname }{26}{}}{96}{proof.26}%
+\contentsline {prop}{{Proposition}{6.{11}}{}}{97}{prop.6.11}%
+\contentsline {proof}{{\proofname }{27}{}}{97}{proof.27}%
+\contentsline {prop}{{Proposition}{6.{12}}{Unique Readability}}{97}{prop.6.12}%
+\contentsline {proof}{{\proofname }{28}{}}{97}{proof.28}%
+\contentsline {defn}{{Definition}{6.{13}}{!!^{main operator}}}{98}{defn.6.13}%
+\contentsline {defn}{{Definition}{6.{14}}{Immediate !!^{subformula}}}{99}{defn.6.14}%
+\contentsline {defn}{{Definition}{6.{15}}{Proper !!^{subformula}}}{100}{defn.6.15}%
+\contentsline {defn}{{Definition}{6.{16}}{!!^{subformula}}}{100}{defn.6.16}%
+\contentsline {defn}{{Definition}{6.{17}}{Free occurrences of !!a{variable}}}{101}{defn.6.17}%
+\contentsline {defn}{{Definition}{6.{18}}{Bound Variables}}{101}{defn.6.18}%
+\contentsline {defn}{{Definition}{6.{19}}{Scope}}{101}{defn.6.19}%
+\contentsline {ex}{{Beispiel}{6.{20}}{}}{102}{ex.6.20}%
+\contentsline {defn}{{Definition}{6.{21}}{Sentence}}{102}{defn.6.21}%
+\contentsline {defn}{{Definition}{6.{22}}{Substitution in a term}}{103}{defn.6.22}%
+\contentsline {defn}{{Definition}{6.{23}}{}}{103}{defn.6.23}%
+\contentsline {ex}{{Beispiel}{6.{24}}{}}{103}{ex.6.24}%
+\contentsline {defn}{{Definition}{6.{25}}{Substitution in !!a{formula}}}{103}{defn.6.25}%
+\contentsline {probd}{{Aufgabe}{6.1}{}}{105}{probd.6.1}%
+\contentsline {probd}{{Aufgabe}{6.2}{}}{105}{probd.6.2}%
+\contentsline {probd}{{Aufgabe}{6.3}{}}{105}{probd.6.3}%
+\contentsline {defn}{{Definition}{7.{1}}{!!^{structure}s}}{107}{defn.7.1}%
+\contentsline {ex}{{Beispiel}{7.{2}}{}}{108}{ex.7.2}%
+\contentsline {ex}{{Beispiel}{7.{3}}{}}{109}{ex.7.3}%
+\contentsline {defn}{{Definition}{7.{4}}{!!^{value} of closed terms}}{109}{defn.7.4}%
+\contentsline {defn}{{Definition}{7.{5}}{Covered !!{structure}}}{110}{defn.7.5}%
+\contentsline {ex}{{Beispiel}{7.{6}}{}}{110}{ex.7.6}%
+\contentsline {defn}{{Definition}{7.{7}}{Variable Assignment}}{111}{defn.7.7}%
+\contentsline {defn}{{Definition}{7.{8}}{!!^{value} of Terms}}{111}{defn.7.8}%
+\contentsline {defn}{{Definition}{7.{9}}{$x$-Variant}}{112}{defn.7.9}%
+\contentsline {defn}{{Definition}{7.{10}}{}}{112}{defn.7.10}%
+\contentsline {defn}{{Definition}{7.{11}}{Satisfaction}}{112}{defn.7.11}%
+\contentsline {ex}{{Beispiel}{7.{12}}{}}{113}{ex.7.12}%
+\contentsline {prop}{{Proposition}{7.{13}}{}}{117}{prop.7.13}%
+\contentsline {proof}{{\proofname }{29}{}}{117}{proof.29}%
+\contentsline {prop}{{Proposition}{7.{14}}{}}{118}{prop.7.14}%
+\contentsline {proof}{{\proofname }{30}{}}{118}{proof.30}%
+\contentsline {cor}{{Korollar}{7.{15}}{}}{119}{cor.7.15}%
+\contentsline {proof}{{\proofname }{31}{}}{119}{proof.31}%
+\contentsline {defn}{{Definition}{7.{16}}{}}{120}{defn.7.16}%
+\contentsline {prop}{{Proposition}{7.{17}}{}}{120}{prop.7.17}%
+\contentsline {proof}{{\proofname }{32}{}}{120}{proof.32}%
+\contentsline {prop}{{Proposition}{7.{18}}{}}{120}{prop.7.18}%
+\contentsline {proof}{{\proofname }{33}{}}{120}{proof.33}%
+\contentsline {prop}{{Proposition}{7.{19}}{Extensionality}}{121}{prop.7.19}%
+\contentsline {proof}{{\proofname }{34}{}}{121}{proof.34}%
+\contentsline {cor}{{Korollar}{7.{20}}{Extensionality for !!^{sentence}s}}{121}{cor.7.20}%
+\contentsline {proof}{{\proofname }{35}{}}{121}{proof.35}%
+\contentsline {prop}{{Proposition}{7.{21}}{}}{121}{prop.7.21}%
+\contentsline {proof}{{\proofname }{36}{}}{121}{proof.36}%
+\contentsline {prop}{{Proposition}{7.{22}}{}}{122}{prop.7.22}%
+\contentsline {proof}{{\proofname }{37}{}}{122}{proof.37}%
+\contentsline {defn}{{Definition}{7.{23}}{Validity}}{123}{defn.7.23}%
+\contentsline {defn}{{Definition}{7.{24}}{Entailment}}{123}{defn.7.24}%
+\contentsline {defn}{{Definition}{7.{25}}{Satisfiability}}{123}{defn.7.25}%
+\contentsline {prop}{{Proposition}{7.{26}}{}}{123}{prop.7.26}%
+\contentsline {proof}{{\proofname }{38}{}}{123}{proof.38}%
+\contentsline {prop}{{Proposition}{7.{27}}{}}{124}{prop.7.27}%
+\contentsline {proof}{{\proofname }{39}{}}{124}{proof.39}%
+\contentsline {prop}{{Proposition}{7.{28}}{}}{124}{prop.7.28}%
+\contentsline {proof}{{\proofname }{40}{}}{124}{proof.40}%
+\contentsline {thm}{{Theorem}{7.{29}}{Semantic Deduction Theorem}}{124}{thm.7.29}%
+\contentsline {proof}{{\proofname }{41}{}}{124}{proof.41}%
+\contentsline {prop}{{Proposition}{7.{30}}{}}{124}{prop.7.30}%
+\contentsline {proof}{{\proofname }{42}{}}{125}{proof.42}%
+\contentsline {probd}{{Aufgabe}{7.1}{}}{125}{probd.7.1}%
+\contentsline {probd}{{Aufgabe}{7.2}{}}{125}{probd.7.2}%
+\contentsline {probd}{{Aufgabe}{7.3}{}}{126}{probd.7.3}%
+\contentsline {probd}{{Aufgabe}{7.4}{}}{126}{probd.7.4}%
+\contentsline {probd}{{Aufgabe}{7.5}{}}{126}{probd.7.5}%
+\contentsline {probd}{{Aufgabe}{7.6}{}}{126}{probd.7.6}%
+\contentsline {probd}{{Aufgabe}{7.7}{}}{127}{probd.7.7}%
+\contentsline {probd}{{Aufgabe}{7.8}{}}{127}{probd.7.8}%
+\contentsline {probd}{{Aufgabe}{7.9}{}}{127}{probd.7.9}%
+\contentsline {probd}{{Aufgabe}{7.10}{}}{127}{probd.7.10}%
+\contentsline {probd}{{Aufgabe}{7.11}{}}{127}{probd.7.11}%
+\contentsline {defn}{{Definition}{8.{1}}{}}{128}{defn.8.1}%
+\contentsline {defn}{{Definition}{8.{2}}{Model of a set}}{131}{defn.8.2}%
+\contentsline {ex}{{Beispiel}{8.{3}}{}}{131}{ex.8.3}%
+\contentsline {ex}{{Beispiel}{8.{4}}{}}{132}{ex.8.4}%
+\contentsline {ex}{{Beispiel}{8.{5}}{}}{132}{ex.8.5}%
+\contentsline {ex}{{Beispiel}{8.{6}}{}}{132}{ex.8.6}%
+\contentsline {ex}{{Beispiel}{8.{7}}{}}{133}{ex.8.7}%
+\contentsline {ex}{{Beispiel}{8.{8}}{}}{134}{ex.8.8}%
+\contentsline {defn}{{Definition}{8.{9}}{}}{135}{defn.8.9}%
+\contentsline {ex}{{Beispiel}{8.{10}}{}}{135}{ex.8.10}%
+\contentsline {prop}{{Proposition}{8.{11}}{}}{140}{prop.8.11}%
+\contentsline {prop}{{Proposition}{8.{12}}{}}{140}{prop.8.12}%
+\contentsline {prop}{{Proposition}{8.{13}}{}}{141}{prop.8.13}%
+\contentsline {probd}{{Aufgabe}{8.1}{}}{142}{probd.8.1}%
+\contentsline {probd}{{Aufgabe}{8.2}{}}{142}{probd.8.2}%
+\contentsline {probd}{{Aufgabe}{8.3}{}}{142}{probd.8.3}%
+\contentsline {probd}{{Aufgabe}{8.4}{}}{143}{probd.8.4}%
+\contentsline {defn}{{Definition}{10.{1}}{Sequent}}{154}{defn.10.1}%
+\contentsline {defn}{{Definition}{10.{2}}{Initial Sequent}}{155}{defn.10.2}%
+\contentsline {defn}{{Definition}{10.{3}}{$\Log {LK}$ !!{derivation}}}{159}{defn.10.3}%
+\contentsline {ex}{{Beispiel}{10.{4}}{}}{159}{ex.10.4}%
+\contentsline {ex}{{Beispiel}{10.{5}}{}}{161}{ex.10.5}%
+\contentsline {ex}{{Beispiel}{10.{6}}{}}{161}{ex.10.6}%
+\contentsline {ex}{{Beispiel}{10.{7}}{}}{163}{ex.10.7}%
+\contentsline {ex}{{Beispiel}{10.{8}}{}}{165}{ex.10.8}%
+\contentsline {ex}{{Beispiel}{10.{9}}{}}{165}{ex.10.9}%
+\contentsline {defn}{{Definition}{10.{10}}{Theorems}}{167}{defn.10.10}%
+\contentsline {defn}{{Definition}{10.{11}}{!!^{derivability}}}{167}{defn.10.11}%
+\contentsline {defn}{{Definition}{10.{12}}{Consistency}}{168}{defn.10.12}%
+\contentsline {prop}{{Proposition}{10.{13}}{Reflexivity}}{168}{prop.10.13}%
+\contentsline {proof}{{\proofname }{43}{}}{168}{proof.43}%
+\contentsline {prop}{{Proposition}{10.{14}}{Monotony}}{168}{prop.10.14}%
+\contentsline {proof}{{\proofname }{44}{}}{168}{proof.44}%
+\contentsline {prop}{{Proposition}{10.{15}}{Transitivity}}{169}{prop.10.15}%
+\contentsline {proof}{{\proofname }{45}{}}{169}{proof.45}%
+\contentsline {prop}{{Proposition}{10.{16}}{}}{169}{prop.10.16}%
+\contentsline {proof}{{\proofname }{46}{}}{169}{proof.46}%
+\contentsline {prop}{{Proposition}{10.{17}}{Compactness}}{169}{prop.10.17}%
+\contentsline {proof}{{\proofname }{47}{}}{169}{proof.47}%
+\contentsline {prop}{{Proposition}{10.{18}}{}}{170}{prop.10.18}%
+\contentsline {proof}{{\proofname }{48}{}}{170}{proof.48}%
+\contentsline {prop}{{Proposition}{10.{19}}{}}{170}{prop.10.19}%
+\contentsline {proof}{{\proofname }{49}{}}{170}{proof.49}%
+\contentsline {prop}{{Proposition}{10.{20}}{}}{171}{prop.10.20}%
+\contentsline {proof}{{\proofname }{50}{}}{171}{proof.50}%
+\contentsline {prop}{{Proposition}{10.{21}}{}}{171}{prop.10.21}%
+\contentsline {proof}{{\proofname }{51}{}}{171}{proof.51}%
+\contentsline {prop}{{Proposition}{10.{22}}{}}{172}{prop.10.22}%
+\contentsline {proof}{{\proofname }{52}{}}{172}{proof.52}%
+\contentsline {prop}{{Proposition}{10.{23}}{}}{172}{prop.10.23}%
+\contentsline {proof}{{\proofname }{53}{}}{172}{proof.53}%
+\contentsline {prop}{{Proposition}{10.{24}}{}}{172}{prop.10.24}%
+\contentsline {proof}{{\proofname }{54}{}}{173}{proof.54}%
+\contentsline {thm}{{Theorem}{10.{25}}{}}{173}{thm.10.25}%
+\contentsline {proof}{{\proofname }{55}{}}{173}{proof.55}%
+\contentsline {prop}{{Proposition}{10.{26}}{}}{173}{prop.10.26}%
+\contentsline {proof}{{\proofname }{56}{}}{173}{proof.56}%
+\contentsline {defn}{{Definition}{10.{27}}{}}{174}{defn.10.27}%
+\contentsline {thm}{{Theorem}{10.{28}}{Soundness}}{175}{thm.10.28}%
+\contentsline {proof}{{\proofname }{57}{}}{175}{proof.57}%
+\contentsline {cor}{{Korollar}{10.{29}}{}}{180}{cor.10.29}%
+\contentsline {cor}{{Korollar}{10.{30}}{}}{180}{cor.10.30}%
+\contentsline {proof}{{\proofname }{58}{}}{180}{proof.58}%
+\contentsline {cor}{{Korollar}{10.{31}}{}}{181}{cor.10.31}%
+\contentsline {proof}{{\proofname }{59}{}}{181}{proof.59}%
+\contentsline {defn}{{Definition}{10.{32}}{Initial sequents for $\eq $}}{181}{defn.10.32}%
+\contentsline {ex}{{Beispiel}{10.{33}}{}}{181}{ex.10.33}%
+\contentsline {prop}{{Proposition}{10.{34}}{}}{182}{prop.10.34}%
+\contentsline {proof}{{\proofname }{60}{}}{182}{proof.60}%
+\contentsline {probd}{{Aufgabe}{10.1}{}}{183}{probd.10.1}%
+\contentsline {probd}{{Aufgabe}{10.2}{}}{183}{probd.10.2}%
+\contentsline {probd}{{Aufgabe}{10.3}{}}{184}{probd.10.3}%
+\contentsline {probd}{{Aufgabe}{10.4}{}}{184}{probd.10.4}%
+\contentsline {probd}{{Aufgabe}{10.5}{}}{185}{probd.10.5}%
+\contentsline {probd}{{Aufgabe}{10.6}{}}{185}{probd.10.6}%
+\contentsline {probd}{{Aufgabe}{10.7}{}}{185}{probd.10.7}%
+\contentsline {probd}{{Aufgabe}{10.8}{}}{185}{probd.10.8}%
+\contentsline {probd}{{Aufgabe}{10.9}{}}{185}{probd.10.9}%
+\contentsline {defn}{{Definition}{11.{1}}{Assumption}}{186}{defn.11.1}%
+\contentsline {defn}{{Definition}{11.{2}}{!!^{derivation}}}{190}{defn.11.2}%
+\contentsline {ex}{{Beispiel}{11.{3}}{}}{191}{ex.11.3}%
+\contentsline {ex}{{Beispiel}{11.{4}}{}}{192}{ex.11.4}%
+\contentsline {ex}{{Beispiel}{11.{5}}{}}{193}{ex.11.5}%
+\contentsline {ex}{{Beispiel}{11.{6}}{}}{195}{ex.11.6}%
+\contentsline {ex}{{Beispiel}{11.{7}}{}}{196}{ex.11.7}%
+\contentsline {ex}{{Beispiel}{11.{8}}{}}{198}{ex.11.8}%
+\contentsline {ex}{{Beispiel}{11.{9}}{}}{200}{ex.11.9}%
+\contentsline {defn}{{Definition}{11.{10}}{Theorems}}{201}{defn.11.10}%
+\contentsline {defn}{{Definition}{11.{11}}{!!^{derivability}}}{201}{defn.11.11}%
+\contentsline {defn}{{Definition}{11.{12}}{Consistency}}{201}{defn.11.12}%
+\contentsline {prop}{{Proposition}{11.{13}}{Reflexivity}}{202}{prop.11.13}%
+\contentsline {proof}{{\proofname }{61}{}}{202}{proof.61}%
+\contentsline {prop}{{Proposition}{11.{14}}{Monotony}}{202}{prop.11.14}%
+\contentsline {proof}{{\proofname }{62}{}}{202}{proof.62}%
+\contentsline {prop}{{Proposition}{11.{15}}{Transitivity}}{202}{prop.11.15}%
+\contentsline {proof}{{\proofname }{63}{}}{202}{proof.63}%
+\contentsline {prop}{{Proposition}{11.{16}}{}}{202}{prop.11.16}%
+\contentsline {proof}{{\proofname }{64}{}}{203}{proof.64}%
+\contentsline {prop}{{Proposition}{11.{17}}{Compactness}}{203}{prop.11.17}%
+\contentsline {proof}{{\proofname }{65}{}}{203}{proof.65}%
+\contentsline {prop}{{Proposition}{11.{18}}{}}{203}{prop.11.18}%
+\contentsline {proof}{{\proofname }{66}{}}{203}{proof.66}%
+\contentsline {prop}{{Proposition}{11.{19}}{}}{204}{prop.11.19}%
+\contentsline {proof}{{\proofname }{67}{}}{204}{proof.67}%
+\contentsline {prop}{{Proposition}{11.{20}}{}}{204}{prop.11.20}%
+\contentsline {proof}{{\proofname }{68}{}}{204}{proof.68}%
+\contentsline {prop}{{Proposition}{11.{21}}{}}{205}{prop.11.21}%
+\contentsline {proof}{{\proofname }{69}{}}{205}{proof.69}%
+\contentsline {prop}{{Proposition}{11.{22}}{}}{205}{prop.11.22}%
+\contentsline {proof}{{\proofname }{70}{}}{205}{proof.70}%
+\contentsline {prop}{{Proposition}{11.{23}}{}}{206}{prop.11.23}%
+\contentsline {proof}{{\proofname }{71}{}}{206}{proof.71}%
+\contentsline {prop}{{Proposition}{11.{24}}{}}{206}{prop.11.24}%
+\contentsline {proof}{{\proofname }{72}{}}{206}{proof.72}%
+\contentsline {thm}{{Theorem}{11.{25}}{}}{207}{thm.11.25}%
+\contentsline {proof}{{\proofname }{73}{}}{207}{proof.73}%
+\contentsline {prop}{{Proposition}{11.{26}}{}}{207}{prop.11.26}%
+\contentsline {proof}{{\proofname }{74}{}}{207}{proof.74}%
+\contentsline {thm}{{Theorem}{11.{27}}{Soundness}}{208}{thm.11.27}%
+\contentsline {proof}{{\proofname }{75}{}}{208}{proof.75}%
+\contentsline {cor}{{Korollar}{11.{28}}{}}{213}{cor.11.28}%
+\contentsline {cor}{{Korollar}{11.{29}}{}}{213}{cor.11.29}%
+\contentsline {proof}{{\proofname }{76}{}}{213}{proof.76}%
+\contentsline {ex}{{Beispiel}{11.{30}}{}}{213}{ex.11.30}%
+\contentsline {ex}{{Beispiel}{11.{31}}{}}{213}{ex.11.31}%
+\contentsline {prop}{{Proposition}{11.{32}}{}}{215}{prop.11.32}%
+\contentsline {proof}{{\proofname }{77}{}}{215}{proof.77}%
+\contentsline {probd}{{Aufgabe}{11.1}{}}{216}{probd.11.1}%
+\contentsline {probd}{{Aufgabe}{11.2}{}}{216}{probd.11.2}%
+\contentsline {probd}{{Aufgabe}{11.3}{}}{217}{probd.11.3}%
+\contentsline {probd}{{Aufgabe}{11.4}{}}{217}{probd.11.4}%
+\contentsline {probd}{{Aufgabe}{11.5}{}}{218}{probd.11.5}%
+\contentsline {probd}{{Aufgabe}{11.6}{}}{218}{probd.11.6}%
+\contentsline {probd}{{Aufgabe}{11.7}{}}{218}{probd.11.7}%
+\contentsline {probd}{{Aufgabe}{11.8}{}}{218}{probd.11.8}%
+\contentsline {probd}{{Aufgabe}{11.9}{}}{218}{probd.11.9}%
+\contentsline {probd}{{Aufgabe}{11.10}{}}{218}{probd.11.10}%
+\contentsline {defn}{{Definition}{12.{1}}{Complete set}}{224}{defn.12.1}%
+\contentsline {prop}{{Proposition}{12.{2}}{}}{224}{prop.12.2}%
+\contentsline {proof}{{\proofname }{78}{}}{225}{proof.78}%
+\contentsline {prop}{{Proposition}{12.{3}}{}}{226}{prop.12.3}%
+\contentsline {defn}{{Definition}{12.{4}}{Saturated set}}{226}{defn.12.4}%
+\contentsline {defn}{{Definition}{12.{5}}{}}{226}{defn.12.5}%
+\contentsline {lem}{{Lemma}{12.{6}}{}}{226}{lem.12.6}%
+\contentsline {proof}{{\proofname }{79}{}}{226}{proof.79}%
+\contentsline {prop}{{Proposition}{12.{7}}{}}{228}{prop.12.7}%
+\contentsline {proof}{{\proofname }{80}{}}{228}{proof.80}%
+\contentsline {lem}{{Lemma}{12.{8}}{Lindenbaum's Lemma}}{228}{lem.12.8}%
+\contentsline {proof}{{\proofname }{81}{}}{228}{proof.81}%
+\contentsline {defn}{{Definition}{12.{9}}{Term model}}{230}{defn.12.9}%
+\contentsline {lem}{{Lemma}{12.{10}}{}}{230}{lem.12.10}%
+\contentsline {proof}{{\proofname }{82}{}}{230}{proof.82}%
+\contentsline {prop}{{Proposition}{12.{11}}{}}{231}{prop.12.11}%
+\contentsline {proof}{{\proofname }{83}{}}{231}{proof.83}%
+\contentsline {lem}{{Lemma}{12.{12}}{Truth Lemma}}{231}{lem.12.12}%
+\contentsline {proof}{{\proofname }{84}{}}{231}{proof.84}%
+\contentsline {defn}{{Definition}{12.{13}}{}}{232}{defn.12.13}%
+\contentsline {prop}{{Proposition}{12.{14}}{}}{233}{prop.12.14}%
+\contentsline {proof}{{\proofname }{85}{}}{233}{proof.85}%
+\contentsline {defn}{{Definition}{12.{15}}{}}{234}{defn.12.15}%
+\contentsline {defn}{{Definition}{12.{16}}{}}{234}{defn.12.16}%
+\contentsline {prop}{{Proposition}{12.{17}}{}}{235}{prop.12.17}%
+\contentsline {proof}{{\proofname }{86}{}}{235}{proof.86}%
+\contentsline {lem}{{Lemma}{12.{18}}{}}{235}{lem.12.18}%
+\contentsline {proof}{{\proofname }{87}{}}{235}{proof.87}%
+\contentsline {lem}{{Lemma}{12.{19}}{}}{235}{lem.12.19}%
+\contentsline {proof}{{\proofname }{88}{}}{235}{proof.88}%
+\contentsline {thm}{{Theorem}{12.{20}}{Completeness Theorem}}{236}{thm.12.20}%
+\contentsline {proof}{{\proofname }{89}{}}{236}{proof.89}%
+\contentsline {cor}{{Korollar}{12.{21}}{Completeness Theorem, Second Version}}{236}{cor.12.21}%
+\contentsline {proof}{{\proofname }{90}{}}{236}{proof.90}%
+\contentsline {defn}{{Definition}{12.{22}}{}}{237}{defn.12.22}%
+\contentsline {thm}{{Theorem}{12.{23}}{Compactness Theorem}}{237}{thm.12.23}%
+\contentsline {proof}{{\proofname }{91}{}}{237}{proof.91}%
+\contentsline {ex}{{Beispiel}{12.{24}}{}}{237}{ex.12.24}%
+\contentsline {ex}{{Beispiel}{12.{25}}{}}{238}{ex.12.25}%
+\contentsline {ex}{{Beispiel}{12.{26}}{}}{238}{ex.12.26}%
+\contentsline {prop}{{Proposition}{12.{27}}{}}{240}{prop.12.27}%
+\contentsline {lem}{{Lemma}{12.{28}}{}}{240}{lem.12.28}%
+\contentsline {prop}{{Proposition}{12.{29}}{}}{240}{prop.12.29}%
+\contentsline {lem}{{Lemma}{12.{30}}{}}{240}{lem.12.30}%
+\contentsline {thm}{{Theorem}{12.{31}}{Compactness}}{240}{thm.12.31}%
+\contentsline {proof}{{\proofname }{92}{}}{240}{proof.92}%
+\contentsline {thm}{{Theorem}{12.{32}}{}}{241}{thm.12.32}%
+\contentsline {proof}{{\proofname }{93}{}}{241}{proof.93}%
+\contentsline {thm}{{Theorem}{12.{33}}{}}{241}{thm.12.33}%
+\contentsline {proof}{{\proofname }{94}{}}{241}{proof.94}%
+\contentsline {ex}{{Beispiel}{12.{34}}{Skolem's Paradox}}{242}{ex.12.34}%
+\contentsline {probd}{{Aufgabe}{12.1}{}}{243}{probd.12.1}%
+\contentsline {probd}{{Aufgabe}{12.2}{}}{243}{probd.12.2}%
+\contentsline {probd}{{Aufgabe}{12.3}{}}{243}{probd.12.3}%
+\contentsline {probd}{{Aufgabe}{12.4}{}}{243}{probd.12.4}%
+\contentsline {probd}{{Aufgabe}{12.5}{}}{243}{probd.12.5}%
+\contentsline {probd}{{Aufgabe}{12.6}{}}{243}{probd.12.6}%
+\contentsline {probd}{{Aufgabe}{12.7}{}}{243}{probd.12.7}%
+\contentsline {probd}{{Aufgabe}{12.8}{}}{244}{probd.12.8}%
+\contentsline {probd}{{Aufgabe}{12.9}{}}{244}{probd.12.9}%
+\contentsline {probd}{{Aufgabe}{12.10}{}}{244}{probd.12.10}%
+\contentsline {probd}{{Aufgabe}{12.11}{}}{244}{probd.12.11}%
+\contentsline {probd}{{Aufgabe}{12.12}{}}{244}{probd.12.12}%
+\contentsline {probd}{{Aufgabe}{12.13}{}}{244}{probd.12.13}%
+\contentsline {probd}{{Aufgabe}{12.14}{}}{244}{probd.12.14}%
+\contentsline {thm}{{Theorem}{13.{1}}{}}{257}{thm.13.1}%
+\contentsline {proof}{{\proofname }{95}{}}{257}{proof.95}%
+\contentsline {thm}{{Theorem}{13.{2}}{}}{259}{thm.13.2}%
+\contentsline {thm}{{Theorem}{13.{3}}{}}{260}{thm.13.3}%
+\contentsline {thm}{{Theorem}{13.{4}}{}}{260}{thm.13.4}%
+\contentsline {ex}{{Beispiel}{14.{1}}{}}{272}{ex.14.1}%
+\contentsline {ex}{{Beispiel}{14.{2}}{}}{274}{ex.14.2}%
+\contentsline {ex}{{Beispiel}{14.{3}}{}}{275}{ex.14.3}%
+\contentsline {ex}{{Beispiel}{14.{4}}{}}{275}{ex.14.4}%
+\contentsline {defn}{{Definition}{14.{5}}{Turing machine}}{276}{defn.14.5}%
+\contentsline {ex}{{Beispiel}{14.{6}}{}}{277}{ex.14.6}%
+\contentsline {defn}{{Definition}{14.{7}}{Configuration}}{277}{defn.14.7}%
+\contentsline {defn}{{Definition}{14.{8}}{Initial configuration}}{278}{defn.14.8}%
+\contentsline {defn}{{Definition}{14.{9}}{}}{278}{defn.14.9}%
+\contentsline {defn}{{Definition}{14.{10}}{}}{279}{defn.14.10}%
+\contentsline {defn}{{Definition}{14.{11}}{Computation}}{280}{defn.14.11}%
+\contentsline {ex}{{Beispiel}{14.{12}}{}}{280}{ex.14.12}%
+\contentsline {ex}{{Beispiel}{14.{13}}{}}{280}{ex.14.13}%
+\contentsline {ex}{{Beispiel}{14.{14}}{}}{281}{ex.14.14}%
+\contentsline {defn}{{Definition}{14.{15}}{}}{282}{defn.14.15}%
+\contentsline {ex}{{Beispiel}{14.{16}}{}}{283}{ex.14.16}%
+\contentsline {defn}{{Definition}{14.{17}}{}}{285}{defn.14.17}%
+\contentsline {ex}{{Beispiel}{14.{18}}{}}{285}{ex.14.18}%
+\contentsline {prop}{{Proposition}{14.{19}}{}}{285}{prop.14.19}%
+\contentsline {ex}{{Beispiel}{14.{20}}{}}{287}{ex.14.20}%
+\contentsline {prop}{{Proposition}{14.{21}}{}}{288}{prop.14.21}%
+\contentsline {proof}{{\proofname }{96}{}}{288}{proof.96}%
+\contentsline {defn}{{Definition}{14.{22}}{Church-Turing thesis}}{292}{defn.14.22}%
+\contentsline {probd}{{Aufgabe}{14.1}{}}{293}{probd.14.1}%
+\contentsline {probd}{{Aufgabe}{14.2}{}}{293}{probd.14.2}%
+\contentsline {probd}{{Aufgabe}{14.3}{}}{294}{probd.14.3}%
+\contentsline {probd}{{Aufgabe}{14.4}{}}{294}{probd.14.4}%
+\contentsline {probd}{{Aufgabe}{14.5}{}}{294}{probd.14.5}%
+\contentsline {probd}{{Aufgabe}{14.6}{}}{294}{probd.14.6}%
+\contentsline {probd}{{Aufgabe}{14.7}{}}{294}{probd.14.7}%
+\contentsline {probd}{{Aufgabe}{14.8}{}}{294}{probd.14.8}%
+\contentsline {probd}{{Aufgabe}{14.9}{}}{295}{probd.14.9}%
+\contentsline {probd}{{Aufgabe}{14.10}{}}{295}{probd.14.10}%
+\contentsline {probd}{{Aufgabe}{14.11}{}}{295}{probd.14.11}%
+\contentsline {probd}{{Aufgabe}{14.12}{}}{295}{probd.14.12}%
+\contentsline {probd}{{Aufgabe}{14.13}{}}{295}{probd.14.13}%
+\contentsline {probd}{{Aufgabe}{14.14}{}}{295}{probd.14.14}%
+\contentsline {thm}{{Theorem}{15.{1}}{}}{300}{thm.15.1}%
+\contentsline {proof}{{\proofname }{97}{}}{301}{proof.97}%
+\contentsline {defn}{{Definition}{15.{2}}{}}{301}{defn.15.2}%
+\contentsline {thm}{{Theorem}{15.{3}}{}}{302}{thm.15.3}%
+\contentsline {proof}{{\proofname }{98}{}}{302}{proof.98}%
+\contentsline {defn}{{Definition}{15.{4}}{Halting function}}{305}{defn.15.4}%
+\contentsline {defn}{{Definition}{15.{5}}{Halting problem}}{305}{defn.15.5}%
+\contentsline {defn}{{Definition}{15.{6}}{}}{305}{defn.15.6}%
+\contentsline {lem}{{Lemma}{15.{7}}{}}{305}{lem.15.7}%
+\contentsline {proof}{{\proofname }{99}{}}{305}{proof.99}%
+\contentsline {thm}{{Theorem}{15.{8}}{Unsolvability of the Halting Problem}}{306}{thm.15.8}%
+\contentsline {proof}{{\proofname }{100}{}}{306}{proof.100}%
+\contentsline {defn}{{Definition}{15.{9}}{}}{308}{defn.15.9}%
+\contentsline {prop}{{Proposition}{15.{10}}{}}{312}{prop.15.10}%
+\contentsline {proof}{{\proofname }{101}{}}{312}{proof.101}%
+\contentsline {defn}{{Definition}{15.{11}}{}}{313}{defn.15.11}%
+\contentsline {lem}{{Lemma}{15.{12}}{}}{313}{lem.15.12}%
+\contentsline {proof}{{\proofname }{102}{}}{313}{proof.102}%
+\contentsline {lem}{{Lemma}{15.{13}}{}}{314}{lem.15.13}%
+\contentsline {proof}{{\proofname }{103}{}}{314}{proof.103}%
+\contentsline {lem}{{Lemma}{15.{14}}{}}{317}{lem.15.14}%
+\contentsline {proof}{{\proofname }{104}{}}{317}{proof.104}%
+\contentsline {lem}{{Lemma}{15.{15}}{}}{317}{lem.15.15}%
+\contentsline {proof}{{\proofname }{105}{}}{317}{proof.105}%
+\contentsline {thm}{{Theorem}{15.{16}}{}}{318}{thm.15.16}%
+\contentsline {proof}{{\proofname }{106}{}}{318}{proof.106}%
+\contentsline {cor}{{Korollar}{15.{17}}{}}{319}{cor.15.17}%
+\contentsline {proof}{{\proofname }{107}{}}{319}{proof.107}%
+\contentsline {thm}{{Theorem}{15.{18}}{}}{319}{thm.15.18}%
+\contentsline {proof}{{\proofname }{108}{}}{320}{proof.108}%
+\contentsline {lem}{{Lemma}{15.{19}}{}}{322}{lem.15.19}%
+\contentsline {proof}{{\proofname }{109}{}}{322}{proof.109}%
+\contentsline {lem}{{Lemma}{15.{20}}{}}{323}{lem.15.20}%
+\contentsline {proof}{{\proofname }{110}{}}{323}{proof.110}%
+\contentsline {thm}{{Theorem}{15.{21}}{Trakthenbrot's Theorem}}{323}{thm.15.21}%
+\contentsline {proof}{{\proofname }{111}{}}{323}{proof.111}%
+\contentsline {cor}{{Korollar}{15.{22}}{}}{323}{cor.15.22}%
+\contentsline {proof}{{\proofname }{112}{}}{323}{proof.112}%
+\contentsline {probd}{{Aufgabe}{15.1}{}}{324}{probd.15.1}%
+\contentsline {probd}{{Aufgabe}{15.2}{}}{325}{probd.15.2}%
+\contentsline {probd}{{Aufgabe}{15.3}{}}{325}{probd.15.3}%
+\contentsline {probd}{{Aufgabe}{15.4}{}}{325}{probd.15.4}%
+\contentsline {probd}{{Aufgabe}{15.5}{}}{325}{probd.15.5}%
+\contentsline {probd}{{Aufgabe}{15.6}{}}{325}{probd.15.6}%
+\contentsline {probd}{{Aufgabe}{15.7}{}}{325}{probd.15.7}%
+\contentsline {probd}{{Aufgabe}{15.8}{}}{325}{probd.15.8}%
+\contentsline {probd}{{Aufgabe}{15.9}{}}{326}{probd.15.9}%
+\contentsline {probd}{{Aufgabe}{15.10}{}}{326}{probd.15.10}%
+\contentsline {probd}{{Aufgabe}{15.11}{}}{326}{probd.15.11}%
+\contentsline {probd}{{Aufgabe}{15.12}{}}{326}{probd.15.12}%
+\contentsline {prop}{{Proposition}{A.{1}}{}}{332}{prop.A.1}%
+\contentsline {defn}{{Definition}{A.{2}}{}}{332}{defn.A.2}%
+\contentsline {prop}{{Proposition}{A.{3}}{}}{333}{prop.A.3}%
+\contentsline {prop}{{Proposition}{A.{4}}{}}{337}{prop.A.4}%
+\contentsline {proof}{{\proofname }{113}{}}{337}{proof.113}%
+\contentsline {prop}{{Proposition}{A.{5}}{}}{338}{prop.A.5}%
+\contentsline {proof}{{\proofname }{114}{}}{338}{proof.114}%
+\contentsline {prop}{{Proposition}{A.{6}}{}}{339}{prop.A.6}%
+\contentsline {proof}{{\proofname }{115}{}}{339}{proof.115}%
+\contentsline {prop}{{Proposition}{A.{7}}{}}{341}{prop.A.7}%
+\contentsline {proof}{{\proofname }{116}{}}{341}{proof.116}%
+\contentsline {prop}{{Proposition}{A.{8}}{}}{342}{prop.A.8}%
+\contentsline {proof}{{\proofname }{117}{}}{342}{proof.117}%
+\contentsline {prop}{{Proposition}{A.{9}}{}}{346}{prop.A.9}%
+\contentsline {proof}{{\proofname }{118}{}}{346}{proof.118}%
+\contentsline {prop}{{Proposition}{A.{10}}{}}{349}{prop.A.10}%
+\contentsline {proof}{{\proofname }{119}{}}{349}{proof.119}%
+\contentsline {prop}{{Proposition}{A.{11}}{}}{351}{prop.A.11}%
+\contentsline {proof}{{\proofname }{120}{}}{351}{proof.120}%
+\contentsline {prop}{{Proposition}{A.{12}}{}}{352}{prop.A.12}%
+\contentsline {proof}{{\proofname }{121}{}}{352}{proof.121}%
+\contentsline {prop}{{Proposition}{A.{13}}{}}{352}{prop.A.13}%
+\contentsline {proof}{{\proofname }{122}{}}{352}{proof.122}%
+\contentsline {prop}{{Proposition}{A.{14}}{Absorption}}{354}{prop.A.14}%
+\contentsline {proof}{{\proofname }{123}{}}{354}{proof.123}%
+\contentsline {proof}{{\proofname }{124}{}}{355}{proof.124}%
+\contentsline {probd}{{Aufgabe}{A.1}{}}{357}{probd.A.1}%
+\contentsline {probd}{{Aufgabe}{A.2}{}}{358}{probd.A.2}%
+\contentsline {probd}{{Aufgabe}{A.3}{}}{358}{probd.A.3}%
+\contentsline {proof}{{\proofname }{125}{}}{358}{proof.125}%
+\contentsline {thm}{{Theorem}{B.{1}}{}}{361}{thm.B.1}%
+\contentsline {proof}{{\proofname }{126}{}}{361}{proof.126}%
+\contentsline {prop}{{Proposition}{B.{2}}{}}{362}{prop.B.2}%
+\contentsline {proof}{{\proofname }{127}{}}{362}{proof.127}%
+\contentsline {defn}{{Definition}{B.{3}}{Nice terms}}{365}{defn.B.3}%
+\contentsline {prop}{{Proposition}{B.{4}}{}}{366}{prop.B.4}%
+\contentsline {proof}{{\proofname }{128}{}}{366}{proof.128}%
+\contentsline {prop}{{Proposition}{B.{5}}{}}{368}{prop.B.5}%
+\contentsline {proof}{{\proofname }{129}{}}{368}{proof.129}%
+\contentsline {prop}{{Proposition}{B.{6}}{}}{369}{prop.B.6}%
+\contentsline {proof}{{\proofname }{130}{}}{369}{proof.130}%
+\contentsline {defn}{{Definition}{B.{7}}{}}{370}{defn.B.7}%
+\contentsline {defn}{{Definition}{B.{8}}{}}{370}{defn.B.8}%
+\contentsline {prop}{{Proposition}{B.{9}}{}}{371}{prop.B.9}%
+\contentsline {proof}{{\proofname }{131}{}}{371}{proof.131}%
+\contentsline {defn}{{Definition}{B.{10}}{}}{372}{defn.B.10}%
+\contentsline {probd}{{Aufgabe}{B.1}{}}{373}{probd.B.1}%
+\contentsline {probd}{{Aufgabe}{B.2}{}}{373}{probd.B.2}%
+\contentsline {probd}{{Aufgabe}{B.3}{}}{373}{probd.B.3}%
+\contentsline {probd}{{Aufgabe}{B.4}{}}{373}{probd.B.4}%
