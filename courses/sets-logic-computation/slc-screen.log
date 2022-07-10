@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  10 JUL 2022 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  10 JUL 2022 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26446,6 +26446,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                slc-screen
 (biblatex)                and rerun LaTeX afterwards.
@@ -26601,7 +26604,7 @@ iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/foels/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/foels/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/foels/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/boondox/zxxrw8a.pfb>
-Output written on slc-screen.pdf (427 pages, 4761818 bytes).
+Output written on slc-screen.pdf (427 pages, 4762141 bytes).
 PDF statistics:
  6193 PDF objects out of 7423 (max. 8388607)
  2455 named destinations out of 2487 (max. 500000)

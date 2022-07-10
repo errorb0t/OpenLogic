@@ -107,11 +107,11 @@
 \contentsline {proof}{{\proofname }{11}{}}{43}{proof.11}%
 \contentsline {prop}{{Proposition}{3.{20}}{}}{43}{prop.3.20}%
 \contentsline {proof}{{\proofname }{12}{}}{43}{proof.12}%
-\contentsline {defn}{{Definition}{3.{21}}{Composition}}{43}{defn.3.21}%
+\contentsline {defn}{{Definition}{3.{21}}{Komposition}}{44}{defn.3.21}%
 \contentsline {ex}{{Beispiel}{3.{22}}{}}{44}{ex.3.22}%
 \contentsline {defn}{{Definition}{3.{23}}{}}{44}{defn.3.23}%
-\contentsline {ex}{{Beispiel}{3.{24}}{}}{44}{ex.3.24}%
-\contentsline {ex}{{Beispiel}{3.{25}}{}}{44}{ex.3.25}%
+\contentsline {ex}{{Beispiel}{3.{24}}{}}{45}{ex.3.24}%
+\contentsline {ex}{{Beispiel}{3.{25}}{}}{45}{ex.3.25}%
 \contentsline {defn}{{Definition}{3.{26}}{Graph of a partial function}}{45}{defn.3.26}%
 \contentsline {prop}{{Proposition}{3.{27}}{}}{45}{prop.3.27}%
 \contentsline {proof}{{\proofname }{13}{}}{45}{proof.13}%
@@ -121,8 +121,8 @@
 \contentsline {probd}{{Aufgabe}{3.4}{}}{46}{probd.3.4}%
 \contentsline {probd}{{Aufgabe}{3.5}{}}{46}{probd.3.5}%
 \contentsline {probd}{{Aufgabe}{3.6}{}}{46}{probd.3.6}%
-\contentsline {probd}{{Aufgabe}{3.7}{}}{46}{probd.3.7}%
-\contentsline {probd}{{Aufgabe}{3.8}{}}{46}{probd.3.8}%
+\contentsline {probd}{{Aufgabe}{3.7}{}}{47}{probd.3.7}%
+\contentsline {probd}{{Aufgabe}{3.8}{}}{47}{probd.3.8}%
 \contentsline {defn}{{Definition}{4.{1}}{Enumeration, informally}}{49}{defn.4.1}%
 \contentsline {prop}{{Proposition}{4.{2}}{}}{50}{prop.4.2}%
 \contentsline {proof}{{\proofname }{14}{}}{50}{proof.14}%
