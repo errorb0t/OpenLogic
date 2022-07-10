@@ -1,177 +1,176 @@
-% Part: sets-functions-relations
-% Chapter: functions
-% Section: inverses
+% Teil: Mengen-Funktionen-Beziehungen
+% Kapitel: Funktionen
+% Abschnitt: Inversen
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
 \begin{document}
 
 \olfileid{sfr}{fun}{inv}
-\olsection{Inverses of Functions}
+\olsection{Inverse von Funktionen}
 
 \begin{explain}
-We think of functions as maps. An obvious question to ask about
-functions, then, is whether the mapping can be ``reversed.'' For
-instance, the successor function $f(x) = x + 1$ can be reversed, in
-the sense that the function $g(y) = y - 1$ ``undoes'' what $f$ does. 
+Wir denken uns Funktionen als Abbildungen. Eine offensichtliche Frage, die man sich bei
+Funktionen stellen kann, ist also, ob die Abbildung \glqq umgekehrt\grqq{} werden kann. Unter
+zum Beispiel kann die Nachfolgefunktion $f(x) = x + 1$ umgekehrt werden, in dem
+in dem Sinne, dass die Funktion $g(y) = y - 1$ das, was $f$ tut, \glqq umkehrt\grqq{}. 
 
-But we must be careful. Although the definition of~$g$ defines a
-function $\Int \to \Int$, it does not define a \emph{function} $\Nat
-\to \Nat$, since $g(0) \notin \Nat$.  So even in simple cases, it is
-not quite obvious whether a function can be reversed; it may depend on
-the domain and codomain.
+Aber es ist Vorsicht geboten. Obwohl~$g$ eine
+Funktion $\Int \to \Int$ definiert, definiert sie keine \emph{Funktion} $\Nat
+\to \Nat$, da $g(0) \notin \Nat$ liegt.  Selbst in einfachen Fällen ist es also
+nicht ganz klar, ob eine Funktion umgekehrt werden kann; es kann von dem Definitions-
+und vom Geltungsbereich abhängen.
 
-This is made more precise by the notion of an inverse of a function.
+Dies wird durch den Begriff der Inversen einer Funktion präzisiert.
 \end{explain}
 
 \begin{defn}
-A function $g \colon B \to A$ is an \emph{inverse} of a function $f
-\colon A \to B$ if $f(g(y)) = y$ and $g(f(x)) = x$ for all $x \in A$
-and $y \in B$.
+Eine Funktion $g \colon B \to A$ ist eine \emph{Inverse} einer Funktion $f
+\colon A \to B$, falls $f(g(y)) = y$ und $g(f(x)) = x$ für alle $x \in A$
+und $y \in B$.
 \end{defn}
 
-If $f$ has an inverse~$g$, we often write $f^{-1}$ instead of~$g$.
+Wenn $f$ eine Inverse~$g$ hat, schreibt man oft $f^{-1}$ anstelle von~$g$.
 
 \begin{explain}
-Now we will determine when functions have inverses. A good candidate
-for an inverse of $f\colon A \to B$ is $g\colon B \to A$ ``defined
-by''
+Nun wollen wir bestimmen, wann Funktionen Inverse haben. Ein guter Kandidat
+für eine Inverse von $f\colon A \to B$ ist $g\colon B \to A$ \glqq definiert\grqq{}
 \[
-g(y) = \text{``the'' $x$ such that $f(x) = y$.}
+g(y) = \text{\glqq die\grqq{} $x$, sodass $f(x) = y$}
 \]
-But the scare quotes around ``defined by'' (and ``the'') suggest that
-this is not a definition.  At least, it will not always work, with
-complete generality. For, in order for this definition to specify a
-function, there has to be one and only one~$x$ such that $f(x) =
-y$---the output of~$g$ has to be uniquely specified. Moreover, it has
-to be specified for every $y \in B$.  If there are $x_1$ and $x_2 \in
-A$ with $x_1 \neq x_2$ but $f(x_1) = f(x_2)$, then $g(y)$ would not be
-uniquely specified for $y = f(x_1) = f(x_2)$. And if there is no~$x$
-at all such that $f(x) = y$, then $g(y)$ is not specified at all.  In
-other words, for $g$ to be defined, $f$~must be both !!{injective} and
-!!{surjective}.
+Aber die Anführungszeichen um \glqq definiert\grqq{} durch (und \glqq die\grqq{}) deuten darauf hin, dass
+dies keine Definition ist.  Zumindest wird sie nicht in vollständiger Allgemeinheit funktionieren.
+Denn damit diese Definition eine Funktion spezifizieren kann, muss es genau ein~$x$ geben,
+so dass $f(x) =
+y$ - der Output von~$g$ muss eindeutig spezifiziert sein. Außerdem muss es
+für jedes $y \in B$ spezifiziert sein.  Wenn es $x_1$ und $x_2 \in
+A$ mit $x_1 \neq x_2$ aber $f(x_1) = f(x_2)$ gibt, dann wäre $g(y)$ nicht
+nicht eindeutig spezifiziert für $y = f(x_1) = f(x_2)$. Und wenn es kein~$x$
+gibt, so dass $f(x) = y$, dann ist $g(y)$ überhaupt nicht spezifiziert.  In
+Mit anderen Worten: Damit $g$ definiert werden kann, muss $f$~sowohl injektiv als auch
+surjektiv sein.
 
-Let's go slowly. We'll divide the question into two: Given a
-function~$f\colon A \to B$, when is there a function $g\colon B \to A$
-so that $g(f(x)) = x$? Such a $g$ ``undoes'' what $f$ does, and is
-called a \emph{left inverse} of~$f$. Secondly, when is there a
-function $h\colon B \to A$ so that $f(h(y)) = y$? Such an $h$ is
-called a \emph{right inverse} of~$f$---$f$ ``undoes'' what $h$~does.
+Gehen wir langsam vor. Wir werden die Frage in zwei Teile aufteilen: Für eine
+Funktion~$f\colon A \to B$---wann gibt es eine Funktion $g\colon B \to A$
+so dass $g(f(x)) = x$ ist? Ein solches $g$ \glqq macht rückgängig\grqq{}, was $f$ tut, und wird
+ein \emph{Linksinverse} von~$f$ genannt. Zweitens, wann gibt es eine
+Funktion $h \colon B \to A$, so dass $f(h(y)) = y$? Ein solches $h$ wird
+ein \emph{Rechtsinverse} von~$f$ genannt---$f$ \glqq macht rückgängig\grqq{}, was $h$~tut.
 \end{explain}
 
 \begin{prop}
-If $f\colon A \to B$ is !!{injective}, then there is a \emph{left
-inverse}~$g\colon B \to A$ of~$f$ so that $g(f(x)) = x$ for all $x
+Wenn $f\colon A \to B$ injektiv ist, dann gibt es eine 
+\emph{Linksinverse}~$g\colon B \to A$ von~$f$, so dass $g(f(x)) = x$ für alle $x
 \in A$.
 \end{prop}
 
 \begin{proof}
-Suppose that $f\colon A \to B$ is !!{injective}. Consider a $y \in B$.
-If $y \in \ran{f}$, there is an $x \in A$ so that $f(x) = y$. Because
-$f$ is !!{injective}, there is only one such~$x \in A$. Then we can
-define: $g(y) = x$, i.e., $g(y)$ is ``the'' $x \in A$ such that $f(x)
-= y$.  If $y \notin \ran{f}$, we can map it to any~$a \in A$. So, we
-can pick an $a \in A$ and define $g\colon B \to A$ by:
+Nehmen wir an, dass $f\colon A \to B$ injektiv ist. Betrachten Sie ein $y \in B$.
+Wenn $y \in \ran{f}$, gibt es ein $x \in A$, so dass $f(x) = y$. Weil
+$f$ injektiv ist, gibt es nur ein solches~$x \in A$. Dann können wir
+definieren: $g(y) = x$, d.h. $g(y)$ ist \emph{das} $x \in A$, so dass $f(x)
+= y$.  Wenn $y \notin \ran{f}$ ist, können wir es auf jedes~$a \in A$ abbilden. Wir können also
+ein $a \in A$ wählen und $g \colon B \to A$ definieren durch:
 \[
 g(y) = \begin{cases}
-    x & \text{if $f(x) = y$}\\
-    a & \text{if $y \notin \ran{f}$.}
+    x & \text{falls $f(x) = y$}\\
+    a & \text{falls $y \notin \ran{f}$.}
 \end{cases}
 \]
-It is defined for all $y \in B$, since for each such $y \in \ran{f}$
-there is exactly one $x \in A$ such that $f(x) = y$. By definition, if
-$y = f(x)$, then $g(y) = x$, i.e., $g(f(x)) = x$.
+$g$ ist für alle $y \in B$ definiert, da für jedes solche $y \in \ran{f}$
+genau ein $x \in A$ gibt, für das $f(x) = y$ gilt. Per Definition, wenn
+$y = f(x)$, dann ist $g(y) = x$, d.h. $g(f(x)) = x$.
 \end{proof}
 
 \begin{prob}
-Show that if $f\colon A \to B$ has a left inverse~$g$, then $f$~is
-!!{injective}.
+Zeigen Sie, dass, wenn $f\colon A \to B$ eine linke Inverse~$g$ hat, dann ist $f$~injektiv.
 \end{prob}
 
 \begin{prop}
-    If $f\colon A \to B$ is !!{surjective}, then there is a
-    \emph{right inverse}~$h\colon B \to A$ of~$f$ so that $f(h(y)) =
-    y$ for all~$y \in B$.
+    Wenn $f \colon A \to B$ surjektiv ist, dann gibt es eine
+    \emph{Rechtsinverse}~$h\colon B \to A$ von~$f$, so dass $f(h(y)) =
+    y$ für alle~$y \in B$.
 \end{prop}
 
 \begin{proof}
-Suppose that $f\colon A \to B$ is !!{surjective}. Consider a $y \in
-B$. Since $f$~is !!{surjective}, there is an $x_y \in A$ with $f(x_y)
-= y$.  Then we can define: $h(y) = x_y$, i.e., for each $y \in B$ we
-choose some $x \in A$ so that $f(x) = y$; since $f$~is !!{surjective}
-there is always at least one to choose from.\footnote{Since $f$ is
-!!{surjective}, for every~$y \in B$ the set $\Setabs{x}{f(x) = y}$ is
-nonempty. Our definition of~$h$ requires that we choose a single $x$
-from each of these sets. That this is always possible is actually not
-obvious---the possibility of making these choices is simply assumed as an axiom. 
-In other words, this proposition assumes the so-called Axiom of
-Choice, an issue we will \oliflabeldef{sth:choice::chap}{revisit in \olref[sth][choice][]{chap}}{gloss over}. 
-However, in many specific cases, e.g., when $A = \Nat$ or is finite, or when $f$ is !!{bijective},
-the Axiom of Choice is not required. (In the particular case when $f$ is !!{bijective}, for each $y \in B$ the set 
-$\Setabs{x}{f(x) = y}$ has exactly one !!{element}, so that there is no choice to make.)} 
-By definition, if $x = h(y)$,
-then $f(x) = y$, i.e., for any $y \in B$, $f(h(y)) = y$.
+Nehmen wir an, dass $f\colon A \to B$ surjektiv ist. Betrachten Sie ein $y \in
+B$. Da $f$~ surjektiv ist, gibt es ein $x_y \in A$ mit $f(x_y)
+= y$.  Dann können wir definieren: $h(y) = x_y$, d.h. für jedes $y \in B$ wählen wir
+irgendein $x \in A$, so dass $f(x) = y$; da $f$~surjektiv ist,
+gibt es immer mindestens eine zur Auswahl.\footnote{Da $f$
+surjektiv ist, ist für jedes~$y \in B$ die Menge $\Setabs{x}{f(x) = y}$
+nicht-leer. Unsere Definition von~$h$ erfordert, dass wir ein einziges $x$
+aus jeder dieser Mengen wählen. Dass dies immer möglich ist, ist eigentlich nicht
+offensichtlich - die Möglichkeit, diese Auswahl zu treffen, wird einfach als ein Axiom vorausgesetzt. 
+Mit anderen Worten, dieser Satz setzt das so genannte Auswahlaxiom voraus, ein Thema,
+\oliflabeldef{sth:choice::chap}{auf das wir in zurückkommen werden in \olref[sth][choice][]{chap}}{das wir hier nicht weiter behandeln}. 
+In vielen Fällen, z.B. wenn $A = \Nat$ oder endlich ist, oder falls $f$ bijektiv ist,
+ist das Auswahlaxiom nicht erforderlich. (In dem besonderen Fall, dass $f$ bijektiv ist,
+ist für jedes $y \in B$ die Menge 
+$\Setabs{x}{f(x) = y}$ genau ein Element, sodass keine Wahl zu treffen ist.)} 
+Nach Definition, falls $x = h(y)$,
+dann $f(x) = y$, d.h. für jedes $y \in B$ ist $f(h(y)) = y$.
 \end{proof}
 
 \begin{prob}
-Show that if $f\colon A \to B$ has a right inverse~$h$, then $f$~is
-!!{surjective}.
+Zeigen Sie, dass, wenn $f\colon A \to B$ eine rechte Inverse~$h$ hat, $f$~surjektiv ist.
 \end{prob}
 
 \begin{explain}
-  By combining the ideas in the previous proof, we now get that every
-  !!{bijection} has an inverse, i.e., there is a single function
-  which is both a left and right inverse of~$f$.
+  Indem wir die Ideen des vorherigen Beweises kombinieren, erhalten wir nun, dass jede
+  Bijektion eine Inverse hat, d.h. es gibt eine einzige Funktion,
+  die sowohl eine linke als auch eine rechte Inverse von~$f$ ist.
 \end{explain}
 
 \begin{prop}\ollabel{prop:bijection-inverse}
-If $f\colon A \to B$ is !!{bijective}, there is a
-function~$f^{-1}\colon B \to A$ so that for all $x \in A$,
-$f^{-1}(f(x)) = x$ and for all $y \in B$, $f(f^{-1}(y)) = y$.
+Wenn $f\colon A \to B$ bijektiv ist, gibt es eine
+Funktion~$f^{-1}\colon B \to A$, so dass für alle $x \in A$,
+$f^{-1}(f(x)) = x$ und für alle $y \in B$, $f(f^{-1}(y)) = y$.
 \end{prop}
 
 \begin{proof}
-Exercise.
+Übung.
 \end{proof}
 
 \begin{prob}
-Prove \olref[sfr][fun][inv]{prop:bijection-inverse}. You have to
-define~$f^{-1}$, show that it is a function, and show that it is an
-inverse of~$f$, i.e., $f^{-1}(f(x)) = x$ and $f(f^{-1}(y)) = y$ for
-all $x \in A$ and $y \in B$.
+Beweisen Sie \olref[sfr][fun][inv]{prop:bijection-inverse}. Man muss~$f^{-1}$ definieren,
+zeigen, dass es sich um eine Funktion handelt, und zeigen, dass es eine
+Inverse von~$f$ ist, d.h. $f^{-1}(f(x)) = x$ und $f(f^{-1}(y)) = y$ für
+alle $x \in A$ und $y \in B$.
 \end{prob}
 
 \begin{explain}
-There is a slightly more general way to extract inverses. We saw in
-\olref[kin]{sec} that every function $f$ induces !!a{surjection} $f'
-\colon A \to \ran{f}$ by letting $f'(x) = f(x)$ for all $x \in A$.
-Clearly, if $f$~is !!{injective}, then $f'$~is !!{bijective}, so that
-it has a unique inverse by \olref{prop:bijection-inverse}. By a very
-minor abuse of notation, we sometimes call the inverse of $f'$ simply
-``the inverse of~$f$.''
+Es gibt einen etwas allgemeineren Weg, Inverse zu berechnen. Wir haben in
+\olref[kin]{sec} gesehen, dass jede Funktion $f$ eine Surjektion $f'
+\colon A \to \ran{f}$ induziert, indem man $f'(x) = f(x)$ für alle $x \in A$ setzt.
+Es ist klar, wenn $f$~injektiv ist, dann ist $f'$~bijektiv, so dass
+$f$ eine eindeutige Inverse nach \olref{prop:bijection-inverse} hat.
+Als Notationsbagatelle nennen wir die Inverse von $f'$ manchmal einfach
+\glqq die Inverse von~$f$.\grqq{}
 \end{explain}
 
 \begin{prop}\ollabel{prop:left-right}%
-  Show that if $f\colon A \to B$ has a left inverse~$g$ and a right
-  inverse~$h$, then $h = g$.
+  Zeigen Sie, dass, wenn $f\colon A \to B$ eine Linksinverse~$g$ und eine Rechtsinverse~$h$ hat,
+  dann ist $h = g$.
 \end{prop}
 
 \begin{proof}
-  Exercise.
+  Übung.
 \end{proof}
 
 \begin{prob}
-  Prove \olref[sfr][fun][inv]{prop:left-right}.
+  Beweisen Sie \olref[sfr][fun][inv]{prop:left-right}.
 \end{prob}
 
 \begin{prop}\ollabel{prop:inverse-unique}
-Every function~$f$ has at most one inverse.
+Jede Funktion~$f$ hat höchstens eine Inverse.
 \end{prop}
 
 \begin{proof}
-  Suppose $g$ and $h$ are both inverses of~$f$. Then in particular
-  $g$~is a left inverse of~$f$ and $h$~is a right inverse. By
-  \olref{prop:left-right}, $g = h$.
+  Angenommen, $g$ und $h$ sind beide Inverse von~$f$. Dann ist insbesondere
+  $g$~eine Linksinverse von~$f$ und $h$~eine Rechtsinverse. Nach
+  \olref{prop:left-right} gilt $g = h$.
 \end{proof}
 
 \end{document}
+

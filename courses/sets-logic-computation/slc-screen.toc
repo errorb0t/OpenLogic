@@ -24,219 +24,219 @@
 \contentsline {section}{\numberline {3.1}Grundlagen}{32}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Arten von Funktionen}{35}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Funktionen als Relationen}{38}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Inverses of Functions}{40}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Inverse von Funktionen}{40}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Composition of Functions}{43}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Partial Functions}{44}{section.3.6}%
 \contentsline {section}{Fazit}{45}{section*.9}%
 \contentsline {section}{Aufgaben}{46}{section*.10}%
-\contentsline {chapter}{\chapternumberline {4}Größenordnungen von Mengen}{47}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Einführung}{47}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Enumerations and Countable Sets}{48}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Cantor's Zig-Zag Method}{52}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Pairing Functions and Codes}{54}{section.4.4}%
-\contentsline {section}{\numberline {4.5}An Alternative Pairing Function}{56}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Uncountable Sets}{58}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Reduction}{62}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Equinumerosity}{63}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Sets of Different Sizes, and Cantor's Theorem}{65}{section.4.9}%
-\contentsline {section}{\numberline {4.10}The Notion of Size, and Schr\"oder-Bernstein}{67}{section.4.10}%
-\contentsline {section}{Fazit}{68}{section*.11}%
-\contentsline {section}{Aufgaben}{69}{section*.12}%
-\contentsline {part}{\partnumberline {II}Die Logik erster Ordnung}{73}{part.2}%
-\contentsline {chapter}{\chapternumberline {5}Eine Einführung in die Logik erster Ordnung}{74}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Die Logik erster Ordnung}{74}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Syntax}{76}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Formulas}{77}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Satisfaction}{79}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Sentences}{81}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Semantic Notions}{82}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Substitution}{83}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Models and Theories}{84}{section.5.8}%
-\contentsline {section}{\numberline {5.9}Soundness and Completeness}{86}{section.5.9}%
-\contentsline {chapter}{\chapternumberline {6}Syntax of First-Order Logic}{88}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Introduction}{88}{section.6.1}%
-\contentsline {section}{\numberline {6.2}First-Order Languages}{89}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Terms and Formulas}{91}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Unique Readability}{94}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Main operator of a Formula}{98}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Subformulas}{99}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Free Variables and Sentences}{101}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Substitution}{102}{section.6.8}%
-\contentsline {section}{Fazit}{105}{section*.14}%
-\contentsline {section}{Aufgaben}{105}{section*.15}%
-\contentsline {chapter}{\chapternumberline {7}Semantics of First-Order Logic}{106}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Introduction}{106}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Structures for First-order Languages}{107}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Covered Structures for First-order Languages}{109}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Satisfaction of a Formula in a Structure}{110}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Variable Assignments}{117}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Extensionality}{120}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Semantic Notions}{122}{section.7.7}%
-\contentsline {section}{Fazit}{125}{section*.16}%
-\contentsline {section}{Aufgaben}{125}{section*.17}%
-\contentsline {chapter}{\chapternumberline {8}Theories and Their Models}{128}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Introduction}{128}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Expressing Properties of Structures}{130}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Examples of First-Order Theories}{132}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Expressing Relations in a Structure}{135}{section.8.4}%
-\contentsline {section}{\numberline {8.5}The Theory of Sets}{136}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Expressing the Size of Structures}{140}{section.8.6}%
-\contentsline {section}{Fazit}{141}{section*.18}%
-\contentsline {section}{Aufgaben}{142}{section*.19}%
-\contentsline {chapter}{\chapternumberline {9}Derivation Systems}{144}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Introduction}{144}{section.9.1}%
-\contentsline {section}{\numberline {9.2}The Sequent Calculus}{146}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Natural Deduction}{147}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Tableaux}{149}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Axiomatic Derivations}{151}{section.9.5}%
-\contentsline {chapter}{\chapternumberline {10}The Sequent Calculus}{154}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Rules and Derivations}{154}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Propositional Rules}{155}{section.10.2}%
-\contentsline {subsection}{Rules for $\lnot $}{155}{section*.20}%
-\contentsline {subsection}{Rules for $\land $}{155}{section*.21}%
-\contentsline {subsection}{Rules for $\lor $}{156}{section*.22}%
-\contentsline {subsection}{Rules for $\mathbin {\rightarrow }$}{156}{section*.23}%
-\contentsline {section}{\numberline {10.3}Quantifier Rules}{156}{section.10.3}%
-\contentsline {subsection}{Rules for $\lforall $}{156}{section*.24}%
-\contentsline {subsection}{Rules for $\lexists $}{156}{section*.25}%
-\contentsline {section}{\numberline {10.4}Structural Rules}{158}{section.10.4}%
-\contentsline {subsection}{Weakening}{158}{section*.26}%
-\contentsline {subsection}{Contraction}{158}{section*.27}%
-\contentsline {subsection}{Exchange}{158}{section*.28}%
-\contentsline {section}{\numberline {10.5}Derivations}{159}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Examples of Derivations}{161}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Derivations with Quantifiers}{165}{section.10.7}%
-\contentsline {section}{\numberline {10.8}Proof-Theoretic Notions}{167}{section.10.8}%
-\contentsline {section}{\numberline {10.9}Derivability and Consistency}{170}{section.10.9}%
-\contentsline {section}{\numberline {10.10}Derivability and the Propositional Connectives}{171}{section.10.10}%
-\contentsline {section}{\numberline {10.11}Derivability and the Quantifiers}{173}{section.10.11}%
-\contentsline {section}{\numberline {10.12}Soundness}{174}{section.10.12}%
-\contentsline {section}{\numberline {10.13}Derivations with Identity predicate}{181}{section.10.13}%
-\contentsline {section}{\numberline {10.14}Soundness with Identity predicate}{182}{section.10.14}%
-\contentsline {section}{Fazit}{182}{section*.29}%
-\contentsline {section}{Aufgaben}{183}{section*.30}%
-\contentsline {chapter}{\chapternumberline {11}Natural Deduction}{186}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Rules and Derivations}{186}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Propositional Rules}{187}{section.11.2}%
-\contentsline {subsection}{Rules for $\land $}{187}{section*.31}%
-\contentsline {subsection}{Rules for $\lor $}{187}{section*.32}%
-\contentsline {subsection}{Rules for $\mathbin {\rightarrow }$}{187}{section*.33}%
-\contentsline {subsection}{Rules for $\lnot $}{187}{section*.34}%
-\contentsline {subsection}{Rules for $\bot $}{188}{section*.35}%
-\contentsline {section}{\numberline {11.3}Quantifier Rules}{188}{section.11.3}%
-\contentsline {subsection}{Rules for $\lforall $}{188}{section*.36}%
-\contentsline {subsection}{Rules for $\lexists $}{189}{section*.37}%
-\contentsline {section}{\numberline {11.4}Derivations}{190}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Examples of Derivations}{192}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Derivations with Quantifiers}{196}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Proof-Theoretic Notions}{201}{section.11.7}%
-\contentsline {section}{\numberline {11.8}Derivability and Consistency}{203}{section.11.8}%
-\contentsline {section}{\numberline {11.9}Derivability and the Propositional Connectives}{205}{section.11.9}%
-\contentsline {section}{\numberline {11.10}Derivability and the Quantifiers}{207}{section.11.10}%
-\contentsline {section}{\numberline {11.11}Soundness}{207}{section.11.11}%
-\contentsline {section}{\numberline {11.12}Derivations with Identity predicate}{213}{section.11.12}%
-\contentsline {section}{\numberline {11.13}Soundness with Identity predicate}{215}{section.11.13}%
-\contentsline {section}{Fazit}{215}{section*.38}%
-\contentsline {section}{Aufgaben}{216}{section*.39}%
-\contentsline {chapter}{\chapternumberline {12}The Completeness Theorem}{219}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Introduction}{219}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Outline of the Proof}{221}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Complete Consistent Sets of Sentences}{224}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Henkin Expansion}{225}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Lindenbaum's Lemma}{228}{section.12.5}%
-\contentsline {section}{\numberline {12.6}Construction of a Model}{229}{section.12.6}%
-\contentsline {section}{\numberline {12.7}Identity}{232}{section.12.7}%
-\contentsline {section}{\numberline {12.8}The Completeness Theorem}{236}{section.12.8}%
-\contentsline {section}{\numberline {12.9}The Compactness Theorem}{236}{section.12.9}%
-\contentsline {section}{\numberline {12.10}A Direct Proof of the Compactness Theorem}{239}{section.12.10}%
-\contentsline {section}{\numberline {12.11}The L\"owenheim-Skolem Theorem}{241}{section.12.11}%
-\contentsline {section}{Fazit}{242}{section*.40}%
-\contentsline {section}{Aufgaben}{243}{section*.41}%
-\contentsline {chapter}{\chapternumberline {13}Beyond First-order Logic}{245}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Overview}{245}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Many-Sorted Logic}{246}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Second-Order logic}{248}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Higher-Order logic}{253}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Intuitionistic Logic}{256}{section.13.5}%
-\contentsline {section}{\numberline {13.6}Modal Logics}{262}{section.13.6}%
-\contentsline {section}{\numberline {13.7}Other Logics}{264}{section.13.7}%
-\contentsline {part}{\partnumberline {III}Turing Machines}{267}{part.3}%
-\contentsline {chapter}{\chapternumberline {14}Turing Machine Computations}{268}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Introduction}{268}{section.14.1}%
-\contentsline {paragraph}{Historical Remarks}{271}{section*.43}%
-\contentsline {section}{\numberline {14.2}Representing Turing Machines}{271}{section.14.2}%
-\contentsline {section}{\numberline {14.3}Turing Machines}{275}{section.14.3}%
-\contentsline {section}{\numberline {14.4}Configurations and Computations}{277}{section.14.4}%
-\contentsline {section}{\numberline {14.5}Unary Representation of Numbers}{279}{section.14.5}%
-\contentsline {section}{\numberline {14.6}Halting States}{283}{section.14.6}%
-\contentsline {section}{\numberline {14.7}Disciplined Machines}{284}{section.14.7}%
-\contentsline {section}{\numberline {14.8}Combining Turing Machines}{285}{section.14.8}%
-\contentsline {section}{\numberline {14.9}Variants of Turing Machines}{288}{section.14.9}%
-\contentsline {section}{\numberline {14.10}The Church-Turing Thesis}{291}{section.14.10}%
-\contentsline {section}{Fazit}{292}{section*.44}%
-\contentsline {section}{Aufgaben}{293}{section*.45}%
-\contentsline {chapter}{\chapternumberline {15}Undecidability}{296}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Introduction}{296}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Enumerating Turing Machines}{298}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Universal Turing Machines}{301}{section.15.3}%
-\contentsline {section}{\numberline {15.4}The Halting Problem}{304}{section.15.4}%
-\contentsline {section}{\numberline {15.5}The Decision Problem}{307}{section.15.5}%
-\contentsline {section}{\numberline {15.6}Representing Turing Machines}{308}{section.15.6}%
-\contentsline {section}{\numberline {15.7}Verifying the Representation}{312}{section.15.7}%
-\contentsline {section}{\numberline {15.8}The Decision Problem is Unsolvable}{318}{section.15.8}%
-\contentsline {section}{\numberline {15.9}Trakthenbrot's Theorem}{320}{section.15.9}%
-\contentsline {section}{Fazit}{324}{section*.46}%
-\contentsline {section}{Aufgaben}{324}{section*.47}%
-\contentsline {appendix}{\chapternumberline {A}Proofs}{329}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Introduction}{329}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Starting a Proof}{331}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Using Definitions}{331}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Inference Patterns}{334}{section.A.4}%
-\contentsline {subsection}{Using a Conjunction}{335}{section*.48}%
-\contentsline {subsection}{Proving a Conjunction}{335}{section*.49}%
-\contentsline {subsection}{Proving a Disjunction}{336}{section*.50}%
-\contentsline {subsection}{Conditional Proof}{336}{section*.51}%
-\contentsline {subsection}{Universal Claims}{336}{section*.52}%
-\contentsline {subsection}{Proof by Cases}{338}{section*.53}%
-\contentsline {subsection}{Proving an Existence Claim}{339}{section*.54}%
-\contentsline {subsection}{Using Existence Claims}{340}{section*.55}%
-\contentsline {section}{\numberline {A.5}An Example}{342}{section.A.5}%
-\contentsline {section}{\numberline {A.6}Another Example}{346}{section.A.6}%
-\contentsline {section}{\numberline {A.7}Proof by Contradiction}{348}{section.A.7}%
-\contentsline {section}{\numberline {A.8}Reading Proofs}{353}{section.A.8}%
-\contentsline {section}{\numberline {A.9}I Can't Do It!{}}{355}{section.A.9}%
-\contentsline {section}{\numberline {A.10}Other Resources}{357}{section.A.10}%
-\contentsline {subsection}{Motivational Videos}{357}{section*.56}%
-\contentsline {section}{Aufgaben}{357}{section*.57}%
-\contentsline {appendix}{\chapternumberline {B}Induction}{359}{appendix.B}%
-\contentsline {section}{\numberline {B.1}Introduction}{359}{section.B.1}%
-\contentsline {section}{\numberline {B.2}Induction on~$\mathbb {N}$}{360}{section.B.2}%
-\contentsline {section}{\numberline {B.3}Strong Induction}{363}{section.B.3}%
-\contentsline {section}{\numberline {B.4}Inductive Definitions}{364}{section.B.4}%
-\contentsline {section}{\numberline {B.5}Structural Induction}{367}{section.B.5}%
-\contentsline {section}{\numberline {B.6}Relations and Functions}{369}{section.B.6}%
-\contentsline {section}{Aufgaben}{373}{section*.58}%
-\contentsline {appendix}{\chapternumberline {C}Biographies}{374}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Georg Cantor}{374}{section.C.1}%
-\contentsline {paragraph}{Further Reading}{375}{section*.59}%
-\contentsline {section}{\numberline {C.2}Alonzo Church}{375}{section.C.2}%
-\contentsline {paragraph}{Further Reading}{376}{section*.60}%
-\contentsline {section}{\numberline {C.3}Gerhard Gentzen}{376}{section.C.3}%
-\contentsline {paragraph}{Further Reading}{378}{section*.61}%
-\contentsline {section}{\numberline {C.4}Kurt G\"odel}{378}{section.C.4}%
-\contentsline {paragraph}{Further Reading}{379}{section*.62}%
-\contentsline {section}{\numberline {C.5}Emmy Noether}{380}{section.C.5}%
-\contentsline {paragraph}{Further Reading}{382}{section*.63}%
-\contentsline {section}{\numberline {C.6}Bertrand Russell}{382}{section.C.6}%
-\contentsline {paragraph}{Further Reading}{383}{section*.64}%
-\contentsline {section}{\numberline {C.7}Alfred Tarski}{384}{section.C.7}%
-\contentsline {paragraph}{Further Reading}{385}{section*.65}%
-\contentsline {section}{\numberline {C.8}Alan Turing}{385}{section.C.8}%
-\contentsline {paragraph}{Further Reading}{387}{section*.66}%
-\contentsline {section}{\numberline {C.9}Ernst Zermelo}{387}{section.C.9}%
-\contentsline {paragraph}{Further Reading}{388}{section*.67}%
-\contentsline {appendix}{\chapternumberline {D}The Greek Alphabet}{389}{appendix.D}%
-\contentsline {chapter}{Glossar}{390}{section*.68}%
-\contentsline {chapter}{Bildnachweise}{397}{section*.70}%
-\contentsline {chapter}{Literatur}{399}{section*.72}%
-\contentsline {chapter}{Über das Open Logic Project}{404}{appendix*.73}%
+\contentsline {chapter}{\chapternumberline {4}Größenordnungen von Mengen}{48}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Einführung}{48}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Enumerations and Countable Sets}{49}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Cantor's Zig-Zag Method}{53}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Pairing Functions and Codes}{55}{section.4.4}%
+\contentsline {section}{\numberline {4.5}An Alternative Pairing Function}{57}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Uncountable Sets}{59}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Reduction}{63}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Equinumerosity}{64}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Sets of Different Sizes, and Cantor's Theorem}{66}{section.4.9}%
+\contentsline {section}{\numberline {4.10}The Notion of Size, and Schr\"oder-Bernstein}{68}{section.4.10}%
+\contentsline {section}{Fazit}{69}{section*.11}%
+\contentsline {section}{Aufgaben}{70}{section*.12}%
+\contentsline {part}{\partnumberline {II}Die Logik erster Ordnung}{75}{part.2}%
+\contentsline {chapter}{\chapternumberline {5}Eine Einführung in die Logik erster Ordnung}{76}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Die Logik erster Ordnung}{76}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Syntax}{78}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Formulas}{79}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Satisfaction}{81}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Sentences}{83}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Semantic Notions}{84}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Substitution}{85}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Models and Theories}{86}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Soundness and Completeness}{88}{section.5.9}%
+\contentsline {chapter}{\chapternumberline {6}Syntax of First-Order Logic}{90}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{90}{section.6.1}%
+\contentsline {section}{\numberline {6.2}First-Order Languages}{91}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Terms and Formulas}{93}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Unique Readability}{96}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Main operator of a Formula}{100}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Subformulas}{101}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Free Variables and Sentences}{103}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Substitution}{104}{section.6.8}%
+\contentsline {section}{Fazit}{107}{section*.14}%
+\contentsline {section}{Aufgaben}{107}{section*.15}%
+\contentsline {chapter}{\chapternumberline {7}Semantics of First-Order Logic}{108}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{108}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Structures for First-order Languages}{109}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Covered Structures for First-order Languages}{111}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Satisfaction of a Formula in a Structure}{112}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Variable Assignments}{119}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Extensionality}{122}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Semantic Notions}{124}{section.7.7}%
+\contentsline {section}{Fazit}{127}{section*.16}%
+\contentsline {section}{Aufgaben}{127}{section*.17}%
+\contentsline {chapter}{\chapternumberline {8}Theories and Their Models}{130}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduction}{130}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Expressing Properties of Structures}{132}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Examples of First-Order Theories}{134}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Expressing Relations in a Structure}{137}{section.8.4}%
+\contentsline {section}{\numberline {8.5}The Theory of Sets}{138}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Expressing the Size of Structures}{142}{section.8.6}%
+\contentsline {section}{Fazit}{143}{section*.18}%
+\contentsline {section}{Aufgaben}{144}{section*.19}%
+\contentsline {chapter}{\chapternumberline {9}Derivation Systems}{146}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduction}{146}{section.9.1}%
+\contentsline {section}{\numberline {9.2}The Sequent Calculus}{148}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Natural Deduction}{149}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Tableaux}{151}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Axiomatic Derivations}{153}{section.9.5}%
+\contentsline {chapter}{\chapternumberline {10}The Sequent Calculus}{156}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Rules and Derivations}{156}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Propositional Rules}{157}{section.10.2}%
+\contentsline {subsection}{Rules for $\lnot $}{157}{section*.20}%
+\contentsline {subsection}{Rules for $\land $}{157}{section*.21}%
+\contentsline {subsection}{Rules for $\lor $}{158}{section*.22}%
+\contentsline {subsection}{Rules for $\mathbin {\rightarrow }$}{158}{section*.23}%
+\contentsline {section}{\numberline {10.3}Quantifier Rules}{158}{section.10.3}%
+\contentsline {subsection}{Rules for $\lforall $}{158}{section*.24}%
+\contentsline {subsection}{Rules for $\lexists $}{158}{section*.25}%
+\contentsline {section}{\numberline {10.4}Structural Rules}{160}{section.10.4}%
+\contentsline {subsection}{Weakening}{160}{section*.26}%
+\contentsline {subsection}{Contraction}{160}{section*.27}%
+\contentsline {subsection}{Exchange}{160}{section*.28}%
+\contentsline {section}{\numberline {10.5}Derivations}{161}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Examples of Derivations}{163}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Derivations with Quantifiers}{167}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Proof-Theoretic Notions}{169}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Derivability and Consistency}{172}{section.10.9}%
+\contentsline {section}{\numberline {10.10}Derivability and the Propositional Connectives}{173}{section.10.10}%
+\contentsline {section}{\numberline {10.11}Derivability and the Quantifiers}{175}{section.10.11}%
+\contentsline {section}{\numberline {10.12}Soundness}{176}{section.10.12}%
+\contentsline {section}{\numberline {10.13}Derivations with Identity predicate}{183}{section.10.13}%
+\contentsline {section}{\numberline {10.14}Soundness with Identity predicate}{184}{section.10.14}%
+\contentsline {section}{Fazit}{184}{section*.29}%
+\contentsline {section}{Aufgaben}{185}{section*.30}%
+\contentsline {chapter}{\chapternumberline {11}Natural Deduction}{188}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Rules and Derivations}{188}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Propositional Rules}{189}{section.11.2}%
+\contentsline {subsection}{Rules for $\land $}{189}{section*.31}%
+\contentsline {subsection}{Rules for $\lor $}{189}{section*.32}%
+\contentsline {subsection}{Rules for $\mathbin {\rightarrow }$}{189}{section*.33}%
+\contentsline {subsection}{Rules for $\lnot $}{189}{section*.34}%
+\contentsline {subsection}{Rules for $\bot $}{190}{section*.35}%
+\contentsline {section}{\numberline {11.3}Quantifier Rules}{190}{section.11.3}%
+\contentsline {subsection}{Rules for $\lforall $}{190}{section*.36}%
+\contentsline {subsection}{Rules for $\lexists $}{191}{section*.37}%
+\contentsline {section}{\numberline {11.4}Derivations}{192}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Examples of Derivations}{194}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Derivations with Quantifiers}{198}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Proof-Theoretic Notions}{203}{section.11.7}%
+\contentsline {section}{\numberline {11.8}Derivability and Consistency}{205}{section.11.8}%
+\contentsline {section}{\numberline {11.9}Derivability and the Propositional Connectives}{207}{section.11.9}%
+\contentsline {section}{\numberline {11.10}Derivability and the Quantifiers}{209}{section.11.10}%
+\contentsline {section}{\numberline {11.11}Soundness}{209}{section.11.11}%
+\contentsline {section}{\numberline {11.12}Derivations with Identity predicate}{215}{section.11.12}%
+\contentsline {section}{\numberline {11.13}Soundness with Identity predicate}{217}{section.11.13}%
+\contentsline {section}{Fazit}{217}{section*.38}%
+\contentsline {section}{Aufgaben}{218}{section*.39}%
+\contentsline {chapter}{\chapternumberline {12}The Completeness Theorem}{221}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Introduction}{221}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Outline of the Proof}{223}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Complete Consistent Sets of Sentences}{226}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Henkin Expansion}{227}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Lindenbaum's Lemma}{230}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Construction of a Model}{231}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Identity}{234}{section.12.7}%
+\contentsline {section}{\numberline {12.8}The Completeness Theorem}{238}{section.12.8}%
+\contentsline {section}{\numberline {12.9}The Compactness Theorem}{238}{section.12.9}%
+\contentsline {section}{\numberline {12.10}A Direct Proof of the Compactness Theorem}{241}{section.12.10}%
+\contentsline {section}{\numberline {12.11}The L\"owenheim-Skolem Theorem}{243}{section.12.11}%
+\contentsline {section}{Fazit}{244}{section*.40}%
+\contentsline {section}{Aufgaben}{245}{section*.41}%
+\contentsline {chapter}{\chapternumberline {13}Beyond First-order Logic}{247}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Overview}{247}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Many-Sorted Logic}{248}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Second-Order logic}{250}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Higher-Order logic}{255}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Intuitionistic Logic}{258}{section.13.5}%
+\contentsline {section}{\numberline {13.6}Modal Logics}{264}{section.13.6}%
+\contentsline {section}{\numberline {13.7}Other Logics}{266}{section.13.7}%
+\contentsline {part}{\partnumberline {III}Turing Machines}{269}{part.3}%
+\contentsline {chapter}{\chapternumberline {14}Turing Machine Computations}{270}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Introduction}{270}{section.14.1}%
+\contentsline {paragraph}{Historical Remarks}{273}{section*.43}%
+\contentsline {section}{\numberline {14.2}Representing Turing Machines}{273}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Turing Machines}{277}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Configurations and Computations}{279}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Unary Representation of Numbers}{281}{section.14.5}%
+\contentsline {section}{\numberline {14.6}Halting States}{285}{section.14.6}%
+\contentsline {section}{\numberline {14.7}Disciplined Machines}{286}{section.14.7}%
+\contentsline {section}{\numberline {14.8}Combining Turing Machines}{287}{section.14.8}%
+\contentsline {section}{\numberline {14.9}Variants of Turing Machines}{290}{section.14.9}%
+\contentsline {section}{\numberline {14.10}The Church-Turing Thesis}{293}{section.14.10}%
+\contentsline {section}{Fazit}{294}{section*.44}%
+\contentsline {section}{Aufgaben}{295}{section*.45}%
+\contentsline {chapter}{\chapternumberline {15}Undecidability}{298}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Introduction}{298}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Enumerating Turing Machines}{300}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Universal Turing Machines}{303}{section.15.3}%
+\contentsline {section}{\numberline {15.4}The Halting Problem}{306}{section.15.4}%
+\contentsline {section}{\numberline {15.5}The Decision Problem}{309}{section.15.5}%
+\contentsline {section}{\numberline {15.6}Representing Turing Machines}{310}{section.15.6}%
+\contentsline {section}{\numberline {15.7}Verifying the Representation}{314}{section.15.7}%
+\contentsline {section}{\numberline {15.8}The Decision Problem is Unsolvable}{320}{section.15.8}%
+\contentsline {section}{\numberline {15.9}Trakthenbrot's Theorem}{322}{section.15.9}%
+\contentsline {section}{Fazit}{326}{section*.46}%
+\contentsline {section}{Aufgaben}{326}{section*.47}%
+\contentsline {appendix}{\chapternumberline {A}Proofs}{331}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Introduction}{331}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Starting a Proof}{333}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Using Definitions}{333}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Inference Patterns}{336}{section.A.4}%
+\contentsline {subsection}{Using a Conjunction}{337}{section*.48}%
+\contentsline {subsection}{Proving a Conjunction}{337}{section*.49}%
+\contentsline {subsection}{Proving a Disjunction}{338}{section*.50}%
+\contentsline {subsection}{Conditional Proof}{338}{section*.51}%
+\contentsline {subsection}{Universal Claims}{338}{section*.52}%
+\contentsline {subsection}{Proof by Cases}{340}{section*.53}%
+\contentsline {subsection}{Proving an Existence Claim}{341}{section*.54}%
+\contentsline {subsection}{Using Existence Claims}{342}{section*.55}%
+\contentsline {section}{\numberline {A.5}An Example}{344}{section.A.5}%
+\contentsline {section}{\numberline {A.6}Another Example}{348}{section.A.6}%
+\contentsline {section}{\numberline {A.7}Proof by Contradiction}{350}{section.A.7}%
+\contentsline {section}{\numberline {A.8}Reading Proofs}{355}{section.A.8}%
+\contentsline {section}{\numberline {A.9}I Can't Do It!{}}{357}{section.A.9}%
+\contentsline {section}{\numberline {A.10}Other Resources}{359}{section.A.10}%
+\contentsline {subsection}{Motivational Videos}{359}{section*.56}%
+\contentsline {section}{Aufgaben}{359}{section*.57}%
+\contentsline {appendix}{\chapternumberline {B}Induction}{361}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Introduction}{361}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Induction on~$\mathbb {N}$}{362}{section.B.2}%
+\contentsline {section}{\numberline {B.3}Strong Induction}{365}{section.B.3}%
+\contentsline {section}{\numberline {B.4}Inductive Definitions}{366}{section.B.4}%
+\contentsline {section}{\numberline {B.5}Structural Induction}{369}{section.B.5}%
+\contentsline {section}{\numberline {B.6}Relations and Functions}{371}{section.B.6}%
+\contentsline {section}{Aufgaben}{375}{section*.58}%
+\contentsline {appendix}{\chapternumberline {C}Biographies}{376}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Georg Cantor}{376}{section.C.1}%
+\contentsline {paragraph}{Further Reading}{377}{section*.59}%
+\contentsline {section}{\numberline {C.2}Alonzo Church}{377}{section.C.2}%
+\contentsline {paragraph}{Further Reading}{378}{section*.60}%
+\contentsline {section}{\numberline {C.3}Gerhard Gentzen}{378}{section.C.3}%
+\contentsline {paragraph}{Further Reading}{380}{section*.61}%
+\contentsline {section}{\numberline {C.4}Kurt G\"odel}{380}{section.C.4}%
+\contentsline {paragraph}{Further Reading}{381}{section*.62}%
+\contentsline {section}{\numberline {C.5}Emmy Noether}{382}{section.C.5}%
+\contentsline {paragraph}{Further Reading}{384}{section*.63}%
+\contentsline {section}{\numberline {C.6}Bertrand Russell}{384}{section.C.6}%
+\contentsline {paragraph}{Further Reading}{385}{section*.64}%
+\contentsline {section}{\numberline {C.7}Alfred Tarski}{386}{section.C.7}%
+\contentsline {paragraph}{Further Reading}{387}{section*.65}%
+\contentsline {section}{\numberline {C.8}Alan Turing}{387}{section.C.8}%
+\contentsline {paragraph}{Further Reading}{389}{section*.66}%
+\contentsline {section}{\numberline {C.9}Ernst Zermelo}{389}{section.C.9}%
+\contentsline {paragraph}{Further Reading}{390}{section*.67}%
+\contentsline {appendix}{\chapternumberline {D}The Greek Alphabet}{391}{appendix.D}%
+\contentsline {chapter}{Glossar}{392}{section*.68}%
+\contentsline {chapter}{Bildnachweise}{399}{section*.70}%
+\contentsline {chapter}{Literatur}{401}{section*.72}%
+\contentsline {chapter}{Über das Open Logic Project}{406}{appendix*.73}%

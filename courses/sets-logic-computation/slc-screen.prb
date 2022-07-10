@@ -1,0 +1,26 @@
+ \renewcommand*{\probch}{B} \setcounter{probd}{0}
+\begin{probdeferred}{B.4}
+  Define the set of supernice terms by
+  \begin{enumerate}
+  \item Any letter $\mathrm{a}$, $\mathrm{b}$, $\mathrm{c}$,
+    $\mathrm{d}$ is a supernice term.
+  \item If $s$ is a supernice term, then so is $[s]$.
+  \item If $s_1$ and $s_2$ are supernice terms, then so
+    is $[s_1 \circ s_2]$.
+  \item Nothing else is a supernice term.
+  \end{enumerate}
+  Show that the number of $[$ in a supernice term~$t$ of length~$n$ is
+    $\le n/2 +1$.
+\end{probdeferred}
+\begin{probdeferred}{B.5}
+  Prove by structural induction that no nice term starts with~$]$.
+\end{probdeferred}
+\begin{probdeferred}{B.6}
+  Give an inductive definition of the function $l$, where $l(t)$ is
+  the number of symbols in the nice term~$t$.
+\end{probdeferred}
+\begin{probdeferred}{B.6}
+  Prove by structural induction on nice terms $t$ that $f(t) < l(t)$ (where
+  $l(t)$ is the number of symbols in~$t$ and $f(t)$ is the depth of
+  $t$ as defined in \olref[mth][ind][rel]{defn:depth}).
+\end{probdeferred}

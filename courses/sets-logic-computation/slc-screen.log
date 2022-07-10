@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  2 JUL 2022 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  10 JUL 2022 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3231,87 +3231,87 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 10.07397pt on input line 57.
  [6]
 Overfull \hbox (0.76646pt too wide) detected at line 67
- \T1/Baskervaldx-TOsF/b/n/10.95 106
+ \T1/Baskervaldx-TOsF/b/n/10.95 108
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 77
- \T1/Baskervaldx-TOsF/b/n/10.95 128
+ \T1/Baskervaldx-TOsF/b/n/10.95 130
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 86
- \T1/Baskervaldx-TOsF/b/n/10.95 144
+ \T1/Baskervaldx-TOsF/b/n/10.95 146
  []
 
 [7]
 Overfull \hbox (0.76646pt too wide) detected at line 92
- \T1/Baskervaldx-TOsF/b/n/10.95 154
+ \T1/Baskervaldx-TOsF/b/n/10.95 156
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 118
- \T1/Baskervaldx-TOsF/b/n/10.95 186
+ \T1/Baskervaldx-TOsF/b/n/10.95 188
  []
 
 [8]
 Overfull \hbox (0.76646pt too wide) detected at line 141
- \T1/Baskervaldx-TOsF/b/n/10.95 219
+ \T1/Baskervaldx-TOsF/b/n/10.95 221
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 155
- \T1/Baskervaldx-TOsF/b/n/10.95 245
+ \T1/Baskervaldx-TOsF/b/n/10.95 247
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 164
- \T1/Baskervaldx-TOsF/b/n/10.95 268
+ \T1/Baskervaldx-TOsF/b/n/10.95 270
  []
 
 [9]
 Overfull \hbox (0.76646pt too wide) detected at line 178
- \T1/Baskervaldx-TOsF/b/n/10.95 296
+ \T1/Baskervaldx-TOsF/b/n/10.95 298
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 190
- \T1/Baskervaldx-TOsF/b/n/10.95 329
+ \T1/Baskervaldx-TOsF/b/n/10.95 331
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 211
- \T1/Baskervaldx-TOsF/b/n/10.95 359
+ \T1/Baskervaldx-TOsF/b/n/10.95 361
  []
 
 [10]
 Overfull \hbox (0.76646pt too wide) detected at line 219
- \T1/Baskervaldx-TOsF/b/n/10.95 374
+ \T1/Baskervaldx-TOsF/b/n/10.95 376
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 238
- \T1/Baskervaldx-TOsF/b/n/10.95 389
+ \T1/Baskervaldx-TOsF/b/n/10.95 391
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 239
- \T1/Baskervaldx-TOsF/b/n/10.95 390
+ \T1/Baskervaldx-TOsF/b/n/10.95 392
  []
 
 
 Overfull \hbox (0.76646pt too wide) detected at line 240
- \T1/Baskervaldx-TOsF/b/n/10.95 397
- []
-
-
-Overfull \hbox (0.76646pt too wide) detected at line 241
  \T1/Baskervaldx-TOsF/b/n/10.95 399
  []
 
 
+Overfull \hbox (0.76646pt too wide) detected at line 241
+ \T1/Baskervaldx-TOsF/b/n/10.95 401
+ []
+
+
 Overfull \hbox (0.76646pt too wide) detected at line 242
- \T1/Baskervaldx-TOsF/b/n/10.95 404
+ \T1/Baskervaldx-TOsF/b/n/10.95 406
  []
 
 ) [11]
@@ -3639,19 +3639,22 @@ Package mdframed Info: mdframed works in twoside mode on input line 78.
 functions/inverses.tex
 Package mdframed Info: mdframed works in twoside mode on input line 28.
  [40]
-Package mdframed Info: mdframed works in twoside mode on input line 63.
-Package mdframed Info: mdframed works in twoside mode on input line 92.
+Package mdframed Info: mdframed works in twoside mode on input line 62.
+Package mdframed Info: mdframed works in twoside mode on input line 90.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 111.
+(Font)              scaled to size 9.0pt on input line 110.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TLF/b/n' will be
-(Font)              scaled to size 7.3pt on input line 111.
+(Font)              scaled to size 7.3pt on input line 110.
  [41]
-Package mdframed Info: mdframed works in twoside mode on input line 127.
-Package mdframed Info: mdframed works in twoside mode on input line 154.
-Package mdframed Info: mdframed works in twoside mode on input line 167.
+Package mdframed Info: mdframed works in twoside mode on input line 125.
+Package mdframed Info: mdframed works in twoside mode on input line 152.
+Package mdframed Info: Not enough space on this page on input line 155.
+ [42]
+Package mdframed Info: Not enough space on this page on input line 155.
+Package mdframed Info: mdframed works in twoside mode on input line 165.
 )
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-functions/composition.tex [42]
+functions/composition.tex
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 ../../assets/diagrams/composition.tikz)
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
@@ -3663,12 +3666,13 @@ Package mdframed Info: mdframed works in twoside mode on input line 39.
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 functions/partial-functions.tex
 Package mdframed Info: mdframed works in twoside mode on input line 21.
+ [44]
 Package mdframed Info: mdframed works in twoside mode on input line 50.
 Package mdframed Info: mdframed works in twoside mode on input line 59.
- [44]) (include/summary-3.tex) (slc-screen.prb
-[45]))
+) (include/summary-3.tex [45])
+(slc-screen.prb [46]))
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/size-of-sets.tex [46]
+size-of-sets/size-of-sets.tex [47]
 Overfull \hbox (35.85185pt too wide) in paragraph at lines 8--8
 []\T1/Baskervaldx-TOsF/b/it/44 Gröÿenordnungen 
  []
@@ -3680,37 +3684,37 @@ Output from handle slc-screen going to slc-screen.prb
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 size-of-sets/introduction.tex)
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/enumerability.tex [47
+size-of-sets/enumerability.tex [48
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 27.
- [48]
+ [49]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
 Package mdframed Info: mdframed works in twoside mode on input line 87.
- [49]
-Package mdframed Info: mdframed works in twoside mode on input line 114.
  [50]
+Package mdframed Info: mdframed works in twoside mode on input line 114.
+ [51]
 Package mdframed Info: mdframed works in twoside mode on input line 194.
 Package mdframed Info: mdframed works in twoside mode on input line 208.
 Package hyperref Info: bookmark level for unknown cor defaults to 0 on input li
 ne 208.
- [51]
+ [52]
 Package mdframed Info: mdframed works in twoside mode on input line 227.
 Package mdframed Info: Not enough space on this page on input line 231.
 Package mdframed Info: mdframed works in twoside mode on input line 252.
 )
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/zig-zag.tex [52]
+size-of-sets/zig-zag.tex [53]
 Package mdframed Info: mdframed works in twoside mode on input line 68.
- [53]
+ [54]
 Package mdframed Info: mdframed works in twoside mode on input line 115.
 )
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/pairing.tex [54]
+size-of-sets/pairing.tex [55]
 Package mdframed Info: mdframed works in twoside mode on input line 51.
 )
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/pairing-alt.tex [55]
+size-of-sets/pairing-alt.tex [56]
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 24.
 
@@ -3729,39 +3733,41 @@ Overfull \hbox (27.8892pt too wide) detected at line 47
 []
  []
 
-[56] [57])
+[57] [58])
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 size-of-sets/non-enumerability.tex
 Package mdframed Info: mdframed works in twoside mode on input line 47.
- [58] [59]
+ [59] [60]
 Package mdframed Info: mdframed works in twoside mode on input line 148.
- [60])
+ [61])
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/reduction.tex [61] [62])
+size-of-sets/reduction.tex [62] [63])
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
-size-of-sets/equinumerous-sets.tex [63]
+size-of-sets/equinumerous-sets.tex [64]
 Package mdframed Info: mdframed works in twoside mode on input line 29.
 Package mdframed Info: mdframed works in twoside mode on input line 34.
 Package mdframed Info: mdframed works in twoside mode on input line 58.
- [64])
+ [65])
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 size-of-sets/comparing-size.tex
 Package mdframed Info: mdframed works in twoside mode on input line 27.
 Package mdframed Info: mdframed works in twoside mode on input line 37.
- [65]
+ [66]
 Package mdframed Info: mdframed works in twoside mode on input line 56.
- [66])
+ [67])
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 size-of-sets/schroder-bernstein.tex
 Package mdframed Info: mdframed works in twoside mode on input line 23.
-) [67] (include/summary-4.tex) [68]
-(slc-screen.prb [69] [70]
+) [68] (include/summary-4.tex) [69]
+(slc-screen.prb [70] [71]
 Underfull \hbox (badness 10000) in paragraph at lines 137--142
 []\T1/Baskervaldx-TOsF/m/n/10.95 Show that the-re can-not be an in-jec-ti-on
  []
 
-))) [71]
-<illustrations/GodelChapter.png, id=1463, 356.7729pt x 384.2355pt>
+))) [72] [73
+
+]
+<illustrations/GodelChapter.png, id=1470, 356.7729pt x 384.2355pt>
 File: illustrations/GodelChapter.png Graphic file (type png)
 <use illustrations/GodelChapter.png>
 Package pdftex.def Info: illustrations/GodelChapter.png  used on input line 39.
@@ -3769,9 +3775,7 @@ Package pdftex.def Info: illustrations/GodelChapter.png  used on input line 39.
 (pdftex.def)             Requested size: 300.0pt x 323.10739pt.
 
 (../../content/first-order-logic/../../content/first-order-logic/first-order-lo
-gic.tex [72
-
- <./illustrations/GodelChapter.png>] [73
+gic.tex [74 <./illustrations/GodelChapter.png>] [75
 
 ]
 (../../content/first-order-logic/../../content/first-order-logic/introduction/i
@@ -3792,7 +3796,7 @@ kervaldx-TOsF.
 )
 LaTeX Font Info:    Font shape `TS1/Baskervaldx-TOsF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 27.
- [74
+ [76
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
@@ -3801,7 +3805,7 @@ LaTeX Font Info:    Trying to load font information for OT1+pplx on input line
 (C:\Users\foels\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-[75])
+[77])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
 yntax.tex
 LaTeX Font Info:    Trying to load font information for OML+cmbr on input line 
@@ -3826,31 +3830,31 @@ LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <6.1> not available
 (Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 20.
 
 
-[76])
+[78])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/f
-ormulas.tex [77]
+ormulas.tex [79]
 Package mdframed Info: mdframed works in twoside mode on input line 36.
- [78])
+ [80])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
-atisfaction.tex [79] [80])
+atisfaction.tex [81] [82])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
-entences.tex [81])
+entences.tex [83])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
-emantic-notions.tex [82])
+emantic-notions.tex [84])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
-ubstitution.tex [83])
+ubstitution.tex [85])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/m
-odels-theories.tex [84] [85])
+odels-theories.tex [86] [87])
 (../../content/first-order-logic/../../content/first-order-logic/introduction/s
-oundness-completeness.tex [86]))
+oundness-completeness.tex [88]))
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/syntax.tex [87]
+antics/syntax.tex [89]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
 
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/intro-syntax.tex [88
+antics/intro-syntax.tex [90
 
 ])
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
@@ -3905,7 +3909,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 57.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 58.
- [89]
+ [91]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -3990,7 +3994,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 130.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 132.
- [90]
+ [92]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 134.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4060,7 +4064,7 @@ ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 Package mdframed Info: Not enough space on this page on input line 30.
- [91]
+ [93]
 Package mdframed Info: Not enough space on this page on input line 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
@@ -4131,7 +4135,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
- [92]
+ [94]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4191,7 +4195,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 167.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 167.
- [93]
+ [95]
 Package mdframed Info: mdframed works in twoside mode on input line 170.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 171.
@@ -4223,7 +4227,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 183.
 )
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/unique-readability.tex [94]
+antics/unique-readability.tex [96]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4309,7 +4313,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
- [95]
+ [97]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4398,7 +4402,7 @@ ine 138.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 138.
 Package mdframed Info: Not enough space on this page on input line 141.
- [96]
+ [98]
 Package mdframed Info: Not enough space on this page on input line 141.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 145.
@@ -4487,7 +4491,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 194.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 197.
- [97])
+ [99])
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
 antics/main-operator.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4569,7 +4573,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 67.
- [98]
+ [100]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4650,7 +4654,7 @@ ine 37.
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
 (mdframed)              on input line 39.
- [99]
+ [101]
 Package mdframed Info: mdframed works in twoside mode on input line 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 42.
@@ -4711,7 +4715,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
- [100])
+ [102])
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
 antics/free-vars-sentences.tex
 Package mdframed Info: mdframed works in twoside mode on input line 13.
@@ -4786,7 +4790,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 62.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 62.
-[101]
+[103]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 70.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -4925,7 +4929,7 @@ ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 Package mdframed Info: Not enough space on this page on input line 27.
- [102]
+ [104]
 Package mdframed Info: Not enough space on this page on input line 27.
 Package mdframed Info: mdframed works in twoside mode on input line 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5044,7 +5048,7 @@ ine 92.
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
 (mdframed)              on input line 94.
- [103]
+ [105]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 97.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5160,10 +5164,10 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
- [104])
+ [106])
 (slc-screen.prb))
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/semantics.tex [105]
+antics/semantics.tex [107]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -5186,7 +5190,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
- [106
+ [108
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5237,7 +5241,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 39.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 40.
- [107]
+ [109]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 45.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5314,7 +5318,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
- [108]
+ [110]
 LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 82.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5367,7 +5371,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 27.
- [109]
+ [111]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
 LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 37.
@@ -5491,7 +5495,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 )
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/satisfaction.tex [110]
+antics/satisfaction.tex [112]
 Package mdframed Info: mdframed works in twoside mode on input line 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 42.
@@ -5534,7 +5538,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 70.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 70.
-[111]
+[113]
 Package mdframed Info: mdframed works in twoside mode on input line 74.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
@@ -5694,7 +5698,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 148.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 148.
- [112]
+ [114]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 156.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5747,7 +5751,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 182.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 184.
- [113]
+ [115]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 185.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -5943,7 +5947,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 230.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 230.
-[114]
+[116]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 230.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -6068,7 +6072,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 276.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 276.
- [115]
+ [117]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 276.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -6192,7 +6196,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
- [116]
+ [118]
 Package mdframed Info: mdframed works in twoside mode on input line 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
@@ -6314,7 +6318,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 54.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 54.
- [117]
+ [119]
 Package mdframed Info: mdframed works in twoside mode on input line 57.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 58.
@@ -6507,7 +6511,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 137.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 137.
- [118]
+ [120]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 144.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -6613,7 +6617,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 223.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 224.
- [119]
+ [121]
 Package mdframed Info: mdframed works in twoside mode on input line 227.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 228.
@@ -6694,7 +6698,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
- [120]
+ [122]
 Package mdframed Info: mdframed works in twoside mode on input line 28.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
@@ -6896,7 +6900,7 @@ Overfull \hbox (20.58957pt too wide) detected at line 101
  []$[][][]$  []  
  []
 
-[121]
+[123]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
 Package mdframed Info: mdframed works in twoside mode on input line 105.
@@ -6952,7 +6956,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 132.
 )
 (../../content/first-order-logic/../../content/first-order-logic/syntax-and-sem
-antics/semantic-notions.tex [122]
+antics/semantic-notions.tex [124]
 Package mdframed Info: mdframed works in twoside mode on input line 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
@@ -7058,7 +7062,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 72.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 73.
- [123]
+ [125]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7180,7 +7184,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 141.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 141.
- [124]
+ [126]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 150.
 ) (include/summary-7.tex
@@ -7234,7 +7238,7 @@ LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 6.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 8.
- [125]
+ [127]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 10.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7326,7 +7330,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
- [126]
+ [128]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 86.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7407,7 +7411,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 121.
 ))
 (../../content/first-order-logic/../../content/first-order-logic/models-theorie
-s/models-theories.tex [127]
+s/models-theories.tex [129]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -7435,7 +7439,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 39.
- [128
+ [130
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7462,7 +7466,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
- [129]
+ [131]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 81.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7494,7 +7498,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
- [130]
+ [132]
 Package mdframed Info: mdframed works in twoside mode on input line 39.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 40.
@@ -7595,7 +7599,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
- [131]
+ [133]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7718,7 +7722,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 53.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 53.
- [132]
+ [134]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7795,7 +7799,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 95.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 98.
- [133]
+ [135]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 109.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7899,7 +7903,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
- [134]
+ [136]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -7971,7 +7975,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
- [135])
+ [137])
 (../../content/first-order-logic/../../content/first-order-logic/models-theorie
 s/set-theory.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8004,7 +8008,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 38.
- [136]
+ [138]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8105,7 +8109,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 90.
- [137]
+ [139]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 94.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8202,7 +8206,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 129.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 129.
- [138]
+ [140]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 131.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8258,7 +8262,7 @@ ine 171.
 s/size-of-structures.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
- [139]
+ [141]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
@@ -8455,7 +8459,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 57.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 60.
 Package mdframed Info: Not enough space on this page on input line 61.
- [140]
+ [142]
 Package mdframed Info: Not enough space on this page on input line 61.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
@@ -8482,7 +8486,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 27.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
-) [141]
+) [143]
 (slc-screen.prb
 LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 3.
@@ -8554,7 +8558,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
- [142]
+ [144]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8573,13 +8577,13 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
 ))
 (../../content/first-order-logic/../../content/first-order-logic/proof-systems/
-proof-systems.tex [143]
+proof-systems.tex [145]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
 
 (../../content/first-order-logic/../../content/first-order-logic/proof-systems/
-introduction.tex [144
+introduction.tex [146
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8612,7 +8616,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
- [145]
+ [147]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 92.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8648,7 +8652,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
- [146]
+ [148]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8716,7 +8720,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
- [147]
+ [149]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 50.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8727,7 +8731,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
- [148]
+ [150]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 60.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8779,7 +8783,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
- [149]
+ [151]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8898,7 +8902,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 69.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 70.
- [150])
+ [152])
 (../../content/first-order-logic/../../content/first-order-logic/proof-systems/
 axiomatic-deduction.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8921,7 +8925,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
- [151]
+ [153]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 40.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -8992,9 +8996,9 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 68.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 68.
- [152]))
+ [154]))
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
-us/sequent-calculus.tex [153]
+us/sequent-calculus.tex [155]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -9044,7 +9048,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 42.
- [154
+ [156
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -9121,7 +9125,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
- [155]
+ [157]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
@@ -9284,7 +9288,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
- [156]
+ [158]
 Package mdframed Info: mdframed works in twoside mode on input line 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
@@ -9425,7 +9429,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
 )
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
-us/structural-rules.tex [157]
+us/structural-rules.tex [159]
 Package mdframed Info: mdframed works in twoside mode on input line 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
@@ -9518,7 +9522,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 77.
 )
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
-us/derivations.tex [158]
+us/derivations.tex [160]
 Package mdframed Info: mdframed works in twoside mode on input line 23.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
@@ -9586,7 +9590,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
- [159]
+ [161]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 60.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -9770,7 +9774,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
- [160]
+ [162]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -9841,7 +9845,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 67.
- [161]
+ [163]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -9982,7 +9986,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
- [162]
+ [164]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 132.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10107,7 +10111,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 186.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 186.
- [163]
+ [165]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 190.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10246,7 +10250,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 254.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 254.
- [164]
+ [166]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 258.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10357,7 +10361,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 27.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
-[165]
+[167]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10456,7 +10460,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
- [166]
+ [168]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10518,7 +10522,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 51.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
- [167]
+ [169]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10616,7 +10620,7 @@ ine 105.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 105.
 Package mdframed Info: Not enough space on this page on input line 106.
- [168]
+ [170]
 Package mdframed Info: Not enough space on this page on input line 106.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 109.
@@ -10718,7 +10722,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 167.
 )
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
-us/provability-consistency.tex [169]
+us/provability-consistency.tex [171]
 Package mdframed Info: mdframed works in twoside mode on input line 19.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
@@ -10876,7 +10880,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 94.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 94.
- [170]
+ [172]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -10958,7 +10962,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
- [171]
+ [173]
 Package mdframed Info: Not enough space on this page on input line 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
@@ -11098,7 +11102,7 @@ Package mdframed Warning: You got a bad break
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
 (mdframed)              on input line 105.
-[172]
+[174]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 109.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11242,7 +11246,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 55.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 55.
- [173])
+ [175])
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
 us/soundness.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11270,7 +11274,7 @@ ine 54.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 54.
 Package mdframed Info: Not enough space on this page on input line 55.
- [174]
+ [176]
 Package mdframed Info: Not enough space on this page on input line 55.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 58.
@@ -11390,7 +11394,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 110.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 110.
- [175]
+ [177]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 112.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11527,7 +11531,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 161.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 162.
- [176]
+ [178]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 165.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11648,7 +11652,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
- [177]
+ [179]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11795,7 +11799,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
- [178]
+ [180]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 266.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11872,7 +11876,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 306.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 307.
- [179]
+ [181]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 308.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -11984,7 +11988,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 381.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 382.
- [180])
+ [182])
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
 us/identity.tex
 Package mdframed Info: mdframed works in twoside mode on input line 16.
@@ -12101,7 +12105,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
- [181])
+ [183])
 (../../content/first-order-logic/../../content/first-order-logic/sequent-calcul
 us/soundness-identity.tex
 Package mdframed Info: mdframed works in twoside mode on input line 14.
@@ -12182,7 +12186,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
- [182]
+ [184]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 19.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12239,7 +12243,7 @@ ine 14.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 15.
 
-[183]
+[185]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12286,7 +12290,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 49.
- [184]
+ [186]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 50.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12313,7 +12317,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 ))
 (../../content/first-order-logic/../../content/first-order-logic/natural-deduct
-ion/natural-deduction.tex [185]
+ion/natural-deduction.tex [187]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -12331,7 +12335,7 @@ ine 21.
 Package mdframed Info: mdframed works in twoside mode on input line 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 43.
- [186
+ [188
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12432,7 +12436,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
- [187]
+ [189]
 Package mdframed Info: mdframed works in twoside mode on input line 81.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 82.
@@ -12528,7 +12532,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
- [188]
+ [190]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 Package mdframed Info: mdframed works in twoside mode on input line 38.
@@ -12632,7 +12636,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 90.
- [189]
+ [191]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12679,7 +12683,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 42.
- [190]
+ [192]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 46.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12762,7 +12766,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 95.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
- [191]
+ [193]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 102.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12816,7 +12820,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 50.
- [192]
+ [194]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 55.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -12887,7 +12891,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 99.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 99.
- [193]
+ [195]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13008,7 +13012,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 154.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 155.
- [194]
+ [196]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 157.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13113,7 +13117,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 209.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 210.
- [195]
+ [197]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 212.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13242,7 +13246,7 @@ Overfull \hbox (34.85565pt too wide) in paragraph at lines 264--264
 ion/proving-things-quant.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
- [196]
+ [198]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13315,7 +13319,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
- [197]
+ [199]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 68.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13372,7 +13376,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 114.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 114.
- [198]
+ [200]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 118.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13479,7 +13483,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 174.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 176.
- [199]
+ [201]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 185.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -13546,7 +13550,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 225.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 226.
- [200])
+ [202])
 (../../content/first-order-logic/../../content/first-order-logic/natural-deduct
 ion/proof-theoretic-notions.tex
 Package mdframed Info: mdframed works in twoside mode on input line 32.
@@ -13592,7 +13596,7 @@ ine 55.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 55.
 Package mdframed Info: Not enough space on this page on input line 56.
- [201]
+ [203]
 Package mdframed Info: Not enough space on this page on input line 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
@@ -13709,7 +13713,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 116.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 116.
- [202]
+ [204]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 122.
 Package mdframed Info: mdframed works in twoside mode on input line 136.
@@ -13797,7 +13801,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 41.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 42.
- [203]
+ [205]
 Package mdframed Info: mdframed works in twoside mode on input line 45.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 46.
@@ -13894,7 +13898,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 99.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 100.
- [204]
+ [206]
 Package mdframed Info: mdframed works in twoside mode on input line 102.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 103.
@@ -13995,7 +13999,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
- [205]
+ [207]
 Package mdframed Info: mdframed works in twoside mode on input line 57.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
@@ -14106,7 +14110,7 @@ ine 130.
 ion/provability-quantifiers.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
- [206]
+ [208]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
@@ -14167,7 +14171,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 )
 (../../content/first-order-logic/../../content/first-order-logic/natural-deduct
-ion/soundness.tex [207]
+ion/soundness.tex [209]
 Package mdframed Info: mdframed works in twoside mode on input line 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
@@ -14213,7 +14217,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 72.
- [208]
+ [210]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14326,7 +14330,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 128.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 128.
- [209]
+ [211]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 130.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14415,7 +14419,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 208.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 208.
- [210]
+ [212]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 208.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14526,7 +14530,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 225.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 226.
- [211]
+ [213]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 228.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14641,7 +14645,7 @@ ine 293.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 293.
 Package mdframed Info: Not enough space on this page on input line 294.
- [212]
+ [214]
 Package mdframed Info: Not enough space on this page on input line 294.
 Package mdframed Info: mdframed works in twoside mode on input line 297.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14744,7 +14748,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
- [213]
+ [215]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14829,7 +14833,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 111.
 )
 (../../content/first-order-logic/../../content/first-order-logic/natural-deduct
-ion/soundness-identity.tex [214]
+ion/soundness-identity.tex [216]
 Package mdframed Info: mdframed works in twoside mode on input line 14.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 14.
@@ -14918,7 +14922,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 14.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 14.
- [215]
+ [217]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -14967,7 +14971,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 17.
- [216]
+ [218]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15010,7 +15014,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 49.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 50.
- [217]
+ [219]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 51.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15039,7 +15043,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
 ))
 (../../content/first-order-logic/../../content/first-order-logic/completeness/c
-ompleteness.tex [218]
+ompleteness.tex [220]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -15056,7 +15060,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
- [219
+ [221
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15092,7 +15096,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
- [220]
+ [222]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15195,7 +15199,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
- [221]
+ [223]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 133.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15236,7 +15240,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 133.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 133.
- [222]
+ [224]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 133.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15329,7 +15333,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 168.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 168.
- [223])
+ [225])
 (../../content/first-order-logic/../../content/first-order-logic/completeness/c
 omplete-consistent-sets.tex
 Package mdframed Info: mdframed works in twoside mode on input line 19.
@@ -15400,7 +15404,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
- [224]
+ [226]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15472,7 +15476,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
- [225]
+ [227]
 Package mdframed Info: mdframed works in twoside mode on input line 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
@@ -15583,7 +15587,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 85.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 85.
- [226]
+ [228]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 85.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15674,7 +15678,7 @@ ine 166.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 166.
 Package mdframed Info: Not enough space on this page on input line 168.
- [227]
+ [229]
 Package mdframed Info: Not enough space on this page on input line 168.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 185.
@@ -15754,7 +15758,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 44.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 45.
- [228]
+ [230]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -15866,7 +15870,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
- [229]
+ [231]
 Package mdframed Info: mdframed works in twoside mode on input line 73.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 73.
@@ -15980,7 +15984,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 155.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 155.
- [230]
+ [232]
 Package mdframed Info: mdframed works in twoside mode on input line 155.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 155.
@@ -16071,7 +16075,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 200.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 200.
- [231]
+ [233]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 213.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -16150,7 +16154,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
- [232]
+ [234]
 Package mdframed Info: mdframed works in twoside mode on input line 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
@@ -16269,7 +16273,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
-[233]
+[235]
 Package mdframed Info: mdframed works in twoside mode on input line 87.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
@@ -16362,7 +16366,7 @@ ine 147.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 149.
 Package mdframed Info: Not enough space on this page on input line 151.
- [234]
+ [236]
 Package mdframed Info: Not enough space on this page on input line 151.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 154.
@@ -16468,7 +16472,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 198.
 )
 (../../content/first-order-logic/../../content/first-order-logic/completeness/c
-ompleteness-thm.tex [235]
+ompleteness-thm.tex [237]
 Package mdframed Info: mdframed works in twoside mode on input line 19.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
@@ -16562,7 +16566,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 81.
 )
 (../../content/first-order-logic/../../content/first-order-logic/completeness/c
-ompactness.tex [236]
+ompactness.tex [238]
 Package mdframed Info: mdframed works in twoside mode on input line 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
@@ -16637,7 +16641,7 @@ LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 146.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 146.
- [237]
+ [239]
 LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
 ne 146.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -16786,7 +16790,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 189.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 189.
- [238]
+ [240]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 189.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -16838,7 +16842,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
- [239]
+ [241]
 Package mdframed Info: mdframed works in twoside mode on input line 32.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
@@ -16920,7 +16924,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 138.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 143.
- [240])
+ [242])
 (../../content/first-order-logic/../../content/first-order-logic/completeness/d
 ownward-ls.tex
 Package mdframed Info: mdframed works in twoside mode on input line 21.
@@ -16972,7 +16976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--61
 []\T1/Baskervaldx-TOsF/m/n/10.95 Zermelo-Fraenkel set
  []
 
-[241]) (include/summary-12.tex
+[243]) (include/summary-12.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 2.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17023,7 +17027,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 27.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
-) [242] (slc-screen.prb [243]
+) [244] (slc-screen.prb [245]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17058,17 +17062,17 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 ))
 (../../content/first-order-logic/../../content/first-order-logic/beyond/beyond.
-tex [244]
+tex [246]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
 
 (../../content/first-order-logic/../../content/first-order-logic/beyond/introdu
-ction.tex [245
+ction.tex [247
 
 ])
 (../../content/first-order-logic/../../content/first-order-logic/beyond/many-so
-rted-logic.tex [246]
+rted-logic.tex [248]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17134,7 +17138,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
- [247]
+ [249]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
 LaTeX Font Info:    Undo math alphabet allocation in version normal on input li
@@ -17227,7 +17231,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
- [248]
+ [250]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 62.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17248,7 +17252,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 86.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
- [249] [250]
+ [251] [252]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 136.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17337,7 +17341,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 174.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 175.
- [251]
+ [253]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 179.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17362,7 +17366,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 222.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 223.
- [252]
+ [254]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 229.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17385,7 +17389,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 233.
 )
 (../../content/first-order-logic/../../content/first-order-logic/beyond/higher-
-order-logic.tex [253]
+order-logic.tex [255]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17454,7 +17458,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
- [254]
+ [256]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 60.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17577,7 +17581,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 95.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 98.
- [255]
+ [257]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17592,7 +17596,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 116.
 )
 (../../content/first-order-logic/../../content/first-order-logic/beyond/intuiti
-onistic-logic.tex [256]
+onistic-logic.tex [258]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17644,7 +17648,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 66.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 67.
- [257]
+ [259]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17691,7 +17695,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 107.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 107.
- [258]
+ [260]
 Package mdframed Info: mdframed works in twoside mode on input line 118.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 120.
@@ -17765,7 +17769,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 146.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 146.
- [259]
+ [261]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 146.
 Package mdframed Info: mdframed works in twoside mode on input line 152.
@@ -17792,7 +17796,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 177.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 178.
- [260]
+ [262]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 200.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17849,7 +17853,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 218.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 218.
- [261]
+ [263]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 221.
 )
@@ -17883,7 +17887,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
- [262]
+ [264]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -17972,10 +17976,10 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
- [263])
+ [265])
 (../../content/first-order-logic/../../content/first-order-logic/beyond/other-l
-ogics.tex [264]))) [265]
-<illustrations/TuringChapter.png, id=3414, 356.532pt x 382.3083pt>
+ogics.tex [266]))) [267]
+<illustrations/TuringChapter.png, id=3421, 356.532pt x 382.3083pt>
 File: illustrations/TuringChapter.png Graphic file (type png)
 <use illustrations/TuringChapter.png>
 Package pdftex.def Info: illustrations/TuringChapter.png  used on input line 48
@@ -17983,9 +17987,9 @@ Package pdftex.def Info: illustrations/TuringChapter.png  used on input line 48
 (pdftex.def)             Requested size: 300.0pt x 321.7143pt.
 
 (../../content/turing-machines/../../content/turing-machines/turing-machines.te
-x [266
+x [268
 
- <./illustrations/TuringChapter.png>] [267
+ <./illustrations/TuringChapter.png>] [269
 
 ]
 (../../content/turing-machines/../../content/turing-machines/machines-computati
@@ -18000,7 +18004,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
- [268
+ [270
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18082,7 +18086,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 72.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
- [269]
+ [271]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18093,7 +18097,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 83.
- [270])
+ [272])
 (../../content/turing-machines/../../content/turing-machines/machines-computati
 ons/representing-tms.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18106,7 +18110,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
- [271]
+ [273]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18171,7 +18175,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 63.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 63.
- [272]
+ [274]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18214,7 +18218,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 121.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 124.
- [273]
+ [275]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18253,7 +18257,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 171.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 171.
- [274]
+ [276]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 188.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18352,7 +18356,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 251.
 )
 (../../content/turing-machines/../../content/turing-machines/machines-computati
-ons/turing-machines.tex [275]
+ons/turing-machines.tex [277]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 23.
@@ -18386,7 +18390,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 44.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 46.
- [276]
+ [278]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18465,7 +18469,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
- [277]
+ [279]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
 Package mdframed Info: mdframed works in twoside mode on input line 51.
@@ -18539,7 +18543,7 @@ ine 80.
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
 (mdframed)              on input line 82.
- [278]
+ [280]
 Package mdframed Info: mdframed works in twoside mode on input line 84.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 85.
@@ -18630,7 +18634,7 @@ ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 Package mdframed Info: Not enough space on this page on input line 31.
- [279]
+ [281]
 Package mdframed Info: Not enough space on this page on input line 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 40.
@@ -18756,7 +18760,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 126.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 126.
- [280]
+ [282]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 132.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18839,7 +18843,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 182.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 182.
- [281]
+ [283]
 Package mdframed Info: mdframed works in twoside mode on input line 227.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 227.
@@ -18863,7 +18867,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 233.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 233.
- [282])
+ [284])
 (../../content/turing-machines/../../content/turing-machines/machines-computati
 ons/halting-states.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -18908,7 +18912,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 62.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 63.
- [283]
+ [285]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 )
@@ -18926,7 +18930,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
- [284]
+ [286]
 Package mdframed Info: mdframed works in twoside mode on input line 27.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
@@ -18998,7 +19002,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 82.
 )
 (../../content/turing-machines/../../content/turing-machines/machines-computati
-ons/combining-machines.tex [285]
+ons/combining-machines.tex [287]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19027,7 +19031,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
- [286]
+ [288]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19156,7 +19160,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 102.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 103.
- [287]
+ [289]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 105.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19265,7 +19269,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 19.
- [288] [289]
+ [290] [291]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19300,7 +19304,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
- [290]
+ [292]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 80.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19318,7 +19322,7 @@ ing
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 26.
-[291]) (include/summary-14.tex [292]
+[293]) (include/summary-14.tex [294]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19361,7 +19365,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--14
 []\T1/Baskervaldx-TOsF/m/n/10.95 Design a Turing-machine with al-pha-bet
  []
 
-[293]
+[295]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19429,7 +19433,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
-[294]
+[296]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 66.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19500,7 +19504,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 93.
 ))
 (../../content/turing-machines/../../content/turing-machines/undecidability/und
-ecidability.tex [295]
+ecidability.tex [297]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -19515,7 +19519,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
- [296
+ [298
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19570,7 +19574,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 82.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 83.
- [297]
+ [299]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 88.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19680,7 +19684,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 90.
- [298]
+ [300]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 95.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19717,7 +19721,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 106.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 106.
- [299]
+ [301]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 110.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19791,7 +19795,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 135.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 135.
- [300]
+ [302]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 137.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19824,7 +19828,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
- [301]
+ [303]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19940,7 +19944,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
- [302]
+ [304]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -19969,7 +19973,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 106.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 107.
- [303]
+ [305]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 112.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20031,7 +20035,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
- [304]
+ [306]
 Package mdframed Info: mdframed works in twoside mode on input line 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
@@ -20163,7 +20167,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 76.
- [305]
+ [307]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20264,7 +20268,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 113.
 )
 (../../content/turing-machines/../../content/turing-machines/undecidability/dec
-ision-problem.tex [306]
+ision-problem.tex [308]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 21.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20315,7 +20319,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
 )
 (../../content/turing-machines/../../content/turing-machines/undecidability/rep
-resenting-tms.tex [307]
+resenting-tms.tex [309]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 20.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20389,7 +20393,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 60.
- [308]
+ [310]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 64.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20464,7 +20468,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
- [309]
+ [311]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 102.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20581,7 +20585,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 151.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 151.
- [310]
+ [312]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 155.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -20664,7 +20668,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 188.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 191.
- [311]
+ [313]
 Package mdframed Info: mdframed works in twoside mode on input line 195.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 196.
@@ -20807,7 +20811,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 57.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 57.
- [312]
+ [314]
 Package mdframed Info: mdframed works in twoside mode on input line 61.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 61.
@@ -20880,7 +20884,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 90.
- [313]
+ [315]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 94.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21076,7 +21080,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 168.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 168.
- [314]
+ [316]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 168.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21119,7 +21123,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 186.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 187.
- [315]
+ [317]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 191.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21250,7 +21254,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 231.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 231.
- [316]
+ [318]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 231.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21435,7 +21439,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 304.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 304.
- [317]
+ [319]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 304.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21552,7 +21556,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 37.
- [318]
+ [320]
 Package mdframed Info: mdframed works in twoside mode on input line 39.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 44.
@@ -21637,7 +21641,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 88.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 89.
- [319])
+ [321])
 (../../content/turing-machines/../../content/turing-machines/undecidability/tra
 khtenbrot.tex
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21742,7 +21746,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 51.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 51.
- [320]
+ [322]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 54.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -21853,7 +21857,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
- [321]
+ [323]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 101.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22021,7 +22025,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 162.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 163.
- [322]
+ [324]
 Package mdframed Info: mdframed works in twoside mode on input line 170.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 171.
@@ -22106,7 +22110,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 220.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 225.
-) (include/summary-15.tex [323]
+) (include/summary-15.tex [325]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 11.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22129,7 +22133,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 26.
-) (slc-screen.prb [324]
+) (slc-screen.prb [326]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22206,7 +22210,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 56.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 58.
- [325]
+ [327]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 62.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22221,21 +22225,21 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 70.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
-))) [326] [327
+))) [328] [329
 
 ]
-<illustrations/NoetherChapter.png, id=4004, 356.7729pt x 382.0674pt>
+<illustrations/NoetherChapter.png, id=4012, 356.7729pt x 382.0674pt>
 File: illustrations/NoetherChapter.png Graphic file (type png)
 <use illustrations/NoetherChapter.png>
 Package pdftex.def Info: illustrations/NoetherChapter.png  used on input line 5
 9.
 (pdftex.def)             Requested size: 300.0pt x 321.28421pt.
- (../../content/methods/proofs/proofs.tex [328 <./illustrations/NoetherChapter.
+ (../../content/methods/proofs/proofs.tex [330 <./illustrations/NoetherChapter.
 png>]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
-(../../content/methods/proofs/introduction.tex [329
+(../../content/methods/proofs/introduction.tex [331
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22251,7 +22255,7 @@ ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 67.
 )
-(../../content/methods/proofs/starting-proofs.tex [330]
+(../../content/methods/proofs/starting-proofs.tex [332]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22259,7 +22263,7 @@ ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 )
-(../../content/methods/proofs/using-definitions.tex [331]
+(../../content/methods/proofs/using-definitions.tex [333]
 Package mdframed Info: mdframed works in twoside mode on input line 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
@@ -22342,7 +22346,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 68.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 68.
- [332]
+ [334]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22409,7 +22413,7 @@ ine 90.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 90.
 )
-(../../content/methods/proofs/inference-patterns.tex [333]
+(../../content/methods/proofs/inference-patterns.tex [335]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 30.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22448,7 +22452,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 47.
- [334]
+ [336]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 50.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22503,7 +22507,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 87.
- [335]
+ [337]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 99.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22568,7 +22572,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 124.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 124.
- [336]
+ [338]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22705,7 +22709,7 @@ ine 184.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 185.
 
-[337]
+[339]
 Package mdframed Info: mdframed works in twoside mode on input line 192.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 192.
@@ -22775,7 +22779,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 214.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 216.
- [338]
+ [340]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 219.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22837,7 +22841,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 261.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 262.
- [339]
+ [341]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 265.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -22904,7 +22908,7 @@ ine 295.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 295.
 Package mdframed Info: Not enough space on this page on input line 296.
- [340]
+ [342]
 Package mdframed Info: Not enough space on this page on input line 296.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 299.
@@ -23018,7 +23022,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 342.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 342.
- [341]
+ [343]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 345.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23084,7 +23088,7 @@ ine 44.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 45.
 
-[342]
+[344]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23167,7 +23171,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 82.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 82.
- [343]
+ [345]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 86.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23222,7 +23226,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 109.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 111.
- [344]
+ [346]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 117.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23285,7 +23289,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 149.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 150.
- [345]
+ [347]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 154.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23350,7 +23354,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
- [346]
+ [348]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23436,7 +23440,7 @@ ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 71.
 
-[347]
+[349]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 73.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23538,7 +23542,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
- [348]
+ [350]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 31.
@@ -23580,7 +23584,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 59.
- [349]
+ [351]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 61.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23648,7 +23652,7 @@ ine 102.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 
-[350]
+[352]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 106.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23704,7 +23708,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 139.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 139.
- [351]
+ [353]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 141.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23793,7 +23797,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 191.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 192.
- [352]
+ [354]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 197.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -23872,7 +23876,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
- [353]
+ [355]
 Package mdframed Info: Not enough space on this page on input line 26.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
@@ -23971,7 +23975,7 @@ ine 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
 
-[354]
+[356]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 84.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24028,7 +24032,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 96.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 97.
-) (../../content/methods/proofs/cant-do-it.tex [355] [356])
+) (../../content/methods/proofs/cant-do-it.tex [357] [358])
 (../../content/methods/proofs/resources.tex
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
 0.
@@ -24052,7 +24056,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 5.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 8.
- [357]
+ [359]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 11.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24071,7 +24075,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 19.
-)) (../../content/methods/induction/induction.tex [358]
+)) (../../content/methods/induction/induction.tex [360]
 Output from handle slc-screen going to slc-screen.prb
 \openout9 = `slc-screen.prb'.
 
@@ -24082,7 +24086,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
- [359
+ [361
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24205,7 +24209,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
-[360]
+[362]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 38.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24305,7 +24309,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 74.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 75.
- [361]
+ [363]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24483,7 +24487,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 118.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 119.
- [362]
+ [364]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24592,7 +24596,7 @@ ine 31.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 32.
 
-[363]
+[365]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24680,7 +24684,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 28.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
- [364]
+ [366]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 34.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24731,7 +24735,7 @@ ine 71.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 78.
 
-[365]
+[367]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 83.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24879,7 +24883,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 126.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 126.
- [366]
+ [368]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 128.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -24935,7 +24939,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 29.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 33.
- [367]
+ [369]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 35.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -25030,7 +25034,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 77.
 Package mdframed Info: Not enough space on this page on input line 78.
 
-[368]
+[370]
 Package mdframed Info: Not enough space on this page on input line 78.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 81.
@@ -25151,7 +25155,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 17.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 18.
- [369]
+ [371]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 22.
@@ -25311,7 +25315,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
- [370]
+ [372]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 79.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -25417,7 +25421,7 @@ ine 122.
 Package mdframed Info: You first box width is to small
  mdframed fixed it
 (mdframed)              on input line 123.
- [371]
+ [373]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 133.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -25599,7 +25603,7 @@ ine 166.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 166.
 
-[372]
+[374]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 166.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -25651,9 +25655,9 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 24.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
-)) [373]
+)) [375]
 (../../content/history/biographies/georg-cantor.tex
-<../../assets/photos/cantor-georg/cantor-georg-small.png, id=4351, 72.27pt x 11
+<../../assets/photos/cantor-georg/cantor-georg-small.png, id=4358, 72.27pt x 11
 3.223pt>
 File: ../../assets/photos/cantor-georg/cantor-georg-small.png Graphic file (typ
 e png)
@@ -25665,11 +25669,11 @@ g  used on input line 14.
 (../../assets/photos/cantor-georg/cantor-georg-credit.tex)
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 15.
- [374
+ [376
 
  <../../assets/photos/cantor-georg/cantor-georg-small.png (PNG copy)>])
 (../../content/history/biographies/alonzo-church.tex
-<../../assets/photos/church-alonzo/church-alonzo-small.png, id=4361, 72.27pt x 
+<../../assets/photos/church-alonzo/church-alonzo-small.png, id=4369, 72.27pt x 
 89.3739pt>
 File: ../../assets/photos/church-alonzo/church-alonzo-small.png Graphic file (t
 ype png)
@@ -25683,9 +25687,9 @@ Underfull \hbox (badness 4168) in paragraph at lines 15--26
 \T1/Baskervaldx-TOsF/m/n/10.95 hed pre-pa-ra-to-ry school in
  []
 
-[375 <../../assets/photos/church-alonzo/church-alonzo-small.png (PNG copy)>])
+[377 <../../assets/photos/church-alonzo/church-alonzo-small.png (PNG copy)>])
 (../../content/history/biographies/gerhard-gentzen.tex
-<../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png, id=4377, 72.27p
+<../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png, id=4385, 72.27p
 t x 58.0569pt>
 File: ../../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png Graphic fil
 e (type png)
@@ -25694,10 +25698,10 @@ Package pdftex.def Info: ../../assets/photos/gentzen-gerhard/gentzen-gerhard-sm
 all.png  used on input line 14.
 (pdftex.def)             Requested size: 134.99908pt x 108.4551pt.
 
-(../../assets/photos/gentzen-gerhard/gentzen-gerhard-credit.tex) [376] [377 <..
+(../../assets/photos/gentzen-gerhard/gentzen-gerhard-credit.tex) [378] [379 <..
 /../assets/photos/gentzen-gerhard/gentzen-gerhard-small.png (PNG copy)>])
 (../../content/history/biographies/kurt-goedel.tex
-<../../assets/photos/goedel-kurt/goedel-kurt-small.png, id=4399, 36.135pt x 54.
+<../../assets/photos/goedel-kurt/goedel-kurt-small.png, id=4406, 36.135pt x 54.
 4434pt>
 File: ../../assets/photos/goedel-kurt/goedel-kurt-small.png Graphic file (type 
 png)
@@ -25724,9 +25728,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--26
 
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting on input line 35.
-[378 <../../assets/photos/goedel-kurt/goedel-kurt-small.png (PNG copy)>]
-[379]) (../../content/history/biographies/emmy-noether.tex
-<../../assets/photos/noether-emmy/noether-emmy-small.png, id=4432, 54.2025pt x 
+[380 <../../assets/photos/goedel-kurt/goedel-kurt-small.png (PNG copy)>]
+[381]) (../../content/history/biographies/emmy-noether.tex
+<../../assets/photos/noether-emmy/noether-emmy-small.png, id=4439, 54.2025pt x 
 82.74915pt>
 File: ../../assets/photos/noether-emmy/noether-emmy-small.png Graphic file (typ
 e png)
@@ -25735,7 +25739,7 @@ Package pdftex.def Info: ../../assets/photos/noether-emmy/noether-emmy-small.pn
 g  used on input line 14.
 (pdftex.def)             Requested size: 134.99908pt x 206.15387pt.
 
-(../../assets/photos/noether-emmy/noether-emmy-credit.tex) [380 <../../assets/p
+(../../assets/photos/noether-emmy/noether-emmy-credit.tex) [382 <../../assets/p
 hotos/noether-emmy/noether-emmy-small.png (PNG copy)>]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 46.
@@ -25743,9 +25747,9 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 53.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 53.
- [381])
+ [383])
 (../../content/history/biographies/bertrand-russell.tex
-<../../assets/photos/russell-bertrand/russell-bertrand-small.png, id=4456, 36.1
+<../../assets/photos/russell-bertrand/russell-bertrand-small.png, id=4464, 36.1
 35pt x 53.2389pt>
 File: ../../assets/photos/russell-bertrand/russell-bertrand-small.png Graphic f
 ile (type png)
@@ -25759,9 +25763,9 @@ Underfull \hbox (badness 4699) in paragraph at lines 15--20
 []\T1/Baskervaldx-TOsF/m/n/10.95 Bertrand Rus-sell is hai-led
  []
 
-[382 <../../assets/photos/russell-bertrand/russell-bertrand-small.png (PNG copy
-)>] [383]) (../../content/history/biographies/alfred-tarski.tex
-<../../assets/photos/tarski-alfred/tarski-alfred-small.png, id=4486, 27.10126pt
+[384 <../../assets/photos/russell-bertrand/russell-bertrand-small.png (PNG copy
+)>] [385]) (../../content/history/biographies/alfred-tarski.tex
+<../../assets/photos/tarski-alfred/tarski-alfred-small.png, id=4493, 27.10126pt
  x 38.75479pt>
 File: ../../assets/photos/tarski-alfred/tarski-alfred-small.png Graphic file (t
 ype png)
@@ -25775,9 +25779,9 @@ Underfull \hbox (badness 4024) in paragraph at lines 15--21
 \T1/Baskervaldx-TOsF/m/n/10.95 Ja-nu-a-ry 14, 1901 in War-
  []
 
-[384 <../../assets/photos/tarski-alfred/tarski-alfred-small.png (PNG copy)>])
+[386 <../../assets/photos/tarski-alfred/tarski-alfred-small.png (PNG copy)>])
 (../../content/history/biographies/alan-turing.tex
-<../../assets/photos/turing-alan/turing-alan-small.png, id=4497, 301.125pt x 39
+<../../assets/photos/turing-alan/turing-alan-small.png, id=4504, 301.125pt x 39
 5.4775pt>
 File: ../../assets/photos/turing-alan/turing-alan-small.png Graphic file (type 
 png)
@@ -25786,7 +25790,7 @@ Package pdftex.def Info: ../../assets/photos/turing-alan/turing-alan-small.png
  used on input line 22.
 (pdftex.def)             Requested size: 134.99908pt x 177.30547pt.
 
-(../../assets/photos/turing-alan/turing-alan-credit.tex) [385]
+(../../assets/photos/turing-alan/turing-alan-credit.tex) [387]
 Underfull \hbox (badness 5878) in paragraph at lines 32--43
 \T1/Baskervaldx-TOsF/m/n/10.95 ned pre-va-lent. His prac-ti-
  []
@@ -25796,9 +25800,9 @@ Underfull \hbox (badness 5077) in paragraph at lines 32--43
 \T1/Baskervaldx-TOsF/m/n/10.95 Na-val communications---the
  []
 
-[386 <../../assets/photos/turing-alan/turing-alan-small.png (PNG copy)>])
+[388 <../../assets/photos/turing-alan/turing-alan-small.png (PNG copy)>])
 (../../content/history/biographies/ernst-zermelo.tex
-<../../assets/photos/zermelo-ernst/zermelo-ernst-small.png, id=4517, 54.2025pt 
+<../../assets/photos/zermelo-ernst/zermelo-ernst-small.png, id=4525, 54.2025pt 
 x 78.95497pt>
 File: ../../assets/photos/zermelo-ernst/zermelo-ernst-small.png Graphic file (t
 ype png)
@@ -25807,8 +25811,8 @@ Package pdftex.def Info: ../../assets/photos/zermelo-ernst/zermelo-ernst-small.
 png  used on input line 14.
 (pdftex.def)             Requested size: 134.99908pt x 196.70142pt.
 
-(../../assets/photos/zermelo-ernst/zermelo-ernst-credit.tex) [387])
-(../../content/reference/greek-alphabet/greek-alphabet.tex [388 <../../assets/p
+(../../assets/photos/zermelo-ernst/zermelo-ernst-credit.tex) [389])
+(../../content/reference/greek-alphabet/greek-alphabet.tex [390 <../../assets/p
 hotos/zermelo-ernst/zermelo-ernst-small.png (PNG copy)>]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 12.
@@ -25909,7 +25913,7 @@ ine 35.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 36.
 ) (slc-screen.gls
-[389
+[391
 
 ]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -25962,7 +25966,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 25.
- [390
+ [392
 
 
 ]
@@ -26036,7 +26040,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 48.
- [391]
+ [393]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 52.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26073,7 +26077,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 65.
- [392]
+ [394]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 67.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26142,7 +26146,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 92.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 92.
- [393]
+ [395]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 97.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26223,7 +26227,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 125.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 125.
- [394]
+ [396]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 127.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26278,7 +26282,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 154.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 154.
- [395]
+ [397]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 156.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26339,7 +26343,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 178.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 178.
-) [396] (slc-screen.pcr
+) [398] (slc-screen.pcr
 LaTeX Font Info:    Trying to load font information for OMS+Baskervaldx-TOsF on
  input line 2.
 LaTeX Font Info:    No file OMSBaskervaldx-TOsF.fd. on input line 2.
@@ -26348,20 +26352,20 @@ LaTeX Font Info:    No file OMSBaskervaldx-TOsF.fd. on input line 2.
 LaTeX Font Warning: Font shape `OMS/Baskervaldx-TOsF/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead on input line 2.
 
-[397
+[399
 
-]) [398]
+]) [400]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
- [399
+ [401
 
 ]
 
-LaTeX Warning: Citation 'Frege1953' on page 400 undefined on input line 104.
+LaTeX Warning: Citation 'Frege1953' on page 402 undefined on input line 104.
 
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
@@ -26371,7 +26375,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
-[400]
+[402]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26401,7 +26405,7 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
-[401]
+[403]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -26412,16 +26416,16 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
- [402]
+ [404]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 104.
-) (../../content/open-logic-about.tex [403])
+) (../../content/open-logic-about.tex [405])
 \tf@thm=\write11
 \openout11 = `slc-screen.thm'.
 
- [404
+ [406
 
 ]
 \tf@toc=\write12
@@ -26451,10 +26455,10 @@ Package logreq Info: Writing requests to 'slc-screen.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 76912 strings out of 478354
- 1718673 string characters out of 2837118
- 2195966 words of memory out of 3000000
- 90809 multiletter control sequences out of 15000+600000
+ 76913 strings out of 478354
+ 1718668 string characters out of 2837118
+ 2196033 words of memory out of 3000000
+ 90808 multiletter control sequences out of 15000+600000
  755925 words of font info for 390 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  297i,20n,276p,1659b,3841s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -26597,9 +26601,9 @@ iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/foels/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/foels/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/foels/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/boondox/zxxrw8a.pfb>
-Output written on slc-screen.pdf (425 pages, 4759615 bytes).
+Output written on slc-screen.pdf (427 pages, 4761818 bytes).
 PDF statistics:
- 6184 PDF objects out of 6186 (max. 8388607)
- 2453 named destinations out of 2487 (max. 500000)
+ 6193 PDF objects out of 7423 (max. 8388607)
+ 2455 named destinations out of 2487 (max. 500000)
  1878 words of extra memory for PDF output out of 10000 (max. 10000000)
 
