@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  10 JUL 2022 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.15)  25 JUL 2022 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3668,9 +3668,16 @@ functions/partial-functions.tex
 Package mdframed Info: mdframed works in twoside mode on input line 21.
  [44]
 Package mdframed Info: mdframed works in twoside mode on input line 50.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+[]\T1/Baskervaldx-TOsF/m/n/10.95 Sei
+ []
+
 Package mdframed Info: mdframed works in twoside mode on input line 59.
-) (include/summary-3.tex [45])
-(slc-screen.prb [46]))
+
+LaTeX Warning: Command \" invalid in math mode on input line 68.
+
+) (include/summary-3.tex [45]) (slc-screen.prb [46]))
 (../../content/sets-functions-relations/../../content/sets-functions-relations/
 size-of-sets/size-of-sets.tex [47]
 Overfull \hbox (35.85185pt too wide) in paragraph at lines 8--8
@@ -26446,9 +26453,6 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                slc-screen
 (biblatex)                and rerun LaTeX afterwards.
@@ -26458,10 +26462,10 @@ Package logreq Info: Writing requests to 'slc-screen.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 76913 strings out of 478354
- 1718668 string characters out of 2837118
- 2196033 words of memory out of 3000000
- 90808 multiletter control sequences out of 15000+600000
+ 76914 strings out of 478354
+ 1718693 string characters out of 2837118
+ 2196084 words of memory out of 3000000
+ 90809 multiletter control sequences out of 15000+600000
  755925 words of font info for 390 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  297i,20n,276p,1659b,3841s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -26604,7 +26608,7 @@ iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/foels/AppData/Local/Program
 s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/foels/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/foels/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/boondox/zxxrw8a.pfb>
-Output written on slc-screen.pdf (427 pages, 4762141 bytes).
+Output written on slc-screen.pdf (427 pages, 4762910 bytes).
 PDF statistics:
  6193 PDF objects out of 7423 (max. 8388607)
  2455 named destinations out of 2487 (max. 500000)

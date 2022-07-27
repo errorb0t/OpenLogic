@@ -1,26 +1,21 @@
- \renewcommand*{\probch}{B} \setcounter{probd}{0}
-\begin{probdeferred}{B.4}
-  Define the set of supernice terms by
-  \begin{enumerate}
-  \item Any letter $\mathrm{a}$, $\mathrm{b}$, $\mathrm{c}$,
-    $\mathrm{d}$ is a supernice term.
-  \item If $s$ is a supernice term, then so is $[s]$.
-  \item If $s_1$ and $s_2$ are supernice terms, then so
-    is $[s_1 \circ s_2]$.
-  \item Nothing else is a supernice term.
-  \end{enumerate}
-  Show that the number of $[$ in a supernice term~$t$ of length~$n$ is
-    $\le n/2 +1$.
+ \renewcommand*{\probch}{14} \setcounter{probd}{0}
+\begin{probdeferred}{14.2}
+Choose an arbitary input and trace through the configurations of the
+doubler machine in \olref[tur][mac][rep]{ex:doubler}.
 \end{probdeferred}
-\begin{probdeferred}{B.5}
-  Prove by structural induction that no nice term starts with~$]$.
+\begin{probdeferred}{14.2}
+Design a Turing-machine with alphabet $\{\TMendtape,\TMblank, A, B\}$
+that accepts, i.e., halts on, any string of $A$'s and $B$'s where the
+number of $A$'s is the same as the number of $B$'s \emph{and} all the
+$A$'s precede all the $B$'s, and rejects, i.e., does not halt on, any
+string where the number of $A$'s is not equal to the number of~$B$'s or
+the $A$'s do not precede all the~$B$'s. (E.g., the machine should accept
+$AABB$, and $AAABBB$, but reject both $AAB$ and $AABBAABB$.)
 \end{probdeferred}
-\begin{probdeferred}{B.6}
-  Give an inductive definition of the function $l$, where $l(t)$ is
-  the number of symbols in the nice term~$t$.
+\begin{probdeferred}{14.2}
+Design a Turing-machine with alphabet $\{\TMendtape,\TMblank, A, B\}$
+that takes as input any string $\alpha$ of $A$'s and $B$'s and
+duplicates them to produce an output of the form $\alpha\alpha$. (E.g.
+input $ABBA$ should result in output $ABBAABBA$).
 \end{probdeferred}
-\begin{probdeferred}{B.6}
-  Prove by structural induction on nice terms $t$ that $f(t) < l(t)$ (where
-  $l(t)$ is the number of symbols in~$t$ and $f(t)$ is the depth of
-  $t$ as defined in \olref[mth][ind][rel]{defn:depth}).
-\end{probdeferred}
+\b

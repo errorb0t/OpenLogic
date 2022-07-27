@@ -1,6 +1,6 @@
-% Part: sets-functions-relations
-% Chapter: functions
-% Section: partial-functions
+% Teil: Mengen-Funktionen-Beziehungen
+% Kapitel: Funktionen
+% Abschnitt: partial-functions
 
 \documentclass[../../../include/open-logic-section]{subfiles}
 
@@ -9,67 +9,68 @@
 
 \olfileid{sfr}{fun}{par}
 
-\olsection{Partial Functions}
+\olsection{Partielle Funktionen}
 
 \begin{explain}
-It is sometimes useful to relax the definition of function so that it
-is not required that the output of the function is defined for all
-possible inputs. Such mappings are called \emph{partial functions}.
+Manchmal ist es sinnvoll, die Definition einer Funktion so zu lockern,
+dass die Ausgabe der Funktion nicht für \emph{alle} möglichen
+möglichen Eingaben definiert sein muss. Solche Zuordnungen werden \emph{partielle Funktionen} genannt.
 \end{explain}
 
 \begin{defn}
-A \emph{partial function} $f \colon A \pto B$ is a mapping which
-assigns to every !!{element} of~$A$ at most one !!{element} of~$B$.
-If $f$ assigns an element of~$B$ to $x \in A$, we say $f(x)$ is
-\emph{defined}, and otherwise \emph{undefined}. If $f(x)$ is defined,
-we write $f(x) \fdefined$, otherwise $f(x) \fundefined$. The
-\emph{domain} of a partial function~$f$ is the subset of~$A$ where it
-is defined, i.e., $\dom{f} = \Setabs{x \in A}{f(x) \fdefined}$.
+Eine \emph{partielle Funktion} $f \colon A \pto B$ ist eine Abbildung, die
+jedem Element von~$A$ höchstens ein Element von~$B$ zuordnet.
+Wenn $f$ ein Element von~$B$ zu $x \in A$ zuordnet, nennt man $f(x)$
+\emph{definiert}, und andernfalls \emph{undefiniert}. Wenn $f(x)$ definiert ist,
+schreiben wir $f(x) \fdefined$, andernfalls $f(x) \fundefined$. Der
+\emph{Definitionsbereich} einer Teilfunktion~$f$ ist die Teilmenge von~$A$, in der sie
+definiert ist, d.h. $\dom{f} = \Setabs{x \in A}{f(x) \fdefined}$.
 \end{defn}
 
 \begin{ex}
-Every function $f\colon A \to B$ is also a partial function. Partial
-functions that are defined everywhere on~$A$---i.e., what we so far
-have simply called a function---are also called \emph{total}
-functions.
+Jede Funktion $f \colon A \to B$ ist auch eine partielle Funktion. Partielle
+Funktionen, die überall auf~$A$ definiert sind---also das, was wir bisher
+einfach eine Funktion genannt haben---werden auch \emph{total}
+genannt.
 \end{ex}
 
 \begin{ex}
-The partial function $f \colon \Real \pto \Real$ given by $f(x) = 1/x$
-is undefined for $x = 0$, and defined everywhere else.
+Die Teilfunktion $f \colon \Real \pto \Real$, gegeben durch $f(x) = 1/x$,
+ist für $x = 0$ undefiniert, und sonst überall definiert.
 \end{ex}
 
 \begin{prob}
-Given $f\colon A \pto B$, define the partial function $g\colon B \pto
-A$ by: for any $y \in B$, if there is a unique $x \in A$ such that
-$f(x) = y$, then $g(y) = x$; otherwise $g(y) \fundefined$.  Show that
-if $f$ is injective, then $g(f(x)) = x$ for all $x \in \dom{f}$, and
-$f(g(y)) = y$ for all $y \in \ran{f}$.
+Definiere für $f\colon A \pto B$ die Teilfunktion $g\colon B \pto
+A$ durch folgende Vorschrift: für jedes $y \in B$, falls es ein eindeutiges $x \in A$ gibt,
+so dass $f(x) = y$, setze $g(y) = x$; andernfalls $g(y) \fundefined$.  Zeigen Sie, dass
+wenn $f$ injektiv ist, dann $g(f(x)) = x$ für alle $x \in \dom{f}$, und
+$f(g(y)) = y$ für alle $y \in \ran{f}$.
 \end{prob}
 
-\begin{defn}[Graph of a partial function]
-Let $f\colon A \pto B$ be a partial function. The \emph{graph} of~$f$
-is the relation $R_f \subseteq A \times B$ defined by
+\begin{defn}[Graph einer partiellen Funktion]
+Sei $f\colon A \pto B$ eine Teilfunktion. Der \emph{Graph} von~$f$
+ist die Relation $R_f \subseteq A \times B$, definiert durch
 \[
 R_f = \Setabs{\tuple{x,y}}{f(x) = y}.
 \]
 \end{defn}
 
 \begin{prop}
-Suppose $R \subseteq A \times B$ has the property that whenever $Rxy$
-and $Rxy'$ then $y = y'$.  Then $R$ is the graph of the partial
-function $f\colon X \pto Y$ defined by: if there is a $y$ such that
-$Rxy$, then $f(x) = y$, otherwise $f(x) \fundefined$.  If $R$ is also
-\emph{serial}, i.e., for each $x \in X$ there is a $y \in Y$ such that
-$Rxy$, then $f$ is total.
+Angenommen, $R \subseteq A \times B$ hat die Eigenschaft, dass immer dann, wenn $Rxy$
+und $Rxy'$ dann $y = y'$.  Dann ist $R$ der Graph der partiellen
+Funktion $f\colon X \pto Y$, definiert durch: Wenn es ein $y$ gibt, das so ist, dass
+$Rxy$, dann ist $f(x) = y$, andernfalls $f(x) \fundefined$.  Wenn für $R$ auch gilt,
+dass es für jedes $x \in X$ ein $y \in Y$ gibt, so dass
+$Rxy$, dann ist $f$ total.
 \end{prop}
 
 \begin{proof}
-Suppose there is a $y$ such that $Rxy$.  If there were another $y'
-\neq y$ such that $Rxy'$, the condition on $R$ would be
-violated. Hence, if there is a $y$ such that $Rxy$, that $y$ is
-unique, and so $f$ is well-defined.  Obviously, $R_f = R$ and $f$ is
-total if~$R$ is serial.
+Angenommen, es gibt ein $y$, für das $Rxy$ gilt.  Wenn es ein anderes $y' gäbe
+\neq y$, so dass $Rxy'$, wäre die Bedingung für $R$
+verletzt. Wenn es also ein $y$ gibt, für das $Rxy$ gilt, dann ist dieses $y$
+eindeutig, und somit ist $f$ wohldefiniert.  Offensichtlich ist $R_f = R$ und $f$ ist
+total, wenn es für jedes $x \in X$ ein $y \in Y$ gibt, so dass
+$Rxy$ ist.
 \end{proof}
 
 \end{document}
