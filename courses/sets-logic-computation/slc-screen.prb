@@ -18,4 +18,77 @@ that takes as input any string $\alpha$ of $A$'s and $B$'s and
 duplicates them to produce an output of the form $\alpha\alpha$. (E.g.
 input $ABBA$ should result in output $ABBAABBA$).
 \end{probdeferred}
-\b
+\begin{probdeferred}{14.2}
+\emph{Alphabetical?:} Design a Turing-machine with alphabet
+$\{\TMendtape,\TMblank, A, B\}$ that when given as input a finite
+sequence of $A$'s and $B$'s checks to see if all the $A$'s appear to
+the left of all the $B$'s or not. The machine should leave the input
+string on the tape, and either halt if the string is
+``alphabetical'', or loop forever if the string is not.
+\end{probdeferred}
+\begin{probdeferred}{14.2}
+\emph{Alphabetizer:} Design a Turing-machine with alphabet
+$\{\TMendtape,\TMblank, A, B\}$ that takes as input a finite sequence
+of $A$'s and $B$'s rearranges them so that all the $A$'s are to the
+left of all the~$B$'s. (e.g., the sequence $BABAA$ should become the
+sequence $AAABB$, and the sequence $ABBABB$ should become the sequence
+$AABBBB$).
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+  Give a definition for when a Turing machine~$M$ computes the
+  function $f\colon \Nat^k \to \Nat^m$.
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+Trace through the configurations of the machine from
+\olref[tur][mac][una]{ex:adder} for input~$\tuple{3,2}$. What happens
+if the machine computes $0+0$?
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+In \olref[tur][mac][una]{ex:mover} we described a machine consisting
+of a combination of the doubler machine from
+\olref[tur][mac][una]{fig:doubler-disc} and the mover machine from
+\olref[tur][mac][una]{fig:mover}. What happens if you start this
+combined machine on input~$x=0$, i.e., on an empty tape?  How would
+you fix the machine so that in this case the machine halts with
+output~$2x=0$? (You should be able to do this by adding one state and
+one transition.)
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+\emph{Subtraction:} Design a Turing machine that when given an input
+of two non-empty strings of strokes of length $n$ and~$m$, where $n >
+m$, computes the function $f(n,m) = n - m$.
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+\emph{Equality:} Design a Turing machine to compute the following function:
+\[
+\fn{equality}(n,m) =
+\begin{cases}
+  \text{1} & \text{if~$n = m$} \\
+  \text{0} & \text{if~$n \neq m$}
+\end{cases}
+\]
+where~$n$ and~$m \in \PosInt$.
+\end{probdeferred}
+\begin{probdeferred}{14.5}
+Design a Turing machine to compute the function $\min(x,y)$ where $x$
+and $y$ are positive integers represented on the tape by strings of
+$\TMstroke$'s separated by a $\TMblank$. You may use additional
+symbols in the alphabet of the machine.
+
+The function $\min$ selects the smallest value from its arguments, so
+$\min(3,5)=3$, $\min(20,16)=16$, and $\min(4,4)=4$, and so on.
+\end{probdeferred}
+\begin{probdeferred}{14.7}
+\label{tur:mac:dis:prob:disc-succ}
+Give a disciplined machine that computes $f(x) = x+1$.
+\end{probdeferred}
+\begin{probdeferred}{14.7}
+\label{tur:mac:dis:prob:copier}
+Find a disciplined machine which, when started on input $\TMstroke^n$
+produces output $\TMstroke^n \concat \TMblank \concat \TMstroke^n$.
+\end{probdeferred}
+\begin{probdeferred}{14.8}
+    Give a disciplined Turing machine computing $f(x) = x+2$ by taking
+    the machine~$M$ from \cref{tur:mac:dis:prob:disc-succ} and
+    construct $M \frown M$.
+\end{probdeferred}
